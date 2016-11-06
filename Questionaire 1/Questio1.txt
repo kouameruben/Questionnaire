@@ -1,0 +1,1723 @@
+A-1-organisation-apport-financier
+A.1.    Est-ce que votre organisation apporte un appui financier pour l'achat des catégories de produits ci-dessous  ?
+
+
+A-1-organisation-apport-financier	Nb. cit.	Fréq.
+oui	1	100%
+non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_ARVsP
+a.Antirétroviraux (ARVs) pédiatrique
+
+
+finance_ARVsP	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financementARVsP
+Budget en USD  pour 2015
+
+
+budget2015_financementARVsP	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier_ARVsP
+Nature de l'appui financier
+
+
+Nature de l'appui financier_ARVsP	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_ARVsA
+b.Antirétoviraux (ARVs) adultes
+
+
+finance_ARVsA	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financementARVsA
+Budget en USD  pour 2015
+
+
+budget2015_financementARVsA	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier ARVsA
+Nature de l'appui financier
+
+
+Nature de l'appui financier ARVsA	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_ARVsPTME
+c.Antirétoviraux (ARVs) PTME
+
+
+finance_ARVsPTME	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financementARVsPTME
+Budget en USD  pour 2015
+
+
+budget2015_financementARVsPTME	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier ARVs PTME
+Nature de l'appui financier
+
+
+Nature de l'appui financier ARVs PTME	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_IO
+d.Médicaments contre les infections opportunistes (IO)
+
+
+finance_IO	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_IO
+Budget en USD  pour 2015
+
+
+budget2015_financement_IO	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier IO
+Nature de l'appui financier
+
+
+Nature de l'appui financier IO	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_ACT
+e.Combinaisons à base d'artémisine (ACT)
+
+
+finance_ACT	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_ACT
+Budget en USD  pour 2015
+
+
+budget2015_financement_ACT	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier ACT
+Nature de l'appui financier
+
+
+Nature de l'appui financier ACT	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_KIT PALUDISME GRAVE
+f.KIT PALUDISME GRAVE ( protocole en virgeur en Côte d'Ivoire )
+
+
+finance_KIT PALUDISME GRAVE	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_KIT PALUDISME GR
+Budget en USD  pour 2015
+
+
+budget2015_financement_KIT PALUDISME GR	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier KIT PALUDIS
+Nature de l'appui financier
+
+
+Nature de l'appui financier KIT PALUDIS	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_SP
+g.Sulfadoxine Pyriméthamine (SP)
+
+
+finance_SP	Nb. cit.	Fréq.
+oui	1	100%
+non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_SP
+Budget en USD  pour 2015
+
+
+budget2015_financement_SP	Nb. cit.	Fréq.
+val = 404484	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 404484, Maximum = 404484
+Somme = 404484
+Moyenne = 404484,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+Nature de l'appui financier_SP
+Nature de l'appui financier
+
+
+Nature de l'appui financier_SP	Nb. cit.	Fréq.
+Dons	1	100%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_TB
+h.Antituberculeux (TB)
+
+
+finance_TB	Nb. cit.	Fréq.
+Non réponse	1	100%
+oui	0	0,0%
+non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_TB
+Budget en USD  pour 2015
+
+
+budget2015_financement_TB	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier_TB
+Nature de l'appui financier
+
+
+Nature de l'appui financier_TB	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_SR
+i.Produits SR  ( Contraceptifs )
+
+
+finance_SR	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_SR
+Budget en USD  pour 2015
+
+
+budget2015_financement_SR	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier_SR
+Nature de l'appui financier
+
+
+Nature de l'appui financier_SR	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_PEV
+j.Vaccins du PEV
+
+
+finance_PEV	Nb. cit.	Fréq.
+Non réponse	1	100%
+oui	0	0,0%
+non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_PEV
+Budget en USD  pour 2015
+
+
+budget2015_financement_PEV	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier_PEV
+Nature de l'appui financier
+
+
+Nature de l'appui financier_PEV	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_UNLSCo
+13 médicaments prioritaires pour la mère et l'enfant (UNLSCo)
+
+
+finance_UNLSCo	Nb. cit.	Fréq.
+oui	1	100%
+non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_UNLSCo
+Budget en USD  pour 2015
+
+
+budget2015_financement_UNLSCo	Nb. cit.	Fréq.
+val = 250000	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 250000, Maximum = 250000
+Somme = 250000
+Moyenne = 250000,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+Nature de l'appui financier_UNLSCo
+Nature de l'appui financier
+
+
+Nature de l'appui financier_UNLSCo	Nb. cit.	Fréq.
+Dons	1	100%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_MNT
+Médicament MNT (maladie mentale, cancer, diabète, HTA, goutte...)
+
+
+finance_MNT	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_MNT
+Budget en USD  pour 2015
+
+
+budget2015_financement_MNT	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier_MNT
+Nature de l'appui financier
+
+
+Nature de l'appui financier_MNT	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_des_MTN
+Médicament des MTN  (Onchocercose,Schistosomiase,Géohelmintiases,Ulcère de Burili)
+
+
+finance_des_MTN	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_des_MTN
+Budget en USD  pour 2015
+
+
+budget2015_financement_des_MTN	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature de l'appui financier_des_MTN
+Nature de l'appui financier
+
+
+Nature de l'appui financier_des_MTN	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_kit SONU
+Kit SONU (Kit d'accouchement, kit césarienne,... )
+
+
+finance_kit SONU	Nb. cit.	Fréq.
+oui	1	100%
+non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_Kit SONU
+Budget en USD  pour 2015
+
+
+budget2015_financement_Kit SONU	Nb. cit.	Fréq.
+val = 55000	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 55000, Maximum = 55000
+Somme = 55000
+Moyenne = 55000,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+Nature de l'appui financier Kit SONU
+Nature de l'appui financier
+
+
+Nature de l'appui financier Kit SONU	Nb. cit.	Fréq.
+Dons	1	100%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_MILDA
+Moustiquaires imprégnées (MILDA)
+
+
+finance_MILDA	Nb. cit.	Fréq.
+oui	1	100%
+non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_MILDA
+Budget en USD  pour 2015
+
+
+budget2015_financement_MILDA	Nb. cit.	Fréq.
+val = 5000	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 5000, Maximum = 5000
+Somme = 5000
+Moyenne = 5000,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+Nature de l'appui financier MILDA
+Nature de l'appui financier
+
+
+Nature de l'appui financier MILDA	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_MeRCOUVRABLE
+Médicaments essentiels recouvrables
+
+
+finance_MeRCOUVRABLE	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_MeRECOUVRABLE
+Budget en USD  pour 2015
+
+
+budget2015_financement_MeRECOUVRABLE	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature delappui financier MeRECOUVRABLE
+Nature de l'appui financier
+
+
+Nature delappui financier MeRECOUVRABLE	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_MeGRATCIB
+Médicaments essentiels de la gratuité ciblée
+
+
+finance_MeGRATCIB	Nb. cit.	Fréq.
+oui	1	100%
+non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_MeGRATCIB
+Budget en USD  pour 2015
+
+
+budget2015_financement_MeGRATCIB	Nb. cit.	Fréq.
+val = 25000	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 25000, Maximum = 25000
+Somme = 25000
+Moyenne = 25000,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+Nature delappui financier MeGRATCIB
+Nature de l'appui financier
+
+
+Nature delappui financier MeGRATCIB	Nb. cit.	Fréq.
+Dons	1	100%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_DM
+Dispositifs Médicaux (DM)
+
+
+finance_DM	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_DM
+Budget en USD  pour 2015
+
+
+budget2015_financement_DM	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature delappui financier DM
+Nature de l'appui financier
+
+
+Nature delappui financier DM	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_Réactifs
+Réactifs (Test de diagnostic HIV/SIDA, Tests diagnostic palu, etc )
+
+
+finance_Réactifs	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_Réactifs
+Budget en USD  pour 2015
+
+
+budget2015_financement_Réactifs	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature delappui financier Réactifs
+Nature de l'appui financier
+
+
+Nature delappui financier Réactifs	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_CNTS
+Réactifs pour la sécurité du sang (CNTS)
+
+
+finance_CNTS	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_CNTS
+Budget en USD  pour 2015
+
+
+budget2015_financement_CNTS	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature delappui financier CNTS
+Nature de l'appui financier
+
+
+Nature delappui financier CNTS	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_hépatiteB/C
+Médicaments contre l'hépatite B /hépatite C
+
+
+finance_hépatiteB/C	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_hépatiteC/B
+Budget en USD  pour 2015
+
+
+budget2015_financement_hépatiteC/B	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature delappui financier hépatiteB/C
+Nature de l'appui financier
+
+
+Nature delappui financier hépatiteB/C	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_Stupéfiants
+Stupéfiants
+
+
+finance_Stupéfiants	Nb. cit.	Fréq.
+oui	0	0,0%
+non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_Stupéfiants
+Budget en USD  pour 2015
+
+
+budget2015_financement_Stupéfiants	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+Nature delappui financier Stupéfiants
+Nature de l'appui financier
+
+
+Nature delappui financier Stupéfiants	Nb. cit.	Fréq.
+Non réponse	1	100%
+Dons	0	0,0%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_ProNutri
+Produits de nutrition
+
+
+finance_ProNutri	Nb. cit.	Fréq.
+oui	1	100%
+non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+budget2015_financement_ProNutri
+Budget en USD  pour 2015
+
+
+budget2015_financement_ProNutri	Nb. cit.	Fréq.
+val = 365213	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 365213, Maximum = 365213
+Somme = 365213
+Moyenne = 365213,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+Nature delappui financier ProNutri
+Nature de l'appui financier
+
+
+Nature delappui financier ProNutri	Nb. cit.	Fréq.
+Dons	1	100%
+prêt	0	0,0%
+autre	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_appro
+ESt-ce que votre organisation apporte un appui financier pour l'approvisionnement , la gestion et la distribution/dispensation des produits qu'elle finance ?
+
+
+finance_appro	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_Honoraie_agence_dapro
+Honoraires pour l'agence d'approvisionnement
+
+
+finance_Honoraie_agence_dapro	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_budget2015_Horaire_agence_dapro
+Budget en USD pour 2015
+
+
+finance_budget2015_Horaire_agence_dapro	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+finance_frais_de_ges_struc_ges
+Frais de gestion pour les structures chargées de la gestion, distribution,dispensation des produits
+
+
+finance_frais_de_ges_struc_ges	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_budget2015_frais_ges_struc_ges
+Budget en USD pour 2015
+
+
+finance_budget2015_frais_ges_struc_ges	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+finance_Ameliration_des_mag_stockage
+Amélioration des magasins de stockage( rénovation , achat d'équipements de stockage , de frigos , installation de climatisation etc... )
+
+
+finance_Ameliration_des_mag_stockage	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_budget2015_Ameliration_mag_stok
+Budget en USD pour 2015
+
+
+finance_budget2015_Ameliration_mag_stok	Nb. cit.	Fréq.
+val = 1149601	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 1149601, Maximum = 1149601
+Somme = 1149601
+Moyenne = 1149601,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+finance_achat_véhicule_dist
+Achat de véhicules pour la distribution
+
+
+finance_achat_véhicule_dist	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_budget2015_achat_véhicule_dist
+Budget en USD pour 2015
+
+
+finance_budget2015_achat_véhicule_dist	Nb. cit.	Fréq.
+val = 146343	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 146343, Maximum = 146343
+Somme = 146343
+Moyenne = 146343,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+finance_Rémunération_du_personnel
+Rémunération du personnel
+
+
+finance_Rémunération_du_personnel	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_budget2015_remuneration_du_pers
+Budget en USD pour 2015
+
+
+finance_budget2015_remuneration_du_pers	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+finance_Formation_personnel
+Formation du personnel à la gestion
+
+
+finance_Formation_personnel	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_budget2015_formation_personnel
+Budget en USD pour 2015
+
+
+finance_budget2015_formation_personnel	Nb. cit.	Fréq.
+val = 300000	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 300000, Maximum = 300000
+Somme = 300000
+Moyenne = 300000,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+finance_achat_logiciel
+Achat de logiciels pour la quantification et/ou la gestion des stocks et/ou la dispensation etc...
+
+
+finance_achat_logiciel	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+finance_budget2015_achat_logiciel
+Budget en USD pour 2015
+
+
+finance_budget2015_achat_logiciel	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+budget_finance_autre
+Budget en USD pour 2015
+
+
+budget_finance_autre	Nb. cit.	Fréq.
+val = 354321	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 354321, Maximum = 354321
+Somme = 354321
+Moyenne = 354321,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+Selection_Produit_Mon_Organisation
+Mon organisation
+
+
+Selection_Produit_Mon_Organisation	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+Selection_Produit_Un_servicetchMinister
+Un service technique du Ministère de la Santé ?
+
+
+Selection_Produit_Un_servicetchMinister	Nb. cit.	Fréq.
+Non	1	100%
+Oui	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+Selection_Produit_PSN_bénéf_appui
+Le programme de santé national bénéficiant de l'appui ?
+
+
+Selection_Produit_PSN_bénéf_appui	Nb. cit.	Fréq.
+Non	0	0,0%
+Oui	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+Selection_Produit_Cental_dachat_nationa
+La centrale d'achat nationale
+
+
+Selection_Produit_Cental_dachat_nationa	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+Selection_Produit_Organism_et_MS
+Mon organisation avec le ministère de la santé ?
+
+
+Selection_Produit_Organism_et_MS	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+Selection_Produit_Organism_et_PSN
+Mon organisation avec le Programme de santé national ?
+
+
+Selection_Produit_Organism_et_PSN	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+Selection_Produit_Organism_et_CentAcha
+Mon organisation avec la centrale d'achat  ?
+
+
+Selection_Produit_Organism_et_CentAcha	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+selection_prod_organism_LNME
+B.2. La sélection des produits est-elle limitée aux produits de la Liste Nationale des Médicaments Essentiels(LNME) et ou Directive de traitement standard du pays ?
+
+
+selection_prod_organism_LNME	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+respon_quanti_plani_Monorganims
+Mon organisation
+
+
+respon_quanti_plani_Monorganims	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+respon_quanti_plani_STMS
+Un service technique du Ministère de la santé ?
+
+
+respon_quanti_plani_STMS	Nb. cit.	Fréq.
+Non	1	100%
+Oui	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+respon_quantiplani_PN_bénéficiantdappui
+Programme national bénéficiant de l'appui ?
+
+
+respon_quantiplani_PN_bénéficiantdappui	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+respon_quanti_plani_CAN
+La centrale d'achat nationale
+
+
+respon_quanti_plani_CAN	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+respon_quanti_plani_MonOrga_Ms
+Mon organisation avec le Ministère de la Santé
+
+
+respon_quanti_plani_MonOrga_Ms	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+respon_quanti_plani_MonOrga_PSN
+Mon organisation avec le Progamme de  santé national
+
+
+respon_quanti_plani_MonOrga_PSN	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+respon_quanti_plani_MonOrga_CAN
+Mon organisation avec la centrale d'achat
+
+
+respon_quanti_plani_MonOrga_CAN	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+existance_d_structur_pour_quanti_plani
+Existe-il une structure/mécanisme pour la coordination de la quantification/planification des besoins des produits que vous financez , les autres partenaires et le Ministère de la Santé ?
+
+
+existance_d_structur_pour_quanti_plani	Nb. cit.	Fréq.
+Non	0	0,0%
+Oui	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+plan_dappro_annulepour_produits_financé
+Disposez-vous d'un plan d'approvisionnement annuel pour achat des produits que vous financez ?
+
+
+plan_dappro_annulepour_produits_financé	Nb. cit.	Fréq.
+Non	1	100%
+Oui	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+agence_aprovisionnement_STMS
+Un service technique du Ministère de la santé ?
+
+
+agence_aprovisionnement_STMS	Nb. cit.	Fréq.
+NON	1	100%
+OUI	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+agence_aprovisionnement_PSN
+Un programme de santé national
+
+
+agence_aprovisionnement_PSN	Nb. cit.	Fréq.
+NON	1	100%
+OUI	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+agence_aprovisionnement_CAN
+La centrale d'achat nationale
+
+
+agence_aprovisionnement_CAN	Nb. cit.	Fréq.
+NON	1	100%
+OUI	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+agence_aprovisionnement_externe
+Une agence d'approvisionnement externe (UNICEF , IAPSO....)
+
+
+agence_aprovisionnement_externe	Nb. cit.	Fréq.
+NON	0	0,0%
+OUI	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+agence_aprovisionnement_vous_meme
+Vous meme
+
+
+agence_aprovisionnement_vous_meme	Nb. cit.	Fréq.
+NON	0	0,0%
+OUI	1	100%
+TOTAL OBS.	1	100%
+
+
+
+
+explication_du_non_choix_de_CAN
+D.2. Si votre organisation n'utilise pas la centrale d'acaht/importation des produits que vous financez , préciser les raisons de votre choix
+
+
+explication_du_non_choix_de_CAN	Nb. cit.	Fréq.
+Restriction imposée par les procédures financiéres de mon organisation	0	0,0%
+restriction imposée par les procédures d'achat de mon organisation	1	100%
+La centrale d'achat n'a pas les capacités techniques	0	0,0%
+Le délai d'approvionnement de la centrale d'achat est inadéquat	0	0,0%
+Les prix des médicaments de la centrale sont trop élevés	0	0,0%
+Autres	0	0,0%
+TOTAL OBS.	1	100%
+
+
+Le nombre de citations est supérieur au nombre d'observations du fait de réponses multiples (6 au maximum).
+
+
+polotique_dirictive_achat_des_produits
+D.3 Votre organisation ou l'agence d'approvisionnement utilisée dispose-t-elle d'une politique/directive pour l'achat des produits pharmaceutiques ?
+
+
+polotique_dirictive_achat_des_produits	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+qualité_medicam_pré_qualifié_OMS
+Les produits doivent être pré-qualifiés par l'OMS (si applicable: produits SIDA/PALU/TB )
+
+
+qualité_medicam_pré_qualifié_OMS	Nb. cit.	Fréq.
+Oui	0	0,0%
+NON	1	100%
+NSP	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+qualité_medicam_autorité_pays_rigoureux
+Les produits doivent être enregistrés dans un pays dont l'autorité de règlementation est rigoureux (ICH/ICP)
+
+
+qualité_medicam_autorité_pays_rigoureux	Nb. cit.	Fréq.
+Oui	0	0,0%
+NON	1	100%
+NSP	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+qualité_medicam_enregistré_paysbenefi
+Les produits doivent être enregistrés dans le pays bénéficiaire
+
+
+qualité_medicam_enregistré_paysbenefi	Nb. cit.	Fréq.
+Oui	0	0,0%
+NON	1	100%
+NSP	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+controle_qualité_medicament_acheté
+Un côntrole de qualité est-il effectué sur un échantillon des produits achetés?
+
+
+controle_qualité_medicament_acheté	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+lab_controle_qualité_LNCQ
+Laboratoire National de Contrôle qualité
+
+
+lab_controle_qualité_LNCQ	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+NSP	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+lab_controle_qualité_LabOMS
+Un laboratoire pré-qualité de l'OMS
+
+
+lab_controle_qualité_LabOMS	Nb. cit.	Fréq.
+Oui	1	100%
+Non	0	0,0%
+NSP	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+lab_controle_qualité_LabISO
+Un laboratoire ISO17025
+
+
+lab_controle_qualité_LabISO	Nb. cit.	Fréq.
+Oui	0	0,0%
+Non	1	100%
+NSP	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+côntrole_qualité_quantité_testé
+D.7. Nombre de produits testés l'année précédente ?
+
+
+côntrole_qualité_quantité_testé	Nb. cit.	Fréq.
+Non réponse	1	100%
+val = 32767	0	0,0%
+TOTAL OBS.	1	100%
+
+Minimum = #, Maximum = #
+Somme = 0
+Moyenne = -  Ecart-type = -
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+La moyenne et l'écart-type sont calculés sans tenir compte des non-réponses.
+
+
+côntrole_qualité_quantité_non_conforme
+D.8. Nombre de produits non conforme ?
+
+
+côntrole_qualité_quantité_non_conforme	Nb. cit.	Fréq.
+val = 0	1	100%
+TOTAL OBS.	1	100%
+
+Minimum = 0, Maximum = 0
+Somme = 0
+Moyenne = 0,00  Ecart-type = 0,00
+La question est à réponse ouverte numérique. Les observations sont regroupées en 1 classes d'égale amplitude.
+
+
+gestion_stock_par_outils_nationaux
+E.1. Les structures chargées de la gestion et de la distribution des produits que vous financez utilisent-elles les outils de gestion nationaux(fiches de stocks, logiciels,procédures de gestion )
+
+
+gestion_stock_par_outils_nationaux	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+gestionStockParOutils_softwareForquanti
+a. Le logiciel pour la quantification des besoin
+
+
+gestionStockParOutils_softwareForquanti	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+gestionStockParOutils_ProVeb_RecpPro
+b. Le procès verbal pour la livraison/réception des produits
+
+
+gestionStockParOutils_ProVeb_RecpPro	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+E-3-c
+c.Le logiciel de gestion de stock
+
+
+E-3-c	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+E-3-d
+d. Les fiches de stock des produits
+
+
+E-3-d	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+E-3-e
+e.Le bon de commande / requête des produits
+
+
+E-3-e	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+E-3-f
+f.Le registre pour la dispensation journalière des produits
+
+
+E-3-f	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+E-3-g
+g.Le procès verbal pour les inventaires de stock
+
+
+E-3-g	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+E-3-h
+h.Le procès verbal pour produits périmés
+
+
+E-3-h	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+
+E-3-i
+i.Le modèle de rapport de consommation de stocks
+
+
+E-3-i	Nb. cit.	Fréq.
+Non réponse	1	100%
+Oui	0	0,0%
+Non	0	0,0%
+TOTAL OBS.	1	100%
+
+
+
+

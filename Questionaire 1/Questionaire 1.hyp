@@ -1,0 +1,2794 @@
+Version=5.0.0.82
+Données=C:\Users\pc\Documents\Enquêtes\Questionaire 1\Questionaire 1.que
+Paramètres=
+Enquête=
+ID=
+Décimales=2 1
+Statistiques
+	SeuilsFF=5 1 5 15
+	SeuilsFN=5 1 5 15
+	SeuilsNN=0.6 0.8 0.6 0.4
+	CalculsStricts=0 30 20
+	PrincipauxElements=0 10 0 3
+	CasesSignificatives=60 95
+Fin
+Publication
+	Etude=
+	Accès=-1
+	Lien
+		Type=confirm
+	Fin
+Fin
+Vues
+	Actif=0 0
+	FormulairePapier
+		Nom=Formulaire papier n°1
+		Taille=9 2100 2970 1 0 0 0
+		Marges=26 26 26 26
+		Zoom=-2 50
+		Fond=0 16777215
+		Image=..\
+		Barre=0
+		Progresion=1
+		Placement=2 1 20 20 2 1 1
+		Organisation=0 3 50 50 0
+		FormatAuto=0 0 0 0 0 256 1
+		Options=2 2 0 0 0 0 0 0 0 0 1 0
+		Rectangle=0 0 0 0
+		Style=Style papier classique
+		StyleFormes
+			Bord=0 1 0
+			Fond=8421504
+		Fin
+		StyleLégendes
+			Bord=0 1 0
+			Police=Times_New_Roman 12 1 0 0 -1
+			StyleLien=0
+		Fin
+		StyleTitres
+			Bord=0 1 0
+			Police1=Times_New_Roman 14 1 0 0 16764057
+			Police2=Times_New_Roman 10 2 0 0 -1
+			Affichage=1 0
+		Fin
+		StyleVariables
+			Bord=4 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 12632256
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 0 0 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=10 1 1 0 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleNoeuds
+			Variable=0 
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65280
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=0 0 0 0 0 1 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 1 1 0 0 0
+			Item=0 
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=4 1 1 0 1
+			Fin
+		Fin
+		StyleGroupes
+			Bord=3 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 1 0 0 0 0 0
+			Alignement=1
+			Valeurs=0 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0
+				FF=1 0 0 0 1
+				FN=1 1 1 1 1 1 0 0 0 0 0
+				NN=1 1 1 1 1 0 0 0 0
+			Fin
+			Graphique
+				Type=3
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				FF=1 0 0 1 1 0
+				FN=1 1 1 1
+				NN=1 0 1 0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleTableauCaractéristiques
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 1 0 0 0 1 0
+			Alignement=1
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=5
+				Options=0 5 5 1
+				Cellules=1 0 0
+			Fin
+			Graphique
+				Type=1
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleComposés
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65535
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 0 0 0
+			Alignement=1
+			Valeurs=0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Affichage=3 1 0 1 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleRelations
+			Ligne=0 0 0
+			Bord=4 0 0
+			Police=Arial 8 0 1 0 16777215
+			Valeurs=0 0 0 3 0
+		Fin
+		StyleSaisies
+			Bord=1 0 12632256
+			Police1=Times_New_Roman 10 2 0 0 13434879
+			Police2=Times_New_Roman 10 1 0 0 13434879
+			Police3=Times_New_Roman 10 0 0 0 13434879 13434879
+			Police4=Times_New_Roman 10 0 0 16711680
+			Affichage=1 1 0 0 1 0 0
+			Alignement=1
+			Taille=1 1200 0 500
+			Pictogrammes=
+			Nominale=0 0 3 0 1 2 12 0 16777215
+			Ouverte=2 0 1
+			Options=0 0 0
+		Fin
+		StyleMultimédias
+			Bord=0 1 0
+		Fin
+		StyleExternes
+			Bord=1 1 0
+			Police=Arial 8 0 0 0 -1
+			Affichage=0
+		Fin
+		StyleOLEs
+			Bord=1 1 0
+		Fin
+		Légende
+			TexteFR=B.1^p
+			Rectangle=66 20979 206 21045
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=Liste des personnes interviewées
+			Rectangle=71 2143 693 2209
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			Masque=1
+			TexteFR=[Commentaire]
+			Rectangle=315 558 1847 675
+			Police=Times_New_Roman 12 2 1 0 -1
+		Fin
+		Légende
+			Masque=1
+			TexteFR=Questionnaire N°1 : PARTENAIRES
+			TexteEN=[Titre de l'étude]
+			Rectangle=331 458 1820 532
+			Bord=0 1 10079487
+			Police=Times_New_Roman 14 1 1 0 16777215
+		Fin
+		Saisie
+			Variable=pays
+			Rectangle=61 733 2040 849
+			Alignement=0
+			Taille=1 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_partennaire
+			Rectangle=61 852 2040 968
+			Alignement=0
+			Taille=1 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=adresse_partennaire
+			Rectangle=61 971 2040 1087
+			Alignement=0
+			Taille=1 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_partennaire
+			Rectangle=61 1090 2040 1207
+			Alignement=0
+			Taille=1 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=directeur_partenaire
+			Rectangle=61 1209 2040 1326
+			Alignement=0
+			Taille=1 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_consul1
+			Rectangle=69 1461 759 1632
+			Taille=1 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_consul1
+			Rectangle=1400 1461 2021 1632
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=fonction_consul1
+			Rectangle=762 1461 1397 1632
+			Taille=1 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_consul2
+			Rectangle=69 1635 759 1752
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Légende
+			TexteFR=Liste des consultants :^p
+			Rectangle=61 1384 495 1450
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=fonction_consul2
+			Rectangle=762 1635 1397 1752
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_consul2
+			Rectangle=1400 1635 2021 1752
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_consul3
+			Rectangle=69 1757 759 1873
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=fonction_consul3
+			Rectangle=762 1754 1397 1871
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_consul3
+			Rectangle=1400 1754 2021 1871
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_consul4
+			Rectangle=69 1873 759 1990
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=fonction_consul4
+			Rectangle=762 1873 1397 1990
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_consul4
+			Rectangle=1400 1873 2021 1990
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_consul5
+			Rectangle=69 1992 759 2109
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=fonction_consul5
+			Rectangle=762 1992 1397 2109
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_consul5
+			Rectangle=1400 1992 2021 2109
+			Affichage=0 1 0 0 1 0 0
+			Taille=0 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=date_interview1
+			Rectangle=66 2217 505 2389
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_interview1
+			Rectangle=508 2220 1101 2392
+			Taille=1 600 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=formation_interview1
+			Rectangle=1114 2212 1588 2384
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_interview1
+			Rectangle=1593 2212 2032 2384
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=date_interview2
+			Rectangle=66 2392 505 2508
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_interview2
+			Rectangle=508 2394 1101 2511
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=formation_interview2
+			Rectangle=1111 2387 1585 2503
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_interview2
+			Rectangle=1590 2387 2029 2503
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=date_interview3
+			Rectangle=66 2511 505 2627
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_interview3
+			Rectangle=508 2514 1101 2630
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=formation_interview3
+			Rectangle=1114 2506 1588 2622
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_interview3
+			Rectangle=1593 2506 2032 2622
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=date_interview4
+			Rectangle=66 2630 505 2746
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_interview4
+			Rectangle=508 2633 1101 2749
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=formation_interview4
+			Rectangle=1114 2625 1588 2741
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_interview4
+			Rectangle=1593 2625 2032 2741
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=date_interview5
+			Rectangle=66 2749 505 2865
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=nom_interview5
+			Rectangle=505 2752 1098 2868
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=formation_interview5
+			Rectangle=1111 2744 1585 2860
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=tel_interview5
+			Rectangle=1590 2746 2029 2863
+			Affichage=0 1 0 0 1 0 0
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Légende
+			TexteFR=A. FINANCEMENT 
+			Rectangle=61 3032 2040 3098
+			Police=Times_New_Roman 12 5 0 0 16764057
+		Fin
+		Saisie
+			Variable=finance_ARVsP
+			Rectangle=61 3445 2040 3556
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+			Taille=1 1000 0 500
+			Nominale=0 0 2 1 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=budget2015_financementARVsP
+			Rectangle=61 3556 2040 3688
+			Taille=1 1000 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=fin_appui_ARVsP
+			Rectangle=61 3688 2040 3821
+			Taille=1 1000 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier_ARVsP
+			Rectangle=61 3821 2040 3932
+			Taille=1 1000 0 500
+			Nominale=0 0 0 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=finance_ARVsA
+			Rectangle=61 3932 2040 4043
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+			Nominale=0 0 2 0 1 2 12 0 16777215
+		Fin
+		Légende
+			TexteFR=Catégorie de produits concernées à laquelle votre organisation apporte un appui financier 
+			Rectangle=61 3315 2032 3381
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=budget2015_financementARVsA
+			Rectangle=61 4043 2040 4175
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=fin_appui_ARVsA
+			Rectangle=61 4178 2040 4310
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier ARVsA
+			Rectangle=61 4313 2040 4424
+		Fin
+		Saisie
+			Variable=finance_ARVsPTME
+			Rectangle=61 4426 2040 4538
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+			Nominale=0 0 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=budget2015_financementARVsPTME
+			Rectangle=61 4540 2040 4673
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=fin_appui_ARVsPTME
+			Rectangle=61 4673 2040 4805
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier ARVs PTME
+			Rectangle=61 4807 2040 4919
+		Fin
+		Saisie
+			Variable=A-1-organisation-apport-financier
+			Rectangle=64 3162 2032 3273
+			Nominale=0 0 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=finance_IO
+			Rectangle=61 4921 2040 5032
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+			Taille=1 1000 0 500
+			Nominale=0 0 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=budget2015_financement_IO
+			Rectangle=61 5035 2040 5167
+			Taille=1 1000 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=fin_appui_IO
+			Rectangle=61 5170 2040 5302
+			Taille=1 1000 0 500
+			Nominale=0 1 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier IO
+			Rectangle=61 5302 2040 5413
+			Taille=1 1000 0 500
+		Fin
+		Saisie
+			Variable=finance_ACT
+			Rectangle=61 5416 2040 5527
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+			Nominale=0 0 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=budget2015_financement_ACT
+			Rectangle=61 5530 2040 5662
+			Nominale=0 0 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=fin_appui_ACT
+			Rectangle=61 5654 2040 5786
+			Nominale=0 0 2 0 1 2 12 0 16777215
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier ACT
+			Rectangle=61 5771 2040 5882
+		Fin
+		Saisie
+			Variable=finance_KIT PALUDISME GRAVE
+			Rectangle=61 6281 2040 6392
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_KIT PALUDISME GR
+			Rectangle=61 6392 2040 6525
+		Fin
+		Saisie
+			Variable=fin_appui_KIT PALUDISME GRAVE
+			Rectangle=61 6527 2040 6660
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier KIT PALUDIS
+			Rectangle=61 6660 2040 6771
+		Fin
+		Multimédia
+			Fichier=ministaire.jpg
+			Rectangle=87 93 228 217
+		Fin
+		Légende
+			TexteFR=MINISTERE DE LA SANTE  ET
+			Rectangle=235 101 828 156
+			Police=Times_New_Roman 10 0 0 0 -1
+		Fin
+		Légende
+			TexteFR=------------------------
+			Rectangle=294 153 638 220
+		Fin
+		Légende
+			TexteFR=DIRECTION GENERALE DE LA SANTE^p^p
+			Rectangle=206 196 839 291
+			Police=Times_New_Roman 10 0 0 0 -1
+		Fin
+		Multimédia
+			Fichier=pndap.jpg
+			Rectangle=185 270 355 439
+		Fin
+		Légende
+			TexteFR=REPUBLIQUE DE COTE D'IVOIRE 
+			Rectangle=1352 119 2040 180
+			Police=Times_New_Roman 11 1 0 0 -1
+		Fin
+		Légende
+			TexteFR=Union - Discipline - Travail 
+			Rectangle=1476 164 1908 220
+			Police=Times_New_Roman 10 0 0 0 -1
+		Fin
+		Légende
+			TexteFR=---------------------------------^p
+			Rectangle=1474 188 1929 254
+		Fin
+		Multimédia
+			Fichier=ci.jpg
+			Rectangle=1588 238 1781 410
+		Fin
+		Saisie
+			Variable=finance_SP
+			Rectangle=61 6773 2040 6884
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_SP
+			Rectangle=61 6884 2040 7017
+		Fin
+		Saisie
+			Variable=fin_appui_SP
+			Rectangle=61 7017 2040 7149
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier_SP
+			Rectangle=61 7149 2040 7260
+		Fin
+		Saisie
+			Variable=finance_TB
+			Rectangle=61 7263 2040 7374
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_TB
+			Rectangle=61 7374 2040 7506
+		Fin
+		Saisie
+			Variable=fin_appui_TB
+			Rectangle=61 7506 2040 7639
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier_TB
+			Rectangle=61 7639 2040 7750
+		Fin
+		Saisie
+			Variable=finance_SR
+			Rectangle=61 7750 2040 7861
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_SR
+			Rectangle=61 7861 2040 7993
+		Fin
+		Saisie
+			Variable=fin_appui_SR
+			Rectangle=61 7990 2040 8123
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier_SR
+			Rectangle=61 8123 2040 8234
+		Fin
+		Saisie
+			Variable=finance_PEV
+			Rectangle=61 8239 2040 8350
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_PEV
+			Rectangle=61 8348 2040 8480
+		Fin
+		Saisie
+			Variable=fin_appui_PEV
+			Rectangle=61 8480 2040 8612
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier_PEV
+			Rectangle=61 8615 2040 8726
+		Fin
+		Saisie
+			Variable=finance_UNLSCo
+			Rectangle=61 9160 2040 9271
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_UNLSCo
+			Rectangle=61 9260 2040 9393
+		Fin
+		Saisie
+			Variable=fin_appui_UNLSCo
+			Rectangle=61 9393 2040 9525
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier_UNLSCo
+			Rectangle=61 9525 2040 9636
+		Fin
+		Saisie
+			Variable=finance_MNT
+			Rectangle=61 9639 2040 9750
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_MNT
+			Rectangle=61 9753 2040 9885
+		Fin
+		Saisie
+			Variable=fin_appui_MNT
+			Rectangle=61 9885 2040 10017
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier_MNT
+			Rectangle=61 10020 2040 10131
+		Fin
+		Saisie
+			Variable=finance_des_MTN
+			Rectangle=61 10134 2040 10245
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_des_MTN
+			Rectangle=61 10247 2040 10380
+		Fin
+		Saisie
+			Variable=fin_appui_des_MTN
+			Rectangle=61 10380 2040 10512
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier_des_MTN
+			Rectangle=61 10515 2040 10626
+		Fin
+		Saisie
+			Variable=budget2015_financement_Kit SONU
+			Rectangle=61 10742 2040 10874
+		Fin
+		Saisie
+			Variable=fin_appui_Kit SONU
+			Rectangle=61 10874 2040 11007
+		Fin
+		Saisie
+			Variable=finance_kit SONU
+			Rectangle=61 10628 2040 10739
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier Kit SONU
+			Rectangle=61 11009 2040 11120
+		Fin
+		Saisie
+			Variable=finance_MILDA
+			Rectangle=61 11123 2040 11234
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_MILDA
+			Rectangle=61 11237 2040 11369
+		Fin
+		Saisie
+			Variable=fin_appui_MILDA
+			Rectangle=61 11359 2040 11491
+		Fin
+		Saisie
+			Variable=Nature de l'appui financier MILDA
+			Rectangle=61 11491 2040 11602
+		Fin
+		Saisie
+			Variable=finance_MeRCOUVRABLE
+			Rectangle=61 12425 2040 12536
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_MeRECOUVRABLE
+			Rectangle=61 12536 2040 12668
+		Fin
+		Saisie
+			Variable=fin_appui_MeRECOUVRABLE
+			Rectangle=61 12671 2040 12803
+		Fin
+		Saisie
+			Variable=Nature delappui financier MeRECOUVRABLE
+			Rectangle=61 12806 2040 12917
+		Fin
+		Saisie
+			Variable=finance_MeGRATCIB
+			Rectangle=61 12941 2040 13052
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_MeGRATCIB
+			Rectangle=61 13044 2040 13176
+		Fin
+		Saisie
+			Variable=fin_appui_MeGRATCIB
+			Rectangle=61 13158 2040 13290
+		Fin
+		Saisie
+			Variable=Nature delappui financier MeGRATCIB
+			Rectangle=61 13285 2040 13396
+		Fin
+		Saisie
+			Variable=finance_DM
+			Rectangle=61 13417 2040 13528
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_DM
+			Rectangle=61 13528 2040 13660
+		Fin
+		Saisie
+			Variable=fin_appui_DM
+			Rectangle=61 13660 2040 13793
+		Fin
+		Saisie
+			Variable=Nature delappui financier DM
+			Rectangle=61 13793 2040 13904
+		Fin
+		Saisie
+			Variable=finance_Réactifs
+			Rectangle=61 13933 2040 14044
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_Réactifs
+			Rectangle=61 14047 2040 14179
+		Fin
+		Saisie
+			Variable=fin_appui_Réactifs
+			Rectangle=61 14182 2040 14314
+		Fin
+		Saisie
+			Variable=Nature delappui financier Réactifs
+			Rectangle=61 14317 2040 14428
+		Fin
+		Saisie
+			Variable=finance_CNTS
+			Rectangle=61 15192 2040 15304
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_CNTS
+			Rectangle=61 15306 2040 15438
+		Fin
+		Saisie
+			Variable=fin_appui_CNTS
+			Rectangle=61 15441 2040 15573
+		Fin
+		Saisie
+			Variable=Nature delappui financier CNTS
+			Rectangle=61 15568 2040 15679
+		Fin
+		Saisie
+			Variable=finance_hépatiteB/C
+			Rectangle=61 15682 2040 15793
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_hépatiteC/B
+			Rectangle=61 15793 2040 15925
+		Fin
+		Saisie
+			Variable=fin_appui_hépatiteB/C
+			Rectangle=61 15920 2040 16052
+		Fin
+		Saisie
+			Variable=Nature delappui financier hépatiteB/C
+			Rectangle=61 16055 2040 16166
+		Fin
+		Saisie
+			Variable=finance_Stupéfiants
+			Rectangle=61 16161 2040 16272
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_Stupéfiants
+			Rectangle=61 16404 2040 16536
+		Fin
+		Saisie
+			Variable=fin_appui_Stupéfiants
+			Rectangle=61 16272 2040 16404
+		Fin
+		Saisie
+			Variable=Nature delappui financier Stupéfiants
+			Rectangle=61 16534 2040 16645
+		Fin
+		Saisie
+			Variable=finance_ProNutri
+			Rectangle=61 16648 2040 16759
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=budget2015_financement_ProNutri
+			Rectangle=61 16759 2040 16891
+		Fin
+		Saisie
+			Variable=fin_appui_ProNutri
+			Rectangle=61 16896 2040 17029
+		Fin
+		Saisie
+			Variable=Nature delappui financier ProNutri
+			Rectangle=61 17021 2040 17132
+		Fin
+		Titre
+			Variable=finance_appro
+			Rectangle=61 18116 2040 18190
+		Fin
+		Saisie
+			Variable=finance_appro
+			Rectangle=61 18185 2040 18336
+		Fin
+		Saisie
+			Variable=finance_frais_de_ges_struc_ges
+			Rectangle=61 18714 2040 18825
+		Fin
+		Saisie
+			Variable=finance_budget2015_frais_ges_struc_ges
+			Rectangle=61 18822 2040 18955
+		Fin
+		Saisie
+			Variable=finance_Ameliration_des_mag_stockage
+			Rectangle=61 18955 2040 19066
+		Fin
+		Saisie
+			Variable=finance_budget2015_Ameliration_mag_stok
+			Rectangle=61 19066 2040 19198
+		Fin
+		Saisie
+			Variable=finance_achat_véhicule_dist
+			Rectangle=61 19196 2040 19307
+		Fin
+		Saisie
+			Variable=finance_budget2015_achat_véhicule_dist
+			Rectangle=61 19307 2040 19439
+		Fin
+		Saisie
+			Variable=finance_Rémunération_du_personnel
+			Rectangle=61 19439 2040 19550
+		Fin
+		Saisie
+			Variable=finance_budget2015_remuneration_du_pers
+			Rectangle=61 19550 2040 19682
+		Fin
+		Saisie
+			Variable=finance_Formation_personnel
+			Rectangle=61 19682 2040 19793
+		Fin
+		Saisie
+			Variable=finance_budget2015_formation_personnel
+			Rectangle=61 19793 2040 19926
+		Fin
+		Saisie
+			Variable=finance_achat_logiciel
+			Rectangle=61 19926 2040 20037
+		Fin
+		Saisie
+			Variable=finance_budget2015_achat_logiciel
+			Rectangle=61 20037 2040 20169
+		Fin
+		Saisie
+			Variable=Autres_préciser_activité
+			Rectangle=61 20174 2040 20307
+		Fin
+		Saisie
+			Variable=budget_finance_autre
+			Rectangle=61 20307 2040 20439
+		Fin
+		Saisie
+			Variable=Selection_Produit_Mon_Organisation
+			Rectangle=61 21045 2040 21156
+		Fin
+		Légende
+			TexteFR=Activité^p
+			Rectangle=61 18386 2040 18452
+			Police=Times_New_Roman 12 1 0 8388608 16764057
+		Fin
+		Légende
+			TexteFR=B. Selection des produits       
+			Rectangle=61 20860 2040 20926
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=Selection_Produit_Un_servicetchMinister
+			Rectangle=61 21156 2040 21267
+		Fin
+		Saisie
+			Variable=Selection_Produit_Un_servicetchMinister_
+			Rectangle=61 21267 2040 21400
+		Fin
+		Saisie
+			Variable=Selection_Produit_PSN_bénéf_appui
+			Rectangle=61 21400 2040 21511
+		Fin
+		Saisie
+			Variable=Selection_Produit_Cental_dachat_nationa
+			Rectangle=61 21511 2040 21622
+		Fin
+		Saisie
+			Variable=Selection_Produit_Organism_et_MS
+			Rectangle=61 21622 2040 21733
+		Fin
+		Saisie
+			Variable=Selection_Produit_Organism_et_PSN
+			Rectangle=61 21733 2040 21844
+		Fin
+		Saisie
+			Variable=Selection_Produit_Organism_et_CentAcha
+			Rectangle=61 21844 2040 21955
+		Fin
+		Saisie
+			Variable=Selection_Produit_Autre
+			Rectangle=61 21955 2040 22127
+		Fin
+		Saisie
+			Variable=selection_prod_organism_LNME
+			Rectangle=61 22206 2040 22357
+		Fin
+		Saisie
+			Variable=selection_prod_organism_LNME_AUTRE
+			Rectangle=61 22360 2040 22492
+		Fin
+		Légende
+			TexteFR=C. Responsable de la quantification/Planification des besoins 
+			Rectangle=61 22513 2040 22580
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=respon_quanti_plani_Monorganims
+			Rectangle=61 22680 2040 22791
+		Fin
+		Saisie
+			Variable=respon_quanti_plani_STMS
+			Rectangle=61 22783 2040 22894
+		Fin
+		Saisie
+			Variable=respon_quanti_plani_STMS_Precis
+			Rectangle=61 22894 2040 23027
+		Fin
+		Saisie
+			Variable=respon_quantiplani_PN_bénéficiantdappui
+			Rectangle=61 23021 2040 23133
+		Fin
+		Saisie
+			Variable=respon_quanti_plani_CAN
+			Rectangle=61 23130 2040 23241
+		Fin
+		Saisie
+			Variable=respon_quanti_plani_MonOrga_Ms
+			Rectangle=61 23238 2040 23349
+		Fin
+		Saisie
+			Variable=respon_quanti_plani_MonOrga_PSN
+			Rectangle=61 23349 2040 23461
+		Fin
+		Saisie
+			Variable=respon_quanti_plani_MonOrga_CAN
+			Rectangle=61 23463 2040 23574
+		Fin
+		Saisie
+			Variable=existance_d_structur_pour_quanti_plani
+			Rectangle=138 23839 2032 23990
+		Fin
+		Saisie
+			Variable=plan_dappro_annulepour_produits_financé
+			Rectangle=143 24524 2029 24635
+		Fin
+		Légende
+			TexteFR=D. ACQUISITION
+			Rectangle=61 24641 2040 24707
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=agence_aprovisionnement_STMS
+			Rectangle=61 24776 2040 24887
+		Fin
+		Saisie
+			Variable=agence_aprovisionnement_STMS_precis
+			Rectangle=61 24889 2040 25022
+		Fin
+		Saisie
+			Variable=agence_aprovisionnement_PSN
+			Rectangle=61 25024 2040 25135
+		Fin
+		Saisie
+			Variable=agence_aprovisionnement_PSN_precis
+			Rectangle=61 25138 2040 25270
+		Fin
+		Saisie
+			Variable=agence_aprovisionnement_CAN
+			Rectangle=61 25273 2040 25384
+		Fin
+		Saisie
+			Variable=agence_aprovisionnement_externe
+			Rectangle=61 25387 2040 25498
+		Fin
+		Saisie
+			Variable=agence_aprovisionnement_externe_precis
+			Rectangle=61 25501 2040 25633
+		Fin
+		Saisie
+			Variable=agence_aprovisionnement_vous_meme
+			Rectangle=61 25633 2040 25744
+		Fin
+		Saisie
+			Variable=agence_aprovisionnement_Autre
+			Rectangle=61 25744 2040 25876
+		Fin
+		Légende
+			TexteFR=D.2
+			Rectangle=64 25879 169 25945
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=polotique_dirictive_achat_des_produits
+			Rectangle=61 27218 2040 27369
+		Fin
+		Saisie
+			Variable=explication_du_non_choix_de_CAN_AUTRE
+			Rectangle=61 26548 2040 26681
+		Fin
+		Légende
+			TexteFR=D.3
+			Rectangle=64 27144 183 27210
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=D.4
+			Rectangle=71 27514 188 27580
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=qualité_medicam_pré_qualifié_OMS
+			Rectangle=61 27638 2040 27750
+		Fin
+		Saisie
+			Variable=qualité_medicam_autorité_pays_rigoureux
+			Rectangle=61 27752 2040 27863
+		Fin
+		Saisie
+			Variable=qualité_medicam_enregistré_paysbenefi
+			Rectangle=61 27863 2040 27974
+		Fin
+		Saisie
+			Variable=qualité_médicament_autre
+			Rectangle=61 27980 2040 28152
+		Fin
+		Saisie
+			Variable=controle_qualité_medicament_acheté
+			Rectangle=61 28440 2040 28551
+		Fin
+		Légende
+			TexteFR=D.5
+			Rectangle=61 28371 164 28437
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=D.6 Quel laboratoire est utilisé pour le contrôle de la qualité des produits achetés ?
+			Rectangle=61 28615 2040 28681
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=lab_controle_qualité_LNCQ
+			Rectangle=61 28715 2040 28826
+		Fin
+		Saisie
+			Variable=lab_controle_qualité_LabOMS
+			Rectangle=61 28829 2040 28940
+		Fin
+		Saisie
+			Variable=lab_controle_qualité_LabISO
+			Rectangle=61 28940 2040 29051
+		Fin
+		Saisie
+			Variable=lab_controle_qualité_LabAutre
+			Rectangle=61 29051 2040 29184
+		Fin
+		Légende
+			TexteFR=D.7
+			Rectangle=61 29816 172 29882
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=côntrole_qualité_quantité_testé
+			Rectangle=61 29882 2040 30014
+		Fin
+		Légende
+			TexteFR=D.8
+			Rectangle=61 30020 159 30086
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=côntrole_qualité_quantité_non_conforme
+			Rectangle=61 30088 2040 30221
+		Fin
+		Légende
+			TexteFR=E. GESTION DE STOCK 
+			Rectangle=61 30295 2040 30361
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=gestion_stock_par_outils_nationaux
+			Rectangle=61 30485 2040 30636
+		Fin
+		Légende
+			TexteFR=E.1
+			Rectangle=69 30417 148 30483
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=gestionStockParOutilsNationaux_noUse
+			Rectangle=61 30708 2040 31118
+		Fin
+		Légende
+			TexteFR=E.2
+			Rectangle=64 30647 164 30713
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=E.3 Quels outils de gestion spécifiques fournissez-vous aux structures qui gérent les produits que vous financez
+			Rectangle=61 31136 2040 31202
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=gestionStockParOutils_softwareForquanti
+			Rectangle=61 31208 2040 31319
+		Fin
+		Saisie
+			Variable=gestionStockParOutils_ProVeb_RecpPro
+			Rectangle=61 31319 2040 31430
+		Fin
+		Saisie
+			Variable=E-3-c
+			Rectangle=61 31430 2040 31541
+		Fin
+		Saisie
+			Variable=E-3-d
+			Rectangle=61 31536 2040 31647
+		Fin
+		Saisie
+			Variable=E-3-e
+			Rectangle=61 31647 2040 31758
+		Fin
+		Saisie
+			Variable=E-3-f
+			Rectangle=61 31761 2040 31872
+		Fin
+		Saisie
+			Variable=E-3-g
+			Rectangle=61 31872 2040 31983
+		Fin
+		Saisie
+			Variable=E-3-h
+			Rectangle=61 31983 2040 32094
+		Fin
+		Saisie
+			Variable=E-3-i
+			Rectangle=61 32097 2040 32208
+		Fin
+		Saisie
+			Variable=E-3-j
+			Rectangle=61 32216 2040 32507
+		Fin
+		Légende
+			TexteFR=F. CIRCUIT DE DISTRIBUTION 
+			Rectangle=61 32864 2040 32930
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=F-1-a-1
+			Rectangle=172 33121 439 33332
+		Fin
+		Saisie
+			Variable=F-1-a-2
+			Rectangle=442 33121 849 33332
+		Fin
+		Saisie
+			Variable=F-1-a-3
+			Rectangle=852 33121 1064 33332
+			Police2=Times_New_Roman 9 1 0 0 13434879
+		Fin
+		Saisie
+			Variable=F-1-a-4
+			Rectangle=1066 33121 1286 33332
+			Police2=Times_New_Roman 9 1 0 0 13434879
+		Fin
+		Saisie
+			Variable=F-1-a-5
+			Rectangle=1289 33121 1476 33332
+			Police2=Times_New_Roman 9 1 0 0 13434879
+		Fin
+		Saisie
+			Variable=F-1-a-6
+			Rectangle=1479 33121 1688 33332
+		Fin
+		Saisie
+			Variable=F-1-a-7
+			Rectangle=1691 33121 1939 33332
+		Fin
+		Saisie
+			Variable=F-1-b-1
+			Rectangle=172 33335 439 33451
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-b-2
+			Rectangle=442 33335 849 33451
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-b-3
+			Rectangle=852 33335 1064 33451
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-b-4
+			Rectangle=1066 33335 1286 33451
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-b-5
+			Rectangle=1289 33335 1476 33451
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-b-6
+			Rectangle=1479 33335 1688 33451
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-b-7
+			Rectangle=1691 33335 1939 33451
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-c-1
+			Rectangle=172 33454 439 33570
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-c-2
+			Rectangle=442 33454 849 33570
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-c-3
+			Rectangle=852 33454 1064 33570
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-c-4
+			Rectangle=1066 33454 1286 33570
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-c-5
+			Rectangle=1289 33454 1476 33570
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-c-6
+			Rectangle=1479 33454 1688 33570
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-c-7
+			Rectangle=1691 33454 1939 33570
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-d-1
+			Rectangle=172 33573 439 33689
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-d-2
+			Rectangle=442 33573 849 33689
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-d-3
+			Rectangle=852 33573 1064 33689
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-d-4
+			Rectangle=1066 33573 1286 33689
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-d-5
+			Rectangle=1289 33573 1476 33689
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-d-6
+			Rectangle=1479 33573 1688 33689
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-d-7
+			Rectangle=1691 33573 1939 33689
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-f-1
+			Rectangle=172 33692 439 33808
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-f-2
+			Rectangle=442 33692 849 33808
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-f-3
+			Rectangle=852 33692 1064 33808
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-f-4
+			Rectangle=1066 33692 1286 33808
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-f-5
+			Rectangle=1289 33692 1476 33808
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-f-6
+			Rectangle=1479 33692 1688 33808
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-f-7
+			Rectangle=1691 33692 1939 33808
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-g-1
+			Rectangle=172 33811 439 33928
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-g-2
+			Rectangle=442 33811 849 33928
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-g-3
+			Rectangle=852 33811 1064 33928
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-g-4
+			Rectangle=1066 33811 1286 33928
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-g-5
+			Rectangle=1289 33811 1476 33928
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-g-6
+			Rectangle=1479 33811 1688 33928
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=F-1-g-7
+			Rectangle=1691 33811 1939 33928
+			Affichage=0 1 0 0 1 0 0
+		Fin
+		Saisie
+			Variable=commenataire_jugez_utile
+			Rectangle=180 34023 1947 34195
+		Fin
+		Saisie
+			Variable=finance_Honoraie_agence_dapro
+			Rectangle=61 18473 2040 18584
+		Fin
+		Saisie
+			Variable=finance_budget2015_Horaire_agence_dapro
+			Rectangle=61 18582 2040 18714
+		Fin
+		Légende
+			TexteFR=DE L'HYGIENE PUBLIQUE
+			Rectangle=275 135 807 191
+			Police=Times_New_Roman 10 0 0 0 -1
+		Fin
+		Légende
+			TexteFR=---------------------------------
+			Rectangle=246 220 728 286
+		Fin
+		Légende
+			TexteFR=Qui est responsable de la sélection des produits achetés avec le financement de votre organisation ?
+			Rectangle=251 20968 2040 21034
+		Fin
+		Légende
+			TexteFR=B.2
+			Rectangle=66 22143 167 22209
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=C.1
+			Rectangle=64 22614 177 22680
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=Qui est responsable de la quantification/planification des besoins des produits que vous financez ?
+			Rectangle=169 22619 1902 22685
+			Police=Times_New_Roman 12 1 0 0 16777164
+		Fin
+		Saisie
+			Variable=Autres , à préciser
+			Rectangle=61 23577 2043 23709
+		Fin
+		Saisie
+			Variable=existance_d_structur_pour_quanti_plani_A
+			Rectangle=140 23992 2027 24522
+		Fin
+		Légende
+			TexteFR=C.2
+			Rectangle=61 23836 138 23902
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=C.3
+			Rectangle=66 23995 143 24061
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=C.4
+			Rectangle=66 24522 143 24588
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=D.1
+			Rectangle=64 24709 164 24776
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=Quels sont les critères de qualité des médicaments exigés par la politique/directive ? 
+			Rectangle=191 27511 1908 27578
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=autre_critere_qualité
+			Rectangle=61 28157 2027 28289
+		Fin
+		Saisie
+			Variable=no_use_lacentrale_dachatcaus_RIPFMO
+			Rectangle=61 25998 2040 26109
+		Fin
+		Saisie
+			Variable=no_use_CA_caus_PADMO
+			Rectangle=61 26109 2040 26220
+		Fin
+		Saisie
+			Variable=no_use_CA_cause_pas_capacité_technique
+			Rectangle=61 26223 2040 26334
+		Fin
+		Saisie
+			Variable=no_use_CA_cause_delai_long
+			Rectangle=61 26326 2040 26437
+		Fin
+		Légende
+			TexteFR=Si votre organisation n'utilise pas la centrale d'achat por achat/importation des produits que vous financez
+			Rectangle=64 25932 2019 25998
+			Police=Times_New_Roman 12 1 0 0 16777164
+		Fin
+		Légende
+			TexteFR=Catégorie de produits concernées à laquelle votre organisation apporte un appui financier 
+			Rectangle=69 6128 2040 6194
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=autre_categorie medicament
+			Rectangle=61 17134 2040 17267
+			Police1=Times_New_Roman 10 2 0 0 52377
+			Police2=Times_New_Roman 10 1 0 0 52377
+			Police3=Times_New_Roman 10 0 0 0 52377 52377
+		Fin
+		Saisie
+			Variable=autre_categorie medicament Budget 2015
+			Rectangle=61 17264 2040 17396
+		Fin
+		Saisie
+			Variable=autre_categorie_médicament_fin_appui
+			Rectangle=61 17396 2040 17529
+		Fin
+		Saisie
+			Variable=autre_categorie_medicament_Nature_appui
+			Rectangle=61 17529 2040 17640
+		Fin
+		Légende
+			TexteFR=Catégorie de produits concernées à laquelle votre organisation apporte un appui financier 
+			Rectangle=69 9009 2040 9075
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=Catégorie de produits concernées à laquelle votre organisation apporte un appui financier 
+			Rectangle=69 12332 2040 12398
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Légende
+			TexteFR=Catégorie de produits concernées à laquelle votre organisation apporte un appui financier 
+			Rectangle=69 15121 2040 15187
+			Police=Times_New_Roman 12 1 0 0 16764057
+		Fin
+		Saisie
+			Variable=no_use_CA_cause_prix_élevé
+			Rectangle=61 26437 2040 26548
+		Fin
+	Fin
+	Tableaux
+		Nom=Tableau de bord n°1
+		Taille=9 2100 2970 1 140 0 0
+		Marges=132 132 132 132
+		Zoom=-2 50
+		Fond=0 16777215
+		Barre=0
+		Progresion=1
+		Placement=3 10 20 50 3 1 1
+		Organisation=0 3 50 50 0
+		FormatAuto=3 0 1 1 2 1 1
+		Style=Rapport A4 (tableaux)
+		StyleFormes
+			Bord=0 1 0
+			Fond=12648447
+		Fin
+		StyleLégendes
+			Bord=3 1 0
+			Police=Arial 12 1 0 0 16777164
+			StyleLien=0
+		Fin
+		StyleTitres
+			Bord=0 1 0
+			Police1=Arial 14 1 0 16777215 6697881
+			Police2=Arial 10 2 0 0 -1
+			Affichage=1 0
+		Fin
+		StyleVariables
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 12632256
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 0 1 1 0
+			Alignement=0
+			Règles
+				Options=1 0 0 0
+				ON=1 1 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 100
+				Item=...
+			Fin
+			Valeurs=0 0 0 0 1 0 1 1 0 0 0 25 75 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=1 0 0 1
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 0 0 0 0 0 0
+				Couleurs=3 0
+				Nominale=3 0 1 1 0
+				Numérique=12 1 1 1 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 1 0
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleNoeuds
+			Variable=0 
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65280
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=0 0 0 0 0 1 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 1 1 0 0 0
+			Item=0 
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=4 1 1 0 1
+			Fin
+		Fin
+		StyleGroupes
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 0 0 1 0 0
+			Alignement=1
+			Valeurs=0 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=3
+				FF=1 0 0 0 1
+				FN=1 0 0 0 0 0 0 0 0 0 0
+				NN=1 0 0 0 0 0 0 0 0
+			Fin
+			Graphique
+				Type=3
+				Options=1 1 1 0 1
+				Taille=0 0 0 0 0 0 0
+				Couleurs=0 0
+				FF=1 1 1 1 1 0
+				FN=1 1 1 1
+				NN=1 1 1 0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 1 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 1 0 0
+				Fin
+			Fin
+		Fin
+		StyleTableauCaractéristiques
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 1 0 0 0 1 0
+			Alignement=1
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=5
+				Options=0 5 5 1
+				Cellules=1 0 0
+			Fin
+			Graphique
+				Type=1
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleComposés
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65535
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 0 1 1
+			Alignement=1
+			Valeurs=0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0
+			Fin
+			Graphique
+				Options=1 1 1 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Affichage=10 1 0 1 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleRelations
+			Ligne=0 0 0
+			Bord=4 0 0
+			Police=Arial 8 0 1 0 16777215
+			Valeurs=0 0 0 3 0
+		Fin
+		StyleSaisies
+			Bord=3 1 0
+			Police1=Arial 8 2 0 0 16777215
+			Police2=Arial 8 1 0 0 16777215
+			Police3=Arial 8 0 0 0 16777215 16777215
+			Police4=Arial 8 0 0 16711680
+			Affichage=1 1 0 0 1 1 0
+			Alignement=0
+			Taille=0 500 0 500
+			Pictogrammes=
+			Nominale=0 0 1 0 1 2 0 0 16777215
+			Ouverte=2 0 1
+			Options=0 0 0
+		Fin
+		StyleMultimédias
+			Bord=0 1 0
+		Fin
+		StyleExternes
+			Bord=0 1 0
+			Police=Arial 8 0 0 0 -1
+			Affichage=0
+		Fin
+		StyleOLEs
+			Bord=1 1 0
+		Fin
+		Légende
+			Masque=1
+			TexteFR=[Titre de l'étude]
+			Rectangle=331 101 2000 167
+			Bord=0 1 0
+			Police=Arial 12 1 1 0 -1
+		Fin
+		Légende
+			Masque=1
+			TexteFR=^w[Page]
+			Rectangle=1918 101 2000 153
+			Bord=0 1 0
+			Police=Arial 8 0 1 0 -1
+		Fin
+		Légende
+			Masque=1
+			TexteFR=[Nombre d'observations] observations
+			TexteEN=[Population étudiée] : [Nombre d'observations] observations
+			Rectangle=101 175 2080 228
+			Bord=0 1 0
+			Police=Arial 8 0 0 0 -1
+		Fin
+		Titre
+			Variable=A-1-organisation-apport-financier
+			Rectangle=101 362 193 437
+		Fin
+		Titre
+			Variable=A-1-organisation-apport-financier
+			Indice=1
+			Rectangle=101 241 482 315
+		Fin
+		Groupe
+			Nom=Groupe n°1
+			Variable=A-1-organisation-apport-financier
+			Règles
+				Options=1 0 0 0
+				ON=0 1 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 100
+				Item=...
+			Fin
+			Variable=finance_ARVsP
+			Rectangle=101 484 624 765
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financementARVsP
+			Rectangle=643 484 1122 537
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier_ARVsP
+			Rectangle=1140 484 1537 855
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_ARVsA
+			Rectangle=1556 484 1953 765
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financementARVsA
+			Rectangle=101 902 582 955
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier ARVsA
+			Rectangle=601 902 997 1273
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_ARVsPTME
+			Rectangle=1016 902 1413 1183
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financementARVsPTME
+			Rectangle=1431 902 1971 955
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier ARVs PTME
+			Rectangle=101 1320 497 1691
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_IO
+			Rectangle=516 1320 913 1601
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_IO
+			Rectangle=931 1320 1357 1373
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier IO
+			Rectangle=1376 1320 1773 1691
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_ACT
+			Rectangle=101 1738 497 2019
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_ACT
+			Rectangle=516 1738 974 1791
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier ACT
+			Rectangle=992 1738 1389 2109
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_KIT PALUDISME GRAVE
+			Rectangle=1408 1738 1804 2056
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_KIT PALUDISME GR
+			Rectangle=101 2156 542 2246
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier KIT PALUDIS
+			Rectangle=561 2156 958 2527
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_SP
+			Rectangle=976 2156 1373 2437
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_SP
+			Rectangle=1392 2156 1826 2209
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier_SP
+			Rectangle=101 3212 497 3582
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_TB
+			Rectangle=516 3212 913 3493
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_TB
+			Rectangle=931 3212 1365 3265
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier_TB
+			Rectangle=1384 3212 1781 3582
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_SR
+			Rectangle=101 3630 497 3911
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_SR
+			Rectangle=516 3630 950 3683
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier_SR
+			Rectangle=968 3630 1365 4001
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_PEV
+			Rectangle=1384 3630 1781 3911
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_PEV
+			Rectangle=101 4048 553 4101
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier_PEV
+			Rectangle=572 4048 968 4419
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_UNLSCo
+			Rectangle=987 4048 1384 4329
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_UNLSCo
+			Rectangle=1402 4048 1913 4101
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier_UNLSCo
+			Rectangle=101 4466 497 4837
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_MNT
+			Rectangle=516 4466 913 4747
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_MNT
+			Rectangle=931 4466 1392 4519
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier_MNT
+			Rectangle=1410 4466 1807 4837
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_des_MTN
+			Rectangle=101 4884 497 5165
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_des_MTN
+			Rectangle=516 4884 1048 4937
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier_des_MTN
+			Rectangle=1066 4884 1463 5255
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_kit SONU
+			Rectangle=1482 4884 1879 5165
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_Kit SONU
+			Rectangle=101 5302 534 5392
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier Kit SONU
+			Rectangle=553 5302 950 5673
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_MILDA
+			Rectangle=968 5302 1365 5583
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_MILDA
+			Rectangle=1384 5302 1873 5355
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature de l'appui financier MILDA
+			Rectangle=101 6183 497 6554
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_MeRCOUVRABLE
+			Rectangle=516 6183 913 6464
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_MeRECOUVRABLE
+			Rectangle=931 6183 1582 6236
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature delappui financier MeRECOUVRABLE
+			Rectangle=1601 6183 1998 6554
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_MeGRATCIB
+			Rectangle=101 6601 497 6882
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_MeGRATCIB
+			Rectangle=516 6601 1085 6654
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature delappui financier MeGRATCIB
+			Rectangle=1103 6601 1500 6972
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_DM
+			Rectangle=1519 6601 1916 6882
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_DM
+			Rectangle=101 7019 542 7072
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature delappui financier DM
+			Rectangle=561 7019 958 7390
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_Réactifs
+			Rectangle=976 7019 1373 7300
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_Réactifs
+			Rectangle=1392 7019 1905 7072
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature delappui financier Réactifs
+			Rectangle=101 7437 497 7808
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_CNTS
+			Rectangle=516 7437 913 7718
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_CNTS
+			Rectangle=931 7437 1405 7490
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature delappui financier CNTS
+			Rectangle=1423 7437 1820 7808
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_hépatiteB/C
+			Rectangle=101 7855 497 8136
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_hépatiteC/B
+			Rectangle=516 7855 1080 7908
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature delappui financier hépatiteB/C
+			Rectangle=1098 7855 1495 8226
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_Stupéfiants
+			Rectangle=1513 7855 1910 8136
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_Stupéfiants
+			Rectangle=101 8274 664 8326
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature delappui financier Stupéfiants
+			Rectangle=683 8274 1080 8644
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_ProNutri
+			Rectangle=1098 8274 1495 8554
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget2015_financement_ProNutri
+			Rectangle=101 9155 616 9208
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=Nature delappui financier ProNutri
+			Rectangle=635 9155 1032 9525
+			Formats
+			Fin
+		Fin
+		Titre
+			Variable=finance_appro
+			Rectangle=101 9573 193 9647
+		Fin
+		Groupe
+			Nom=Groupe n°2
+			Variable=finance_appro
+			Règles
+				Options=1 0 0 0
+				ON=0 1 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 100
+				Item=...
+			Fin
+			Variable=finance_Honoraie_agence_dapro
+			Rectangle=101 9694 624 9975
+			Formats
+			Fin
+		Fin
+		Titre
+			Variable=finance_budget2015_Horaire_agence_dapro
+			Rectangle=101 10022 296 10097
+		Fin
+		Variable
+			Variable=finance_budget2015_Horaire_agence_dapro
+			Rectangle=101 10144 749 10197
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_frais_de_ges_struc_ges
+			Rectangle=767 10144 1259 10425
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_budget2015_frais_ges_struc_ges
+			Rectangle=1278 10144 1900 10197
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_Ameliration_des_mag_stockage
+			Rectangle=101 10472 709 10753
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_budget2015_Ameliration_mag_stok
+			Rectangle=728 10472 1378 10525
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_achat_véhicule_dist
+			Rectangle=1397 10472 1820 10753
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_budget2015_achat_véhicule_dist
+			Rectangle=101 10874 706 10927
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_Rémunération_du_personnel
+			Rectangle=725 10874 1289 11155
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_budget2015_remuneration_du_pers
+			Rectangle=1307 10874 1966 10927
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_Formation_personnel
+			Rectangle=101 11277 553 11557
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_budget2015_formation_personnel
+			Rectangle=572 11277 1201 11329
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_achat_logiciel
+			Rectangle=1220 11277 1617 11557
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=finance_budget2015_achat_logiciel
+			Rectangle=101 12126 616 12179
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=budget_finance_autre
+			Rectangle=635 12126 1040 12179
+			Formats
+			Fin
+		Fin
+		Titre
+			Variable=Selection_Produit_Mon_Organisation
+			Rectangle=101 12650 2201 12724
+		Fin
+		Titre
+			Variable=Selection_Produit_Mon_Organisation
+			Indice=1
+			Rectangle=101 12528 868 12602
+		Fin
+		Variable
+			Variable=Selection_Produit_Mon_Organisation
+			Rectangle=101 12771 654 13052
+			Formats
+			Fin
+		Fin
+		Groupe
+			Nom=Groupe n°3
+			Variable=Selection_Produit_Un_servicetchMinister
+			Règles
+				Options=1 0 0 0
+				ON=0 1 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 100
+				Item=...
+			Fin
+			Variable=Selection_Produit_PSN_bénéf_appui
+			Rectangle=672 12771 1196 13052
+			Formats
+			Fin
+		Fin
+		Groupe
+			Nom=Groupe n°4
+			Variable=Selection_Produit_Cental_dachat_nationa
+			Règles
+				Options=1 0 0 0
+				ON=0 1 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 100
+				Item=...
+			Fin
+			Variable=Selection_Produit_Organism_et_MS
+			Variable=Selection_Produit_Organism_et_PSN
+			Variable=Selection_Produit_Organism_et_CentAcha
+			Variable=selection_prod_organism_LNME
+			Variable=respon_quanti_plani_Monorganims
+			Rectangle=101 13100 1053 13592
+			Formats
+			Fin
+		Fin
+		Titre
+			Variable=respon_quanti_plani_STMS
+			Rectangle=101 13761 2524 13835
+		Fin
+		Titre
+			Variable=respon_quanti_plani_STMS
+			Indice=1
+			Rectangle=101 13639 995 13713
+		Fin
+		Variable
+			Variable=respon_quanti_plani_STMS
+			Rectangle=101 13883 511 14163
+			Formats
+			Fin
+		Fin
+		Groupe
+			Nom=Groupe n°5
+			Variable=respon_quantiplani_PN_bénéficiantdappui
+			Règles
+				Options=1 0 0 0
+				ON=0 1 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 100
+				Item=...
+			Fin
+			Variable=respon_quanti_plani_CAN
+			Variable=respon_quanti_plani_MonOrga_Ms
+			Variable=respon_quanti_plani_MonOrga_PSN
+			Variable=respon_quanti_plani_MonOrga_CAN
+			Rectangle=529 13883 1474 14322
+			Formats
+			Fin
+		Fin
+		Groupe
+			Nom=Groupe n°6
+			Variable=existance_d_structur_pour_quanti_plani
+			Règles
+				Options=1 0 0 0
+				ON=0 1 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 100
+				Item=...
+			Fin
+			Variable=plan_dappro_annulepour_produits_financé
+			Variable=agence_aprovisionnement_STMS
+			Variable=agence_aprovisionnement_PSN
+			Variable=agence_aprovisionnement_CAN
+			Variable=agence_aprovisionnement_externe
+			Variable=agence_aprovisionnement_vous_meme
+			Rectangle=101 15097 1138 16171
+			Formats
+			Fin
+		Fin
+		Titre
+			Variable=explication_du_non_choix_de_CAN
+			Rectangle=101 15690 196 15764
+		Fin
+		Variable
+			Variable=explication_du_non_choix_de_CAN
+			Rectangle=101 15812 1302 15864
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=polotique_dirictive_achat_des_produits
+			Rectangle=1320 15812 1910 16092
+			Formats
+			Fin
+		Fin
+		Titre
+			Variable=qualité_medicam_pré_qualifié_OMS
+			Rectangle=101 16351 2273 16425
+		Fin
+		Groupe
+			Nom=Groupe n°7
+			Variable=qualité_medicam_pré_qualifié_OMS
+			Règles
+				Options=1 0 0 0
+				ON=0 1 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 100
+				Item=...
+			Fin
+			Variable=qualité_medicam_autorité_pays_rigoureux
+			Variable=qualité_medicam_enregistré_paysbenefi
+			Rectangle=101 16473 1177 16806
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=controle_qualité_medicament_acheté
+			Rectangle=1196 16473 1759 16753
+			Formats
+			Fin
+		Fin
+		Titre
+			Variable=lab_controle_qualité_LNCQ
+			Rectangle=101 16854 2133 16928
+		Fin
+		Groupe
+			Nom=Groupe n°8
+			Variable=lab_controle_qualité_LNCQ
+			Règles
+				Options=1 0 0 0
+				ON=0 1 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 100
+				Item=...
+			Fin
+			Variable=lab_controle_qualité_LabOMS
+			Variable=lab_controle_qualité_LabISO
+			Rectangle=101 16976 1019 17309
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=côntrole_qualité_quantité_testé
+			Rectangle=1037 16976 1516 17029
+			Formats
+			Fin
+		Fin
+		Variable
+			Variable=côntrole_qualité_quantité_non_conforme
+			Rectangle=101 17357 717 17410
+			Formats
+			Fin
+		Fin
+		Titre
+			Variable=gestion_stock_par_outils_nationaux
+			Rectangle=101 18068 688 18142
+		Fin
+		Groupe
+			Nom=Groupe n°9
+			Variable=gestion_stock_par_outils_nationaux
+			Règles
+				Options=1 0 0 0
+				ON=0 1 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 100
+				Item=...
+			Fin
+			Variable=gestionStockParOutils_softwareForquanti
+			Variable=gestionStockParOutils_ProVeb_RecpPro
+			Variable=E-3-c
+			Variable=E-3-d
+			Variable=E-3-e
+			Variable=E-3-f
+			Variable=E-3-g
+			Variable=E-3-h
+			Variable=E-3-i
+			Rectangle=101 18190 1045 18894
+			Formats
+			Fin
+		Fin
+	Fin
+Fin
