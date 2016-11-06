@@ -1,0 +1,1398 @@
+Version=5.0.0.82
+Données=C:\Users\BIGMARKET 2\Desktop\Source questionnaire\Questionnaire n°7\Questionnaire n°7.que
+Paramètres=
+Enquête=
+ID=
+Décimales=2 1
+Statistiques
+	SeuilsFF=5 1 5 15
+	SeuilsFN=5 1 5 15
+	SeuilsNN=0.6 0.8 0.6 0.4
+	CalculsStricts=0 30 20
+	PrincipauxElements=0 10 0 3
+	CasesSignificatives=60 95
+Fin
+Publication
+	Etude=
+	Accès=-1
+	Lien
+		Type=confirm
+	Fin
+Fin
+Vues
+	Actif=-1 0
+	FormulairePapier
+		Nom=Formulaire papier n°1
+		Taille=9 2100 2970 1 82 0 0
+		Marges=26 26 26 26
+		Zoom=-2 50
+		Fond=0 16777215
+		Barre=0
+		Progresion=1
+		Placement=2 1 0 0 1 1 0
+		Organisation=0 3 50 50 0
+		FormatAuto=0 0 0 0 0 256 33554433
+		Options=2 2 0 0 0 0 1 0 0 0 1 0
+		Rectangle=0 0 0 0
+		Style=Style vis à vis
+		StyleFormes
+			Bord=0 1 0
+			Fond=12632256
+		Fin
+		StyleLégendes
+			Bord=1 1 0
+			Police=Arial 16 0 1 0 16751052
+			StyleLien=0
+		Fin
+		StyleTitres
+			Bord=0 0 12632256
+			Police1=Arial 14 1 0 0 -1
+			Police2=Arial 10 2 0 0 -1
+			Affichage=1 0
+		Fin
+		StyleVariables
+			Bord=4 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 12632256
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 0 0 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=10 1 1 0 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleNoeuds
+			Variable=0 
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65280
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=0 0 0 0 0 1 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 1 1 0 0 0
+			Item=0 
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=4 1 1 0 1
+			Fin
+		Fin
+		StyleGroupes
+			Bord=3 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 1 0 0 0 0 0
+			Alignement=1
+			Valeurs=0 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0
+				FF=1 0 0 0 1
+				FN=1 1 1 1 1 1 0 0 0 0 0
+				NN=1 1 1 1 1 0 0 0 0
+			Fin
+			Graphique
+				Type=3
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				FF=1 0 0 1 1 0
+				FN=1 1 1 1
+				NN=1 0 1 0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleTableauCaractéristiques
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 1 0 0 0 1 0
+			Alignement=1
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=5
+				Options=0 5 5 1
+				Cellules=1 0 0
+			Fin
+			Graphique
+				Type=1
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleComposés
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65535
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 0 0 0
+			Alignement=1
+			Valeurs=0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Affichage=3 1 0 1 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleRelations
+			Ligne=0 0 0
+			Bord=4 0 0
+			Police=Arial 8 0 1 0 16777215
+			Valeurs=0 0 0 3 0
+		Fin
+		StyleSaisies
+			Bord=1 0 12632256
+			Police1=Arial 8 2 0 0 16777215
+			Police2=Arial 8 1 0 0 15466495
+			Police3=Arial 8 0 0 0 16577773 16577773
+			Police4=Arial 8 0 0 16711680
+			Affichage=1 1 0 1 1 0 0
+			Alignement=0
+			Taille=1 900 0 500
+			Pictogrammes=
+			Nominale=0 0 0 0 2 2 12 0 16777215
+			Ouverte=2 0 1
+			Options=0 0 0
+		Fin
+		StyleMultimédias
+			Bord=1 1 0
+		Fin
+		StyleExternes
+			Bord=1 1 0
+			Police=Arial 8 0 0 0 -1
+			Affichage=0
+		Fin
+		StyleOLEs
+			Bord=1 1 0
+		Fin
+		Légende
+			Masque=1
+			TexteFR=[Titre de l'étude]
+			TexteEN=[Titre de l'étude]
+			Rectangle=61 61 2037 140
+			Bord=0 1 0
+			Police=Arial 16 0 1 0 16777215
+		Fin
+		Saisie
+			Variable=Pays
+			Rectangle=61 143 2040 254
+		Fin
+		Saisie
+			Variable=Nom_officine
+			Rectangle=61 251 2040 362
+		Fin
+		Saisie
+			Variable=Adresse
+			Rectangle=61 360 2040 471
+		Fin
+		Saisie
+			Variable=Tél_officine
+			Rectangle=61 468 2040 579
+		Fin
+		Saisie
+			Variable=Nom_Directeur
+			Rectangle=61 577 2040 688
+		Fin
+		Titre
+			Variable=Nom_consultant
+			Rectangle=61 685 2040 759
+		Fin
+		Saisie
+			Variable=Nom_consultant
+			Rectangle=61 757 2040 868
+		Fin
+		Saisie
+			Variable=Qualification
+			Rectangle=61 865 2040 976
+		Fin
+		Saisie
+			Variable=Tél_consultant
+			Rectangle=61 974 2040 1085
+		Fin
+		Saisie
+			Variable=Nom_consultant1
+			Rectangle=61 1082 2040 1193
+		Fin
+		Saisie
+			Variable=Qualification1
+			Rectangle=61 1191 2040 1302
+		Fin
+		Saisie
+			Variable=Tél_consultant1
+			Rectangle=61 1299 2040 1410
+		Fin
+		Saisie
+			Variable=Nom_consultant2
+			Rectangle=61 1408 2040 1519
+		Fin
+		Saisie
+			Variable=Qualification2
+			Rectangle=61 1516 2040 1627
+		Fin
+		Saisie
+			Variable=Tél_consultant2
+			Rectangle=61 1625 2040 1736
+		Fin
+		Titre
+			Variable=date_interview
+			Rectangle=61 1733 2040 1807
+		Fin
+		Saisie
+			Variable=date_interview
+			Rectangle=61 1804 2040 1879
+		Fin
+		Saisie
+			Variable=Nom_consultant3
+			Rectangle=61 1876 2040 1987
+		Fin
+		Saisie
+			Variable=Qualification3
+			Rectangle=61 1984 2040 2096
+		Fin
+		Saisie
+			Variable=Tél_officine1
+			Rectangle=61 2093 2040 2204
+		Fin
+		Saisie
+			Variable=date_interview1
+			Rectangle=61 2201 2040 2275
+		Fin
+		Saisie
+			Variable=Nom_consultant4
+			Rectangle=61 2273 2040 2384
+		Fin
+		Saisie
+			Variable=Qualification4
+			Rectangle=61 2381 2040 2492
+		Fin
+		Saisie
+			Variable=Tél_officine2
+			Rectangle=61 2490 2040 2601
+		Fin
+		Saisie
+			Variable=date_interview2
+			Rectangle=61 2598 2040 2672
+		Fin
+		Saisie
+			Variable=Nom_consultant5
+			Rectangle=61 2670 2040 2781
+		Fin
+		Saisie
+			Variable=Qualification5
+			Rectangle=61 2778 2040 2889
+		Fin
+		Saisie
+			Variable=Tél_officine3
+			Rectangle=61 3114 2040 3225
+		Fin
+		Titre
+			Variable=A-a
+			Rectangle=61 3424 2040 3498
+		Fin
+		Titre
+			Variable=A-a
+			Indice=1
+			Rectangle=61 3294 2040 3426
+		Fin
+		Titre
+			Variable=A-a
+			Indice=2
+			Rectangle=61 3223 2040 3297
+		Fin
+		Saisie
+			Variable=A-a
+			Rectangle=61 3495 2040 3606
+		Fin
+		Saisie
+			Variable=Aa2
+			Rectangle=61 3604 2040 3678
+		Fin
+		Saisie
+			Variable=Aab
+			Rectangle=61 3675 2040 3786
+		Fin
+		Titre
+			Variable=A-a1
+			Rectangle=61 3784 2040 3858
+		Fin
+		Saisie
+			Variable=A-a1
+			Rectangle=61 3855 2040 3966
+		Fin
+		Saisie
+			Variable=Aa3
+			Rectangle=61 3963 2040 4038
+		Fin
+		Saisie
+			Variable=Aab1
+			Rectangle=61 4035 2040 4146
+		Fin
+		Titre
+			Variable=A-a2
+			Rectangle=61 4143 2040 4217
+		Fin
+		Saisie
+			Variable=A-a2
+			Rectangle=61 4215 2040 4326
+		Fin
+		Saisie
+			Variable=Aa4
+			Rectangle=61 4323 2040 4397
+		Fin
+		Saisie
+			Variable=Aab2
+			Rectangle=61 4395 2040 4506
+		Fin
+		Titre
+			Variable=A-a3
+			Rectangle=61 4503 2040 4577
+		Fin
+		Saisie
+			Variable=A-a3
+			Rectangle=61 4575 2040 4686
+		Fin
+		Saisie
+			Variable=Aa5
+			Rectangle=61 4683 2040 4757
+		Fin
+		Saisie
+			Variable=Aab3
+			Rectangle=61 4755 2040 4866
+		Fin
+		Titre
+			Variable=A-a4
+			Rectangle=61 4863 2040 4937
+		Fin
+		Saisie
+			Variable=A-a4
+			Rectangle=61 4934 2040 5046
+		Fin
+		Saisie
+			Variable=Aa6
+			Rectangle=61 5043 2040 5117
+		Fin
+		Saisie
+			Variable=Aab4
+			Rectangle=61 5114 2040 5226
+		Fin
+		Titre
+			Variable=A-a5
+			Rectangle=61 5223 2040 5297
+		Fin
+		Saisie
+			Variable=A-a5
+			Rectangle=61 5294 2040 5405
+		Fin
+		Saisie
+			Variable=Aa7
+			Rectangle=61 5403 2040 5477
+		Fin
+		Saisie
+			Variable=Aab5
+			Rectangle=61 5474 2040 5585
+		Fin
+		Titre
+			Variable=A-a6
+			Rectangle=61 5583 2040 5657
+		Fin
+		Saisie
+			Variable=A-a6
+			Rectangle=61 5654 2040 5765
+		Fin
+		Saisie
+			Variable=Aa8
+			Rectangle=61 5763 2040 5837
+		Fin
+		Saisie
+			Variable=Aab6
+			Rectangle=61 6085 2040 6197
+		Fin
+		Titre
+			Variable=A-a7
+			Rectangle=61 6194 2040 6268
+		Fin
+		Saisie
+			Variable=A-a7
+			Rectangle=61 6265 2040 6376
+		Fin
+		Saisie
+			Variable=Aa9
+			Rectangle=61 6374 2040 6448
+		Fin
+		Saisie
+			Variable=Aab7
+			Rectangle=61 6445 2040 6556
+		Fin
+		Titre
+			Variable=A-a8
+			Rectangle=61 6554 2040 6628
+		Fin
+		Saisie
+			Variable=A-a8
+			Rectangle=61 6625 2040 6736
+		Fin
+		Saisie
+			Variable=Aa10
+			Rectangle=61 6734 2040 6808
+		Fin
+		Saisie
+			Variable=Aab8
+			Rectangle=61 6805 2040 6916
+		Fin
+		Titre
+			Variable=A-a9
+			Rectangle=61 6914 2040 6988
+		Fin
+		Saisie
+			Variable=A-a9
+			Rectangle=61 6985 2040 7096
+		Fin
+		Saisie
+			Variable=Aa11
+			Rectangle=61 7093 2040 7168
+		Fin
+		Saisie
+			Variable=Aab9
+			Rectangle=61 7165 2040 7276
+		Fin
+		Titre
+			Variable=A-a10
+			Rectangle=61 7273 2040 7347
+		Fin
+		Saisie
+			Variable=A-a10
+			Rectangle=61 7345 2040 7456
+		Fin
+		Saisie
+			Variable=Aa12
+			Rectangle=61 7453 2040 7527
+		Fin
+		Saisie
+			Variable=Aab10
+			Rectangle=61 7525 2040 7636
+		Fin
+		Titre
+			Variable=B1_Produits
+			Rectangle=61 7834 2040 7908
+		Fin
+		Titre
+			Variable=B1_Produits
+			Indice=1
+			Rectangle=61 7705 2040 7837
+		Fin
+		Titre
+			Variable=B1_Produits
+			Indice=2
+			Rectangle=61 7633 2040 7707
+		Fin
+		Saisie
+			Variable=B1_Produits
+			Rectangle=61 7906 2040 8017
+		Fin
+		Saisie
+			Variable=B1_Quantite
+			Rectangle=61 8014 2040 8088
+		Fin
+		Saisie
+			Variable=B1_Quantite1
+			Rectangle=61 8086 2040 8160
+		Fin
+		Titre
+			Variable=B1_Produits1
+			Rectangle=61 8157 2040 8231
+		Fin
+		Saisie
+			Variable=B1_Produits1
+			Rectangle=61 8229 2040 8340
+		Fin
+		Saisie
+			Variable=B1_Quantite2
+			Rectangle=61 8337 2040 8411
+		Fin
+		Saisie
+			Variable=B1_Quantite3
+			Rectangle=61 8408 2040 8483
+		Fin
+		Titre
+			Variable=B1_Produits2
+			Rectangle=61 8480 2040 8554
+		Fin
+		Saisie
+			Variable=B1_Produits2
+			Rectangle=61 8551 2040 8662
+		Fin
+		Saisie
+			Variable=B1_Quantite4
+			Rectangle=61 8660 2040 8734
+		Fin
+		Saisie
+			Variable=B1_Quantite5
+			Rectangle=61 8731 2040 8805
+		Fin
+		Titre
+			Variable=B1_Produits3
+			Rectangle=61 9057 2040 9131
+		Fin
+		Saisie
+			Variable=B1_Produits3
+			Rectangle=61 9128 2040 9239
+		Fin
+		Saisie
+			Variable=B1_Quantite6
+			Rectangle=61 9237 2040 9311
+		Fin
+		Saisie
+			Variable=B1_Quantite7
+			Rectangle=61 9308 2040 9382
+		Fin
+		Titre
+			Variable=B1_Produits4
+			Rectangle=61 9379 2040 9454
+		Fin
+		Saisie
+			Variable=B1_Produits4
+			Rectangle=61 9451 2040 9562
+		Fin
+		Saisie
+			Variable=B1_Quantite8
+			Rectangle=61 9559 2040 9633
+		Fin
+		Saisie
+			Variable=B1_Quantite9
+			Rectangle=61 9631 2040 9705
+		Fin
+		Titre
+			Variable=B1_Produits5
+			Rectangle=61 9702 2040 9776
+		Fin
+		Saisie
+			Variable=B1_Produits5
+			Rectangle=61 9774 2040 9885
+		Fin
+		Saisie
+			Variable=B1_Quantite10
+			Rectangle=61 9882 2040 9956
+		Fin
+		Saisie
+			Variable=B1_Quantite11
+			Rectangle=61 9954 2040 10028
+		Fin
+		Titre
+			Variable=B1_Produits6
+			Rectangle=61 10025 2040 10099
+		Fin
+		Saisie
+			Variable=B1_Produits6
+			Rectangle=61 10097 2040 10208
+		Fin
+		Saisie
+			Variable=B1_Quantite12
+			Rectangle=61 10205 2040 10279
+		Fin
+		Saisie
+			Variable=B1_Quantite13
+			Rectangle=61 10276 2040 10351
+		Fin
+		Titre
+			Variable=B1_Produits7
+			Rectangle=61 10348 2040 10422
+		Fin
+		Saisie
+			Variable=B1_Produits7
+			Rectangle=61 10419 2040 10530
+		Fin
+		Saisie
+			Variable=B1_Quantite14
+			Rectangle=61 10528 2040 10602
+		Fin
+		Saisie
+			Variable=B1_Quantite15
+			Rectangle=61 10599 2040 10673
+		Fin
+		Titre
+			Variable=B1_Produits8
+			Rectangle=61 10671 2040 10745
+		Fin
+		Saisie
+			Variable=B1_Produits8
+			Rectangle=61 10742 2040 10853
+		Fin
+		Saisie
+			Variable=B1_Quantite16
+			Rectangle=61 10851 2040 10925
+		Fin
+		Saisie
+			Variable=B1_Quantite17
+			Rectangle=61 10922 2040 10996
+		Fin
+		Titre
+			Variable=B1_Produits9
+			Rectangle=61 10993 2040 11068
+		Fin
+		Saisie
+			Variable=B1_Produits9
+			Rectangle=61 11065 2040 11176
+		Fin
+		Saisie
+			Variable=B1_Quantite18
+			Rectangle=61 11173 2040 11247
+		Fin
+		Saisie
+			Variable=B1_Quantite19
+			Rectangle=61 11245 2040 11319
+		Fin
+		Titre
+			Variable=B1_Produits10
+			Rectangle=61 11316 2040 11390
+		Fin
+		Saisie
+			Variable=B1_Produits10
+			Rectangle=61 11388 2040 11499
+		Fin
+		Saisie
+			Variable=B1_Quantite20
+			Rectangle=61 11496 2040 11570
+		Fin
+		Saisie
+			Variable=B1_Quantite21
+			Rectangle=61 11568 2040 11642
+		Fin
+		Titre
+			Variable=B1_Produits11
+			Rectangle=61 11639 2040 11713
+		Fin
+		Saisie
+			Variable=B1_Produits11
+			Rectangle=61 11710 2040 11822
+		Fin
+		Saisie
+			Variable=B1_Quantite22
+			Rectangle=61 12028 2040 12102
+		Fin
+		Saisie
+			Variable=B1_Quantite23
+			Rectangle=61 12099 2040 12173
+		Fin
+		Titre
+			Variable=B1_Produits12
+			Rectangle=61 12171 2040 12245
+		Fin
+		Saisie
+			Variable=B1_Produits12
+			Rectangle=61 12242 2040 12353
+		Fin
+		Saisie
+			Variable=B1_Quantite24
+			Rectangle=61 12351 2040 12425
+		Fin
+		Saisie
+			Variable=B1_Quantite25
+			Rectangle=61 12422 2040 12496
+		Fin
+		Titre
+			Variable=B1_Produits13
+			Rectangle=61 12494 2040 12568
+		Fin
+		Saisie
+			Variable=B1_Produits13
+			Rectangle=61 12565 2040 12676
+		Fin
+		Saisie
+			Variable=B1_Quantite26
+			Rectangle=61 12674 2040 12748
+		Fin
+		Saisie
+			Variable=B1_Quantite27
+			Rectangle=61 12745 2040 12819
+		Fin
+		Titre
+			Variable=B1_Produits14
+			Rectangle=61 12816 2040 12891
+		Fin
+		Saisie
+			Variable=B1_Produits14
+			Rectangle=61 12888 2040 12999
+		Fin
+		Saisie
+			Variable=B1_Quantite28
+			Rectangle=61 12996 2040 13070
+		Fin
+		Saisie
+			Variable=B1_Quantite29
+			Rectangle=61 13068 2040 13142
+		Fin
+		Titre
+			Variable=B1_Produits15
+			Rectangle=61 13139 2040 13213
+		Fin
+		Saisie
+			Variable=B1_Produits15
+			Rectangle=61 13211 2040 13322
+		Fin
+		Saisie
+			Variable=B1_Quantite30
+			Rectangle=61 13319 2040 13393
+		Fin
+		Saisie
+			Variable=B1_Quantite31
+			Rectangle=61 13391 2040 13465
+		Fin
+		Titre
+			Variable=B1_Produits16
+			Rectangle=61 13462 2040 13536
+		Fin
+		Saisie
+			Variable=B1_Produits16
+			Rectangle=61 13533 2040 13645
+		Fin
+		Saisie
+			Variable=B1_Quantite32
+			Rectangle=61 13642 2040 13716
+		Fin
+		Saisie
+			Variable=B1_Quantite33
+			Rectangle=61 13713 2040 13787
+		Fin
+		Titre
+			Variable=B1_Produits17
+			Rectangle=61 13785 2040 13859
+		Fin
+		Saisie
+			Variable=B1_Produits17
+			Rectangle=61 13856 2040 13967
+		Fin
+		Saisie
+			Variable=B1_Quantite34
+			Rectangle=61 13965 2040 14039
+		Fin
+		Saisie
+			Variable=B1_Quantite35
+			Rectangle=61 14036 2040 14110
+		Fin
+		Titre
+			Variable=B1_Produits18
+			Rectangle=61 14108 2040 14182
+		Fin
+		Saisie
+			Variable=B1_Produits18
+			Rectangle=61 14179 2040 14290
+		Fin
+		Saisie
+			Variable=B1_Quantite36
+			Rectangle=61 14288 2040 14362
+		Fin
+		Saisie
+			Variable=B1_Quantite37
+			Rectangle=61 14359 2040 14433
+		Fin
+		Titre
+			Variable=B1_Produits19
+			Rectangle=61 14430 2040 14504
+		Fin
+		Saisie
+			Variable=B1_Produits19
+			Rectangle=61 14502 2040 14613
+		Fin
+		Saisie
+			Variable=B1_Quantite38
+			Rectangle=61 14610 2040 14684
+		Fin
+		Saisie
+			Variable=B1_Quantite39
+			Rectangle=61 14682 2040 14756
+		Fin
+		Titre
+			Variable=c1
+			Rectangle=61 14999 2040 15073
+		Fin
+		Saisie
+			Variable=c1
+			Rectangle=61 15071 2040 15124
+		Fin
+		Saisie
+			Variable=Lister
+			Rectangle=61 15121 2040 15232
+		Fin
+		Saisie
+			Variable=c2
+			Rectangle=61 15229 2040 15319
+		Fin
+		Saisie
+			Variable=Lister1
+			Rectangle=61 15317 2040 15428
+		Fin
+		Saisie
+			Variable=c3
+			Rectangle=61 15425 2040 15478
+		Fin
+		Saisie
+			Variable=Lister2
+			Rectangle=61 15475 2040 15587
+		Fin
+		Saisie
+			Variable=c4
+			Rectangle=61 15584 2040 15637
+		Fin
+		Saisie
+			Variable=Lister3
+			Rectangle=61 15634 2040 15745
+		Fin
+		Saisie
+			Variable=c5
+			Rectangle=61 15743 2040 15796
+		Fin
+		Saisie
+			Variable=Lister4
+			Rectangle=61 15793 2040 15904
+		Fin
+		Saisie
+			Variable=c6
+			Rectangle=61 15901 2040 15954
+		Fin
+		Saisie
+			Variable=Lister5
+			Rectangle=61 15952 2040 16063
+		Fin
+		Saisie
+			Variable=c7
+			Rectangle=61 16060 2040 16113
+		Fin
+		Saisie
+			Variable=Lister6
+			Rectangle=61 16110 2040 16222
+		Fin
+		Saisie
+			Variable=c8
+			Rectangle=61 16219 2040 16330
+		Fin
+		Saisie
+			Variable=Lister7
+			Rectangle=61 16327 2040 16439
+		Fin
+		Titre
+			Variable=Da
+			Rectangle=61 16507 2040 16581
+		Fin
+		Titre
+			Variable=Da
+			Indice=1
+			Rectangle=61 16436 2040 16510
+		Fin
+		Saisie
+			Variable=Da
+			Rectangle=61 16579 2040 16690
+		Fin
+		Saisie
+			Variable=Da1
+			Rectangle=61 16687 2040 16798
+		Fin
+		Saisie
+			Variable=Da2
+			Rectangle=61 16796 2040 16907
+		Fin
+		Saisie
+			Variable=Da3
+			Rectangle=61 16904 2040 17015
+		Fin
+		Saisie
+			Variable=Da4
+			Rectangle=61 17013 2040 17124
+		Fin
+		Saisie
+			Variable=Da5
+			Rectangle=61 17121 2040 17232
+		Fin
+		Titre
+			Variable=Da6
+			Rectangle=61 17230 2040 17304
+		Fin
+		Saisie
+			Variable=Da6
+			Rectangle=61 17301 2040 17412
+		Fin
+		Saisie
+			Variable=Da7
+			Rectangle=61 17410 2040 17521
+		Fin
+		Saisie
+			Variable=Da8
+			Rectangle=61 17518 2040 17629
+		Fin
+		Saisie
+			Variable=Da9
+			Rectangle=61 17627 2040 17738
+		Fin
+		Saisie
+			Variable=Da10
+			Rectangle=61 17971 2040 18082
+		Fin
+		Saisie
+			Variable=Da11
+			Rectangle=61 18079 2040 18190
+		Fin
+		Titre
+			Variable=Da12
+			Rectangle=61 18259 2040 18333
+		Fin
+		Titre
+			Variable=Da12
+			Indice=1
+			Rectangle=61 18187 2040 18262
+		Fin
+		Saisie
+			Variable=Da12
+			Rectangle=61 18330 2040 18441
+		Fin
+		Saisie
+			Variable=Da18
+			Rectangle=61 18439 2040 18513
+		Fin
+		Saisie
+			Variable=Da13
+			Rectangle=61 18510 2040 18621
+		Fin
+		Saisie
+			Variable=Da19
+			Rectangle=61 18619 2040 18693
+		Fin
+		Saisie
+			Variable=Da14
+			Rectangle=61 18690 2040 18801
+		Fin
+		Saisie
+			Variable=Da20
+			Rectangle=61 18799 2040 18873
+		Fin
+		Saisie
+			Variable=Da15
+			Rectangle=61 18870 2040 18981
+		Fin
+		Saisie
+			Variable=Da21
+			Rectangle=61 18979 2040 19053
+		Fin
+		Saisie
+			Variable=Da16
+			Rectangle=61 19050 2040 19161
+		Fin
+		Saisie
+			Variable=Da22
+			Rectangle=61 19158 2040 19233
+		Fin
+		Saisie
+			Variable=Da23
+			Rectangle=61 19230 2040 19341
+		Fin
+		Saisie
+			Variable=Da17
+			Rectangle=61 19338 2040 19412
+		Fin
+		Titre
+			Variable=B1_Produits20
+			Rectangle=61 19539 2040 19614
+		Fin
+		Titre
+			Variable=B1_Produits20
+			Indice=1
+			Rectangle=61 19410 2040 19542
+		Fin
+		Saisie
+			Variable=B1_Produits20
+			Rectangle=61 19611 2040 19722
+		Fin
+		Saisie
+			Variable=B1_Quantite41
+			Rectangle=61 19719 2040 19793
+		Fin
+		Titre
+			Variable=B1_Produits21
+			Rectangle=61 19791 2040 19865
+		Fin
+		Saisie
+			Variable=B1_Produits21
+			Rectangle=61 19862 2040 19973
+		Fin
+		Saisie
+			Variable=B1_Quantite43
+			Rectangle=61 19971 2040 20045
+		Fin
+		Titre
+			Variable=B1_Produits22
+			Rectangle=61 20042 2040 20116
+		Fin
+		Saisie
+			Variable=B1_Produits22
+			Rectangle=61 20114 2040 20225
+		Fin
+		Saisie
+			Variable=B1_Quantite45
+			Rectangle=61 20222 2040 20296
+		Fin
+		Titre
+			Variable=B1_Produits23
+			Rectangle=61 20294 2040 20368
+		Fin
+		Saisie
+			Variable=B1_Produits23
+			Rectangle=61 20365 2040 20476
+		Fin
+		Saisie
+			Variable=B1_Quantite47
+			Rectangle=61 20473 2040 20548
+		Fin
+		Titre
+			Variable=B1_Produits24
+			Rectangle=61 20545 2040 20619
+		Fin
+		Saisie
+			Variable=B1_Produits24
+			Rectangle=61 20616 2040 20727
+		Fin
+		Saisie
+			Variable=B1_Quantite49
+			Rectangle=61 20942 2040 21016
+		Fin
+		Titre
+			Variable=B1_Produits25
+			Rectangle=61 21013 2040 21087
+		Fin
+		Saisie
+			Variable=B1_Produits25
+			Rectangle=61 21085 2040 21196
+		Fin
+		Saisie
+			Variable=B1_Quantite51
+			Rectangle=61 21193 2040 21267
+		Fin
+		Titre
+			Variable=B1_Produits26
+			Rectangle=61 21265 2040 21339
+		Fin
+		Saisie
+			Variable=B1_Produits26
+			Rectangle=61 21336 2040 21447
+		Fin
+		Saisie
+			Variable=B1_Quantite52
+			Rectangle=61 21444 2040 21519
+		Fin
+		Saisie
+			Variable=B1_Quantite53
+			Rectangle=61 21516 2040 21590
+		Fin
+		Titre
+			Variable=B1_Produits27
+			Rectangle=61 21587 2040 21661
+		Fin
+		Saisie
+			Variable=B1_Produits27
+			Rectangle=61 21659 2040 21770
+		Fin
+		Saisie
+			Variable=B1_Quantite54
+			Rectangle=61 21767 2040 21841
+		Fin
+		Saisie
+			Variable=B1_Quantite55
+			Rectangle=61 21839 2040 21913
+		Fin
+		Titre
+			Variable=B1_Produits28
+			Rectangle=61 21910 2040 21984
+		Fin
+		Saisie
+			Variable=B1_Produits28
+			Rectangle=61 21982 2040 22093
+		Fin
+		Saisie
+			Variable=B1_Quantite56
+			Rectangle=61 22090 2040 22164
+		Fin
+		Saisie
+			Variable=B1_Quantite57
+			Rectangle=61 22162 2040 22236
+		Fin
+		Titre
+			Variable=B1_Produits29
+			Rectangle=61 22233 2040 22307
+		Fin
+		Saisie
+			Variable=B1_Produits29
+			Rectangle=61 22304 2040 22416
+		Fin
+		Saisie
+			Variable=B1_Quantite58
+			Rectangle=61 22413 2040 22487
+		Fin
+		Saisie
+			Variable=B1_Quantite59
+			Rectangle=61 22484 2040 22558
+		Fin
+		Titre
+			Variable=B1_Produits30
+			Rectangle=61 22556 2040 22630
+		Fin
+		Saisie
+			Variable=B1_Produits30
+			Rectangle=61 22627 2040 22738
+		Fin
+		Saisie
+			Variable=B1_Quantite60
+			Rectangle=61 22736 2040 22810
+		Fin
+		Saisie
+			Variable=B1_Quantite61
+			Rectangle=61 22807 2040 22881
+		Fin
+		Titre
+			Variable=B1_Produits31
+			Rectangle=61 22879 2040 22953
+		Fin
+		Saisie
+			Variable=B1_Produits31
+			Rectangle=61 22950 2040 23061
+		Fin
+		Saisie
+			Variable=B1_Quantite62
+			Rectangle=61 23058 2040 23133
+		Fin
+		Saisie
+			Variable=B1_Quantite63
+			Rectangle=61 23130 2040 23204
+		Fin
+		Titre
+			Variable=B1_Produits32
+			Rectangle=61 23201 2040 23275
+		Fin
+		Saisie
+			Variable=B1_Produits32
+			Rectangle=61 23273 2040 23384
+		Fin
+		Saisie
+			Variable=B1_Quantite64
+			Rectangle=61 23381 2040 23455
+		Fin
+		Saisie
+			Variable=B1_Quantite65
+			Rectangle=61 23453 2040 23527
+		Fin
+		Titre
+			Variable=B1_Produits33
+			Rectangle=61 23524 2040 23598
+		Fin
+		Saisie
+			Variable=B1_Produits33
+			Rectangle=61 23596 2040 23707
+		Fin
+		Saisie
+			Variable=B1_Quantite66
+			Rectangle=61 23913 2040 23987
+		Fin
+		Saisie
+			Variable=B1_Quantite67
+			Rectangle=61 23984 2040 24059
+		Fin
+		Titre
+			Variable=B1_Produits34
+			Rectangle=61 24056 2040 24130
+		Fin
+		Saisie
+			Variable=B1_Produits34
+			Rectangle=61 24127 2040 24238
+		Fin
+		Saisie
+			Variable=B1_Quantite68
+			Rectangle=61 24236 2040 24310
+		Fin
+		Saisie
+			Variable=B1_Quantite69
+			Rectangle=61 24307 2040 24381
+		Fin
+		Titre
+			Variable=B1_Produits35
+			Rectangle=61 24379 2040 24453
+		Fin
+		Saisie
+			Variable=B1_Produits35
+			Rectangle=61 24450 2040 24561
+		Fin
+		Saisie
+			Variable=B1_Quantite70
+			Rectangle=61 24559 2040 24633
+		Fin
+		Saisie
+			Variable=B1_Quantite71
+			Rectangle=61 24630 2040 24704
+		Fin
+		Titre
+			Variable=B1_Produits36
+			Rectangle=61 24702 2040 24776
+		Fin
+		Saisie
+			Variable=B1_Produits36
+			Rectangle=61 24773 2040 24884
+		Fin
+		Saisie
+			Variable=B1_Quantite72
+			Rectangle=61 24881 2040 24956
+		Fin
+		Saisie
+			Variable=B1_Quantite73
+			Rectangle=61 24953 2040 25027
+		Fin
+		Titre
+			Variable=B1_Produits37
+			Rectangle=61 25024 2040 25098
+		Fin
+		Saisie
+			Variable=B1_Produits37
+			Rectangle=61 25096 2040 25207
+		Fin
+		Saisie
+			Variable=B1_Quantite74
+			Rectangle=61 25204 2040 25278
+		Fin
+		Saisie
+			Variable=B1_Quantite75
+			Rectangle=61 25276 2040 25350
+		Fin
+		Titre
+			Variable=B1_Produits38
+			Rectangle=61 25347 2040 25421
+		Fin
+		Saisie
+			Variable=B1_Produits38
+			Rectangle=61 25419 2040 25530
+		Fin
+		Saisie
+			Variable=B1_Quantite76
+			Rectangle=61 25527 2040 25601
+		Fin
+		Saisie
+			Variable=B1_Quantite77
+			Rectangle=61 25598 2040 25673
+		Fin
+		Titre
+			Variable=B1_Produits39
+			Rectangle=61 25670 2040 25744
+		Fin
+		Saisie
+			Variable=B1_Produits39
+			Rectangle=61 25741 2040 25852
+		Fin
+		Saisie
+			Variable=B1_Quantite78
+			Rectangle=61 25850 2040 25924
+		Fin
+		Saisie
+			Variable=B1_Quantite79
+			Rectangle=61 25921 2040 25995
+		Fin
+		Saisie
+			Variable=G
+			Rectangle=61 25993 2040 26104
+		Fin
+		Saisie
+			Variable=H
+			Rectangle=61 26101 2040 26212
+		Fin
+		Saisie
+			Variable=I
+			Rectangle=61 26210 2040 26321
+		Fin
+	Fin
+Fin

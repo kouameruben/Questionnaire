@@ -1,0 +1,1291 @@
+Version=5008
+Entête
+	Historique=5.0.0.82(IUT TC - AIX EN;
+	Langue=FR
+	Titre=Questionnaire n°9
+	StadePanneau=10
+Fin
+Questions
+	Question
+		Libellé=Pays
+		Variable=Pays
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Adresse
+		Variable=Adresse
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Fax/email
+		Variable=Tel
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom du Directeur
+		Variable=Directeur
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=Nom1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=Nom2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=Date
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=Nom3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=date1
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=Nom4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=Date2
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=Nom5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=Date3
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=Nom6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=A. Valeur des importations par catégories de produits
+		Variable=A
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2011
+		Variable=A1-a
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2012
+		Variable=A1-b
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2013
+		Variable=A1-c
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2014
+		Variable=A1-d
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2015
+		Variable=A1-e
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 1
+		Variable=A2a
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2a_Montant
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2a_Exportation
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 2
+		Variable=A2b
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2b_Montant
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2b_Exportation
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 3
+		Variable=A2c
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2c_Montant
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2c_Exportation
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 4
+		Variable=A2d
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2d_Montant
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2d_Exportation
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 4
+		Variable=A2e
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2e_Montant
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2e_Exportation
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 5
+		Variable=A2f
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2f_Montant
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2f_Exportation
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 1
+		Variable=A2a1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2a_Montant1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2a_Exportation1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 2
+		Variable=A2b1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2b_Montant1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2b_Exportation1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 3
+		Variable=A2c1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2c_Montant1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2c_Exportation1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 4
+		Variable=A2d1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2d_Montant1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2d_Exportation1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 5
+		Variable=A2e1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2e_Montant1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2e_Exportation1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 6
+		Variable=A2f1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2f_Montant1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2f_Exportation1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 1
+		Variable=A2a2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2a_Montant2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2a_Exportation2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 2
+		Variable=A2b2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2b_Montant2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2b_Exportation2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 3
+		Variable=A2c2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2c_Montant2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2c_Exportation2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 4
+		Variable=A2d2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2d_Montant2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2d_Exportation2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 5
+		Variable=A2e2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2e_Montant2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2e_Exportation2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 6
+		Variable=A2f2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2f_Montant2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2f_Exportation2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 1
+		Variable=A2a3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2a_Montant3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2a_Exportation3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 2
+		Variable=A2b3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2b_Montant3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2b_Exportation3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 3
+		Variable=A2c3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2c_Montant3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2c_Exportation3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 4
+		Variable=A2d3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2d_Montant3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2d_Exportation3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 5
+		Variable=A2e3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2e_Montant3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2e_Exportation3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 6
+		Variable=A2f3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2f_Montant3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2f_Exportation3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 1
+		Variable=A2a4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2a_Montant4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2a_Exportation4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 2
+		Variable=A2b4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2b_Montant4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2b_Exportation4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 3
+		Variable=A2c4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2c_Montant4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2c_Exportation4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 4
+		Variable=A2d4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2d_Montant4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2d_Exportation4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 5
+		Variable=A2e4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2e_Montant4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2e_Exportation4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Désignation des produits 6
+		Variable=A2f4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes (nationales)
+		Variable=A2f_Montant4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=A2f_Exportation4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Types de taxes/ Droits de douane 1
+		Variable=Type_taxe
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montants (FCFA) 2011
+		Variable=Montant_2011
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montants (FCFA) 2012
+		Variable=Montant_2012
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montants (FCFA) 2013
+		Variable=Montant_2013
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montants (FCFA) 2014
+		Variable=Montant_2014
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montants (FCFA) 2015
+		Variable=Montant_2015
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Types de taxes/ Droits de douane 2
+		Variable=Type_taxe1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montants (FCFA) 2011
+		Variable=Montant_2016
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montants (FCFA) 2012
+		Variable=Montant_2017
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montants (FCFA) 2013
+		Variable=Montant_2018
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montants (FCFA) 2014
+		Variable=Montant_2019
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montants (FCFA) 2015
+		Variable=Montant_2020
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=C.1 : Analyse que vous faite du système national d'approvisionnement
+		Variable=C1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=C.2 : Suggestions pour le renforcement du système national d'approvisionnement des produits de santé
+		Variable=C2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+Fin
+Titres
+	Titre
+		Type=0
+		Libellé=Liste des Consultants :
+		Première=4
+	Fin
+	Titre
+		Type=0
+		Libellé=Liste des personnes interviewées :
+		Première=10
+	Fin
+	Titre
+		Type=0
+		Libellé=A.1 : Quelle a été la valeur totale des ventes de 2011 à 2015
+		Première=27
+	Fin
+	Titre
+		Type=0
+		Libellé=A.2 : Quelle ont été la valeur, le poids, le volume et les droits de douanes des importations des produits de santé de 2011 à 2015 (DGD)?
+		Première=32
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2011
+		Première=32
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2012
+		Première=50
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2013
+		Première=68
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2014
+		Première=86
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2015
+		Première=104
+	Fin
+	Titre
+		Type=0
+		Libellé=B. Quelles sont les taxes applicables à la productions pharmaceutique
+		Première=122
+	Fin
+	Titre
+		Type=0
+		Libellé=C. Qu'elle est votre appréciation du système national d'approvisionnement du pays?
+		Première=134
+	Fin
+Fin
+Options
+	GroupesActifs=1
+	RenvoisActifs=1
+	ControlesActifs=1
+Fin

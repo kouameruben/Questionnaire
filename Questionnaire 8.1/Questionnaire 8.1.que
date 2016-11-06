@@ -1,0 +1,2677 @@
+Version=5008
+Entête
+	Historique=5.0.0.82(IUT TC - AIX EN;
+	Langue=FR
+	Titre=Questionnaire n°8.1 :
+	Commentaire=Direction générale des douanes
+	Organisme=OMS
+	StadePanneau=10
+Fin
+Questions
+	Question
+		Libellé=Pays
+		Variable=Pays
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom de la structure de santé :
+		Variable=Nom de la structure de santé
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Adresse
+		Variable=Adresse
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tel/Fax/Email
+		Variable=Tel/Fax/Email
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom du Directeur
+		Variable=Nom du Directeur
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prenom
+		Variable=nom Consultant1
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure/Fonction
+		Variable=fonction Consultant1
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel Consultant1
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=nom Consultant2
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure/Fonction
+		Variable=fonction Consultant2
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel Consultant2
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=nom Consultant3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure/Fonction
+		Variable=fonction Consultant3
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel Consultant3
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=nom Consultant4
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure/Fonction
+		Variable=fonction Consultant4
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel Consultant4
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure/Fonction
+		Variable=fonction Consultant5
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel Consultant5
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=Date interview1
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prenom de la personne interviewée
+		Variable=nom_consul1
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction
+		Variable=fonction_consul1
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel_consul1
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=Date interview2
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prenom de la personne interviewée
+		Variable=nom_consul2
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction
+		Variable=fonction_consul2
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel_consul2
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=Date interview3
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prenom de la personne interviewée
+		Variable=nom_consul3
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction
+		Variable=fonction_consul3
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel_consul3
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=Date interview4
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prenom de la personne interviewée
+		Variable=nom_consul4
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction
+		Variable=fonction_consul4
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel_consul4
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=Date interview5
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prenom de la personne interviewée
+		Variable=nom_consul5
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction
+		Variable=fonction_consul5
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel_consul5
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2011
+		Variable=A-1-a
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2012
+		Variable=A-1-a1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2013
+		Variable=A-1-b
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2014
+		Variable=A-1-b1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2015
+		Variable=A-1-c
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2011Catégorie de produit1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2011valeur Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2011poids Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2011Volumes Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2011droitdouane Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2011Catégorie de produit2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2011valeur Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2011poids Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2011Volumes Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2011droitdouane Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2011Catégorie de produit3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2011valeur Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2011poids Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2011Volumes Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2011droitdouane Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2011Catégorie de produit4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2011valeur Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2011poids Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2011Volumes Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2011droitdouane Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2011Catégorie de produit5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2011valeur Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2011poids Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2011Volumes Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2011droitdouane Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2011Catégorie de produit6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2011valeur Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2011poids Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2011Volumes Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2011droitdouane Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2011Catégorie de produit7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2011valeur Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2011poids Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2011Volumes Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2011droitdouane Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2012Catégorie de produit1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2012valeur Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2012poids Catégorie de produits
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2012Volumes Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2012droitdouane Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2012Catégorie de produit2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2012valeur Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2012poids Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2012Volumes Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2012droitdouane Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2012Catégorie de produit3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2012valeur Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2012poids Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2012Volumes Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2012droitdouane Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2012Catégorie de produit4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2012valeur Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2012poids Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2012Volumes Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2012droitdouane Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2012Catégorie de produit5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2012valeur Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2012poids Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2012Volumes Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2012droitdouane Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2012Catégorie de produit6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2012valeur Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2012poids Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2012Volumes Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2012droitdouane Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2012Catégorie de produit7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2012valeur Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2012poids Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2012Volumes Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2012droitdouane Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2013Catégorie de produit1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2013valeur Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2013poids Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2013Volumes Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2013droitdouane Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2013Catégorie de produit2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2013valeur Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2013poids Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2013Volumes Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2013droitdouane Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2013Catégorie de produit3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2013valeur Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2013poids Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2013Volumes Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2013droitdouane Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2013Catégorie de produit4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2013valeur Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2013poids Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2013Volumes Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2013droitdouane Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2013Catégorie de produit5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2013valeur Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2013poids Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2013Volumes Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2013droitdouane Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2013Catégorie de produit6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2013valeur Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2013poids Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2013Volumes Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2013droitdouane Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2013Catégorie de produit7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2013valeur Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2013poids Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2013Volumes Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2013droitdouane Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2014Catégorie de produit1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2014valeur Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2014poids Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2014Volumes Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2014droitdouane Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2014Catégorie de produit2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2014valeur Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2014poids Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2014Volumes Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2014droitdouane Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2014Catégorie de produit3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2014valeur Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2014poids Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2014Volumes Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2014droitdouane Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2014Catégorie de produit4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2014valeur Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2014poids Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2014Volumes Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2014droitdouane Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2014Catégorie de produit5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2014valeur Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2014poids Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2014Volumes Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2014droitdouane Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2014Catégorie de produit6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2014valeur Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2014poids Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2014Volumes Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2014droitdouane Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2014Catégorie de produit7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2014valeur Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2014poids Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2014Volumes Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2014droitdouane Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2015Catégorie de produit1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2015valeur Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2015poids Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2015Volumes Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2015droitdouane Catégorie de produits1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2015Catégorie de produit2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2015valeur Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2015poids Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2015Volumes Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2015droitdouane Catégorie de produits2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2015Catégorie de produit3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2015valeur Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2015poids Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2015Volumes Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2015droitdouane Catégorie de produits3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2015Catégorie de produit4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2015valeur Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2015poids Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2015Volumes Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2015droitdouane Catégorie de produits4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2015Catégorie de produit5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2015valeur Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2015poids Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2015Volumes Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2015droitdouane Catégorie de produits5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2015Catégorie de produit6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2015valeur Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2015poids Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2015Volumes Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2015droitdouane Catégorie de produits6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=2015Catégorie de produit7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Valeur (FCFA)
+		Variable=2015valeur Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Poids (Kg)
+		Variable=2015poids Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Volumes (m3)
+		Variable=2015Volumes Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Droit de douane
+		Variable=2015droitdouane Catégorie de produits7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Antirétroviraux (ARVs) pédiatrique
+		Variable=A-3-1
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Antirétroviraux (ARVs) adultes
+		Variable=A-3-2
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Antirétroviraux (ARVs) PTME
+		Variable=A-3-3
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 :Médicaments contre les infections opportunistes (IO)
+		Variable=A-3-4
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 :Combinaisons à base d'artémisine (ACT)
+		Variable=A-3-5
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 :Kit paludisme grave (protocole en vigueur en Côte d'Ivoire )
+		Variable=A-3-6
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Sulfadoxine Pyriméthamine (SP)
+		Variable=A-3-7
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Antituberculeux (TB)
+		Variable=A-3-8
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 :Produits SR (Contraceptifs)
+		Variable=A-3-9
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 :Vaccins du PEV
+		Variable=A-3-10
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : 13 médicaments prioritaires pour la mère et l'enfant (UNLSCo)
+		Variable=A-3-11
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Médicaments MNT (maladie mentale, cancer, diabète, HTA, goutte ….)
+		Variable=A-3-12
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Médicaments des MTN (Onchocercoce, Schistosomiase, Géohelminthiases, Ulcère de Burili)
+		Variable=A-3-13
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Kit SONU (kit d'accouchement, kit césarienne, …)
+		Variable=A-3-14
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Moustiquaires imprégnées (MILDA)
+		Variable=A-3-15
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Médicaments essentiels recouvrables
+		Variable=A-3-16
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Médicaments essentiels de la gratuité ciblée
+		Variable=A-3-17
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Dispositifs Médicaux (DM)
+		Variable=A-3-18
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Réactifs (Tests de diagnostic HIV/SIDA, Tests diagnostic Palu, etc.)
+		Variable=A-3-19
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Réactifs pour la sécurité du sang (CNTS)
+		Variable=A-3-20
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Médicaments contre l'hépatite B/hépatite C
+		Variable=A-3-21
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 : Stupéfiants
+		Variable=A-3-22
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015 :Produits de nutrition
+		Variable=A-3-23
+		Type=4
+		NbDécimales=2
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2011structure importatrice1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2011Montant des importations1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2011structure importatrice2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2011Montant des importations2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2011structure importatrice3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2011Montant des importations3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2011structure importatrice4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2011Montant des importations4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2011structure importatrice5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2011Montant des importations5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2012structure importatrice1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2012Montant des importations1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2012structure importatrice2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2012Montant des importations2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2012structure importatrice3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2012Montant des importations3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2012structure importatrice4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2012Montant des importations4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2012structure importatrice5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2012Montant des importations5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2013structure importatrice1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2013Montant des importations1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2013structure importatrice2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2013Montant des importations2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2013structure importatrice3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2013Montant des importations3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2013structure importatrice4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2013Montant des importations4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2013structure importatrice5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2013Montant des importations5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2014structure importatrice1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2014Montant des importations1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2014structure importatrice2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2014Montant des importations2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2014structure importatrice3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2014Montant des importations3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2014structure importatrice4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2014Montant des importations4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2014structure importatrice5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2014Montant des importations5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure importatrice 
+		Variable=2015structure importatrice1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des importations (FCFA)
+		Variable=2015Montant des importations1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=C.1 : Analyse que vous faite du système national d'approvisionnement
+		Variable=c-1
+		Type=6
+		NbLignes=10
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=C.2 : Suggestions pour le renforcement du système national d'approvisionnement des produits de santé
+		Variable=c-2
+		Type=6
+		NbLignes=10
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+Fin
+Titres
+	Titre
+		Type=0
+		Libellé=Liste des Consultants
+		Première=5
+	Fin
+	Titre
+		Type=0
+		Libellé=Liste des personnes interviewées :
+		Première=19
+	Fin
+	Titre
+		Type=0
+		Libellé=A. Valeur des importations par catégories de produits
+		Première=39
+	Fin
+	Titre
+		Type=0
+		Libellé=A.1 Quelle a été la valeur totale des importations des produits de santé 2011 à2015 ( DGD )
+		Première=39
+	Fin
+	Titre
+		Type=0
+		Libellé=A.2.Quelle ont été la valeur, le poids, le volume et les droits de douanes des importations des produits de santé de 2011 à 2015 (DGD)
+		Première=44
+	Fin
+	Titre
+		Type=0
+		Libellé=2011
+		Première=44
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2012
+		Première=79
+	Fin
+	Titre
+		Type=0
+		Libellé=Anné 2013
+		Première=114
+	Fin
+	Titre
+		Type=0
+		Libellé=Annnée 2014
+		Première=149
+	Fin
+	Titre
+		Type=0
+		Libellé=année 2015
+		Première=184
+	Fin
+	Titre
+		Type=0
+		Libellé= A.3.Donner pour les catégories des produits, le montant des importations en FCFA
+		Première=219
+	Fin
+	Titre
+		Type=0
+		Libellé=B.Quelles sont les structures qui importent les médicaments et produits de santé en Côte 
+		Première=242
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2011
+		Première=242
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2012
+		Première=252
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2013
+		Première=262
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2014
+		Première=272
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2015
+		Première=282
+	Fin
+	Titre
+		Type=0
+		Libellé=C.Qu'elle est votre appréciation du système national d'approvisionnement du pays 
+		Première=284
+	Fin
+Fin
+Options
+	GroupesActifs=1
+	RenvoisActifs=1
+	ControlesActifs=1
+Fin

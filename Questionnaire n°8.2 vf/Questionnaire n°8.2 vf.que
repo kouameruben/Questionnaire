@@ -1,0 +1,561 @@
+Version=5008
+Entête
+	Historique=5.0.0.82(IUT TC - AIX EN;
+	Langue=FR
+	Titre=Questionnaire n°8.2
+	StadePanneau=10
+Fin
+Questions
+	Question
+		Libellé=Pays
+		Variable=Pays
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Adresse
+		Variable=Adresse
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Fax/email
+		Variable=Tel
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom du Directeur
+		Variable=Directeur
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=Nom1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom
+		Variable=Nom2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=Date de l'interview
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 1
+		Variable=Nom3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=Date de l'interview1
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 2
+		Variable=Nom4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=dATE
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 3
+		Variable=Nom5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 4
+		Variable=Nom6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tel_cons5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=Aa_Montant
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Impôt sur le bénéfice
+		Variable=Aa_Impot1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=Ab_montant1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Impôt sur le bénéfice
+		Variable=Ab_Impot
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=Ac_Montant
+		Type=4
+		NbDécimales=2
+		TypeNombre=2
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Impôt sur le bénéfice
+		Variable=Ac_Impot
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=Ad_Montant
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Impôt sur le bénéfice
+		Variable=Ad_Impot
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=Ae_Montant
+		Type=4
+		NbDécimales=2
+		TypeNombre=2
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Impôt sur le bénéfice
+		Variable=Ae_Impot
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Identités des structures
+		Variable=Ba3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Identités des structures
+		Variable=Ba4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Identités des structures
+		Variable=Ba5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Identités des structures
+		Variable=Ba6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Identités des structures
+		Variable=Ba7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Identités des structures
+		Variable=Ba8
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Identités des structures
+		Variable=Ba9
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Identités des structures
+		Variable=Ba10
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Identités des structures
+		Variable=Ba11
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Identités des structures
+		Variable=Ba12
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=C.1. Analyse que vous faite du système national d'approvisionnement
+		Variable=C1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=C.2 : Suggestions pour le renforcement du système national d'approvisionnement des produits de santé
+		Variable=C2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+Fin
+Titres
+	Titre
+		Type=0
+		Libellé=Liste des Consultants :
+		Première=4
+	Fin
+	Titre
+		Type=0
+		Libellé=Liste des personnes interviewées :
+		Première=10
+	Fin
+	Titre
+		Type=0
+		Libellé=A. Quel est le chiffre d'affaire déclaré dans le cadre de l'activité pharmaceutique de 2011 à 2015 (DGI)
+		Première=25
+	Fin
+	Titre
+		Type=0
+		Libellé=Grossistes distributeurs
+		Première=25
+	Fin
+	Titre
+		Type=0
+		Libellé=Officines
+		Première=27
+	Fin
+	Titre
+		Type=0
+		Libellé=Producteurs de médicaments et autres produits de santé
+		Première=29
+	Fin
+	Titre
+		Type=0
+		Libellé=Contrôle de qualité des médicaments et autres produits de santé
+		Première=31
+	Fin
+	Titre
+		Type=0
+		Libellé=Expertise pharmaceutique (Consultants, ONG)
+		Première=33
+	Fin
+	Titre
+		Type=0
+		Libellé=B. Quelle est la liste nominative des structures qui ont été enregistrées dans le cadre de l'activité pharmaceutique de 2011 à 2015 (Liste complète de la DGI)
+		Première=35
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2011
+		Première=35
+	Fin
+	Titre
+		Type=0
+		Libellé=N°1
+		Première=35
+	Fin
+	Titre
+		Type=0
+		Libellé=N°2
+		Première=36
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2012
+		Première=37
+	Fin
+	Titre
+		Type=0
+		Libellé=N°1
+		Première=37
+	Fin
+	Titre
+		Type=0
+		Libellé=N°2
+		Première=38
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2013
+		Première=39
+	Fin
+	Titre
+		Type=0
+		Libellé=N°1
+		Première=39
+	Fin
+	Titre
+		Type=0
+		Libellé=N°2
+		Première=40
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2014
+		Première=41
+	Fin
+	Titre
+		Type=0
+		Libellé=N°1
+		Première=41
+	Fin
+	Titre
+		Type=0
+		Libellé=N°2
+		Première=42
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2015
+		Première=43
+	Fin
+	Titre
+		Type=0
+		Libellé=N°1
+		Première=43
+	Fin
+	Titre
+		Type=0
+		Libellé=N°2
+		Première=44
+	Fin
+	Titre
+		Type=0
+		Libellé=C. Qu'elle est votre appréciation du système national d'approvisionnement du pays
+		Première=45
+	Fin
+Fin
+Options
+	GroupesActifs=1
+	RenvoisActifs=1
+	ControlesActifs=1
+Fin

@@ -1,0 +1,907 @@
+Version=5008
+Entête
+	Historique=5.0.0.82(IUT TC - AIX EN;
+	Langue=FR
+	Titre=Questionnaire n°10
+	StadePanneau=20
+Fin
+Questions
+	Question
+		Libellé=Pays
+		Variable=pays
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Adresse :
+		Variable=Adresse
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Fax/email
+		Variable=Tél
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom du Directeur
+		Variable=Directeur
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 1
+		Variable=Nom1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=qualification 1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tél1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 2
+		Variable=Nom2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=qualification 2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tél2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview 1
+		Variable=Date_1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom et prénom 1
+		Variable=Nom3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification 1
+		Variable=qualification1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tél3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview 2
+		Variable=Date_2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom et prénom 2
+		Variable=Nom4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification 2
+		Variable=qualification2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tél4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview 3
+		Variable=Date_3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom et prénom 3
+		Variable=Nom5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification 3
+		Variable=qualification3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tél5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Annéé 2011
+		Variable=Montant 2011
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Annéé 2012
+		Variable=Montant 2012
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Annéé 2013
+		Variable=Montant 2013
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Annéé 2014
+		Variable=Montant 2014
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Annéé 2015
+		Variable=Montant 2015
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2011Montant_50
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2011Exportation_61
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2011Montant_61
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2011Exportation_62
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2011Montant_71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=Exportation_71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2011Montant_81
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2011Exportation_81
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2011Montant_90
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2011Exportation_90
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2012Montant_50
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2012Exportation_50
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2012Montant_61
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2012Exportation_61
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2012Montant_71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2012Exportation_71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2012Montant_81
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2012Exportation_81
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2012Montant_90
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2012Exportation_90
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2013Montant_50
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2013Exportation_60
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2013Montant_61
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2013Exportation_61
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2013Montant_71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2013Exportation_71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2013Montant_81
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2013Exportation_81
+		Type=4
+		NbDécimales=2
+		TypeNombre=2
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2013Montant_90
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2013Exportation_90
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2014Montant_50
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2014Exportation_50
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2014Montant_60
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2014Exportation_61
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2014Montant_71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2014Exportation_71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2014Montant_81
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2014Exportation_81
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2014Montant_90
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2014Exportation_90
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2015Montant_50
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2015Exportation_50
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2015Montant_61
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2015Exportation_61
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2015Montant_71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2015Exportation_71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2015Montant_81
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2015Exportation_81
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant OTP
+		Variable=2015Montant_90
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des exportations
+		Variable=2015Exportation_90
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=B.1 : Analyse que vous faite du système national d'approvisionnement
+		Variable=B1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=B.2 : Suggestions pour le renforcement du système national d'approvisionnement des produits de santé
+		Variable=B2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+Fin
+Titres
+	Titre
+		Type=0
+		Libellé=Liste des Consultants :
+		Première=4
+	Fin
+	Titre
+		Type=0
+		Libellé=Liste des personnes interviewées :
+		Première=10
+	Fin
+	Titre
+		Type=0
+		Libellé=A. Montants alloués à l'achat des ordonnances pour les assurés
+		Première=22
+	Fin
+	Titre
+		Type=0
+		Libellé=A.1 : Quelle a été le montant total alloués à l'achat des 2011 à 2015
+		Première=22
+	Fin
+	Titre
+		Type=0
+		Libellé=A.2 : Répartition des parts de dépenses
+		Première=27
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2011
+		Première=27
+	Fin
+	Titre
+		Type=0
+		Libellé=50-60%
+		Première=27
+	Fin
+	Titre
+		Type=0
+		Libellé=61-70%
+		Première=29
+	Fin
+	Titre
+		Type=0
+		Libellé=71-80%
+		Première=31
+	Fin
+	Titre
+		Type=0
+		Libellé=81-90%
+		Première=33
+	Fin
+	Titre
+		Type=0
+		Libellé=90-100%
+		Première=35
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2012
+		Première=37
+	Fin
+	Titre
+		Type=0
+		Libellé=50-60%
+		Première=37
+	Fin
+	Titre
+		Type=0
+		Libellé=61-70%
+		Première=39
+	Fin
+	Titre
+		Type=0
+		Libellé=71-80%
+		Première=41
+	Fin
+	Titre
+		Type=0
+		Libellé=81-90%
+		Première=43
+	Fin
+	Titre
+		Type=0
+		Libellé=90-100%
+		Première=45
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2013
+		Première=47
+	Fin
+	Titre
+		Type=0
+		Libellé=50-60%
+		Première=47
+	Fin
+	Titre
+		Type=0
+		Libellé=61-70%
+		Première=49
+	Fin
+	Titre
+		Type=0
+		Libellé=71-80%
+		Première=51
+	Fin
+	Titre
+		Type=0
+		Libellé=81-90%
+		Première=53
+	Fin
+	Titre
+		Type=0
+		Libellé=90-100%
+		Première=55
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2014
+		Première=57
+	Fin
+	Titre
+		Type=0
+		Libellé=50-60%
+		Première=57
+	Fin
+	Titre
+		Type=0
+		Libellé=61-70%
+		Première=59
+	Fin
+	Titre
+		Type=0
+		Libellé=71-80%
+		Première=61
+	Fin
+	Titre
+		Type=0
+		Libellé=81-90%
+		Première=63
+	Fin
+	Titre
+		Type=0
+		Libellé=90-100%
+		Première=65
+	Fin
+	Titre
+		Type=0
+		Libellé=Année 2015
+		Première=67
+	Fin
+	Titre
+		Type=0
+		Libellé=50-60%
+		Première=67
+	Fin
+	Titre
+		Type=0
+		Libellé=61-70%
+		Première=69
+	Fin
+	Titre
+		Type=0
+		Libellé=71-80%
+		Première=71
+	Fin
+	Titre
+		Type=0
+		Libellé=81-90%
+		Première=73
+	Fin
+	Titre
+		Type=0
+		Libellé=90-100%
+		Première=75
+	Fin
+	Titre
+		Type=0
+		Libellé=B. Qu'elle est votre appréciation du système national d'approvisionnement du pays
+		Première=77
+	Fin
+Fin
+Options
+	GroupesActifs=1
+	RenvoisActifs=1
+	ControlesActifs=1
+Fin

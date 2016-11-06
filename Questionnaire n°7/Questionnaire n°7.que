@@ -1,0 +1,2372 @@
+Version=5008
+Entête
+	Historique=5.0.0.82(IUT TC - AIX EN;
+	Langue=FR
+	Titre=Questionnaire n°7
+	StadePanneau=10
+Fin
+Questions
+	Question
+		Libellé=Pays
+		Variable=Pays
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom de l'officine
+		Variable=Nom_officine
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Adresse
+		Variable=Adresse
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Fax/email
+		Variable=Tél_officine
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom du Directeur
+		Variable=Nom_Directeur
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 1
+		Variable=Nom_consultant
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Qualification
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tél_consultant
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 2
+		Variable=Nom_consultant1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Qualification1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tél_consultant1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 3
+		Variable=Nom_consultant2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Qualification2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email :
+		Variable=Tél_consultant2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=date_interview
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 1
+		Variable=Nom_consultant3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Qualification3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Fax/email
+		Variable=Tél_officine1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=date_interview1
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 2
+		Variable=Nom_consultant4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Qualification4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Fax/email
+		Variable=Tél_officine2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=date_interview2
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prénom 3
+		Variable=Nom_consultant5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Qualification5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Fax/email
+		Variable=Tél_officine3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa8
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa9
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a8
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa10
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab8
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a9
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa11
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab9
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=A-a10
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant importations en 2015
+		Variable=Aa12
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mode d'acquisition (achat local ou importation)
+		Variable=Aab10
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite2
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite3
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite4
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite5
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite6
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite7
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite8
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite9
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite10
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite11
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite12
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite13
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite14
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite15
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits8
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite16
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite17
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits9
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite18
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite19
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits10
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite20
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite21
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits11
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite22
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite23
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits12
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite24
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite25
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits13
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite26
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite27
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits14
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite28
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite29
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits15
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite30
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite31
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits16
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite32
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite33
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits17
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite34
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite35
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits18
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite36
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite37
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits19
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite38
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite39
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Cliniques/ Polyclinique
+		Variable=c1
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Lister
+		Variable=Lister
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si c1 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=c1 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=119
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Infirmerie/ Centres de santé privé/ Structures confessionnelles
+		Variable=c2
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Lister
+		Variable=Lister1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si c2 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=c1 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=121
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Entreprises
+		Variable=c3
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Lister
+		Variable=Lister2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si c3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=c1 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=123
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=ONG
+		Variable=c4
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Lister
+		Variable=Lister3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si c4 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=c1 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=125
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Infirmerie d'établissement d'enseignement
+		Variable=c5
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Lister
+		Variable=Lister4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si c5 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=c1 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=127
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Dépôt de pharmacie
+		Variable=c6
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Lister
+		Variable=Lister5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si c6 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=c1 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=129
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Etablissement sanitaire public
+		Variable=c7
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Lister
+		Variable=Lister6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si c7 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=c1 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=131
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Autres
+		Variable=c8
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Lister
+		Variable=Lister7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si c8 = <Pas de réponse>
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=c1 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=133
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Structures nationales 1
+		Variable=Da
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 2
+		Variable=Da1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 3
+		Variable=Da2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 4
+		Variable=Da3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 5
+		Variable=Da4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 6
+		Variable=Da5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 1
+		Variable=Da6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 2
+		Variable=Da7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 3
+		Variable=Da8
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 4
+		Variable=Da9
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 5
+		Variable=Da10
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures nationales 6
+		Variable=Da11
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures publiques 1
+		Variable=Da12
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant du marché
+		Variable=Da18
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures publiques 2
+		Variable=Da13
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant du marché
+		Variable=Da19
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures publiques 3
+		Variable=Da14
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant du marché
+		Variable=Da20
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures publiques 4
+		Variable=Da15
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant du marché
+		Variable=Da21
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures publiques 5
+		Variable=Da16
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant du marché
+		Variable=Da22
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structures publiques 6
+		Variable=Da23
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant du marché
+		Variable=Da17
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits20
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite41
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits21
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite43
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits22
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite45
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits23
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite47
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits24
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite49
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits25
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite51
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits26
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite52
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite53
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits27
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite54
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite55
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits28
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite56
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite57
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits29
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite58
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite59
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits30
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite60
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite61
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits31
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite62
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite63
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits32
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite64
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite65
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits33
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite66
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite67
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits34
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite68
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite69
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits35
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite70
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite71
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits36
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite72
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite73
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits37
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite74
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite75
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits38
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite76
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite77
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Description produit
+		Variable=B1_Produits39
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Quantités
+		Variable=B1_Quantite78
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Montant des ventes en 2015 (FCFA)
+		Variable=B1_Quantite79
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=G. Quelle est votre appréciation du système national d'approvisionnement du pays
+		Variable=G
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=H. Analyse que vous faites du système national d'approvisionnement
+		Variable=H
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=I. Suggestions pour le renforcement du système national d'approvisionnement
+		Variable=I
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+Fin
+Titres
+	Titre
+		Type=0
+		Libellé=Liste des Consultants :
+		Première=5
+	Fin
+	Titre
+		Type=0
+		Libellé=Liste des personnes interviewées :
+		Première=14
+	Fin
+	Titre
+		Type=0
+		Libellé=A. Valeur des importations par catégories de produits
+		Première=26
+	Fin
+	Titre
+		Type=0
+		Libellé=Donner pour les catégories des produits que vous avez acquis (importés, achat local) en 2015, le montant de ces importations en FCFA
+		Première=26
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 1
+		Première=26
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 2
+		Première=29
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 3
+		Première=32
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 3
+		Première=35
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 4
+		Première=38
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 5
+		Première=41
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 6
+		Première=44
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 7
+		Première=47
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 8
+		Première=50
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 9
+		Première=53
+	Fin
+	Titre
+		Type=0
+		Libellé=Categorie 10
+		Première=56
+	Fin
+	Titre
+		Type=0
+		Libellé=B. Les vingt produits les plus importés
+		Première=59
+	Fin
+	Titre
+		Type=0
+		Libellé=Veuillez indiquer les 20 produits les plus importés en 2015 en tenant compte de la forme pharmaceutique.
+		Première=59
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 1
+		Première=59
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 2
+		Première=62
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 3
+		Première=65
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 4
+		Première=68
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 5
+		Première=71
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 6
+		Première=74
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 7
+		Première=77
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 8
+		Première=80
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 9
+		Première=83
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 10
+		Première=86
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 11
+		Première=89
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 12
+		Première=92
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 13
+		Première=95
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 14
+		Première=98
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 15
+		Première=101
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 16
+		Première=104
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 17
+		Première=107
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 18
+		Première=110
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 19
+		Première=113
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 20
+		Première=116
+	Fin
+	Titre
+		Type=0
+		Libellé=C. Donner la liste des clients de l'officine
+		Première=119
+	Fin
+	Titre
+		Type=0
+		Libellé=D. Quelles sont les structures d'approvisionnement
+		Première=135
+	Fin
+	Titre
+		Type=0
+		Libellé=Structures nationales
+		Première=135
+	Fin
+	Titre
+		Type=0
+		Libellé=Structures internationales
+		Première=141
+	Fin
+	Titre
+		Type=0
+		Libellé=E. Quelles sont les structures de l'Etat que vous approvisionnez
+		Première=147
+	Fin
+	Titre
+		Type=0
+		Libellé=Structures publiques
+		Première=147
+	Fin
+	Titre
+		Type=0
+		Libellé=F. Veuillez indiquer les 20 produits les plus vendus en 2015 en tenant compte de la forme pharmaceutiques.
+		Première=159
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 1
+		Première=159
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 2
+		Première=161
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 3
+		Première=163
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 4
+		Première=165
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 5
+		Première=167
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 6
+		Première=169
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 7
+		Première=171
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 8
+		Première=174
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 9
+		Première=177
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 10
+		Première=180
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 11
+		Première=183
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 12
+		Première=186
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 13
+		Première=189
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 14
+		Première=192
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 15
+		Première=195
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 16
+		Première=198
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 17
+		Première=201
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 18
+		Première=204
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 19
+		Première=207
+	Fin
+	Titre
+		Type=0
+		Libellé=Numéro 20
+		Première=210
+	Fin
+Fin
+Options
+	GroupesActifs=1
+	RenvoisActifs=1
+	ControlesActifs=1
+Fin

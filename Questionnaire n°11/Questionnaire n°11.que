@@ -1,0 +1,2459 @@
+Version=5008
+Entête
+	Historique=5.0.0.82(IUT TC - AIX EN;
+	Langue=FR
+	Titre=Questionnaire n°11
+	StadePanneau=10
+Fin
+Questions
+	Question
+		Libellé=Pays
+		Variable=Pays
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Adresse
+		Variable=Adresse
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tel/Fax/email
+		Variable=Tel
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom du Directeur
+		Variable=Directeur
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prenom 1
+		Variable=Nom_Consultant
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction_Consultant
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tel/Email
+		Variable=Tel_Consul
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prenom 2
+		Variable=Nom_Consultant 2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification
+		Variable=Fonction_Consultant1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tel/Email
+		Variable=Tel_Consul1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview 1
+		Variable=Date_Interview
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prenom 1
+		Variable=Nom_Interview1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification 1
+		Variable=Interview_Qual
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tel/Email 1
+		Variable=Interview_Tel
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview 2
+		Variable=Date_Interview1
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prenom 2
+		Variable=Nom_Interview2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification 2
+		Variable=Interview_Qual 1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tel/Email 2
+		Variable=Interview_Tel1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview 3
+		Variable=Date_Interview2
+		Type=8
+		Format=jj/mm/aaaa
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/ Prenom 3
+		Variable=Nom_Interview3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction et qualification 3
+		Variable=Interview_Qual 2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tel/Email 3
+		Variable=Interview_Tel2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=A.1. Est-ce-que votre conseil ou district apporte un appui financier pour l'achat des catégories de produits ci-dessous?
+		Variable=A-1-
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Antiretroviraux (ARVs) pédiatrique
+		Variable=A1a
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1a_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1a_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1a_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Antiretroviraux (ARVs) Adultes
+		Variable=A1b
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1b_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1b_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1b_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Antiretroviraux (ARVs) PTME
+		Variable=A1c
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1c_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1c_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1c_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicaments contre les infections opportunistes (IO)
+		Variable=A1d
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1d_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1d_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1d_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Combinaisons à base d'artémisine (ACT)
+		Variable=A1e
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1e_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1e_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1e_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Kit paludisme grave (protocole en vigueur en CI)
+		Variable=A1f
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1f_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1f_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1f_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Sulfadoxine Pyriméthamine (SP)
+		Variable=A1g
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1g_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1g_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1g_Nature6
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Antituberculeux (TB)
+		Variable=A1h
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1h_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1h_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1h_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Produits SR (contraceptifs)
+		Variable=A1i
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1i_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1i_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1i_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Vaccins du PEV
+		Variable=A1j
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1j_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1j_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1j_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=13 médicaments prioritaires pour la mère et l'enfant (UNLSCo)
+		Variable=A1k
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1k_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1k_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1k_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicaments MNT (maladie mentale, cancer, diabète, HTA, goutte...)
+		Variable=A1l
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1l_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1l_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1l_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicaments des MTN (Onchcercose, Schistomomiase...)
+		Variable=A1m
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1m_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1m_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1m_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Kit SONU (kit d'accouchement, kit césarienne, …)
+		Variable=A1n
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1n_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1n_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1n_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Moustiquaires imprégnées (MILDA)
+		Variable=A1o
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1o_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1o_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1o_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicaments essentiels recouvrables
+		Variable=A1p
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1p_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1p_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1p_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicaments essentiels de la gratuité ciblée
+		Variable=A1q
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1q_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1q_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1q_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Dispositifs Médicaux (DM)
+		Variable=A1q1
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1q_Budget1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1q_Appui1
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1q_Nature1
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Réactifs (Tests de diagnostic HIV/SIDA, Tests diagnostic Palu, etc.)
+		Variable=A1r
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1r_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1r_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1r_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Réactifs pour la sécurité du sang (CNTS)
+		Variable=A1s
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1s_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1s_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1s_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicaments contre l'hépatite B/hépatite C
+		Variable=A1t
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1t_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1t_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1t_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicaments contre l'hépatite B/hépatite C
+		Variable=A1v
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1v_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1v_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1v_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Produits de nutrition
+		Variable=A1w
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A1w_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=A1w_Appui
+		Type=8
+		Format=jj/mm/aaaa
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier (1=dons, 2=jumelage, 3=autres)
+		Variable=A1w_Nature
+		Type=5
+		NbModalités=3
+		Modalités=1 ; 2 ; 3 ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si A-1- = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1- = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=22
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=A.3. Est-ce que votre conseil ou district apporte un appui financier pour l'approvisionnement, la gestion et la distribution/dispensation des produits qu'elle finance?
+		Variable=A3
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Honoraires pour l'agence d'approvisionnement
+		Variable=A2a
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A2a_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Frais de gestion pour les structures chargées de la gestion, disribution, dispensation des produits
+		Variable=A2b
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A2b_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Amélioration des magasins de stockage (rénovation, achat d'équipements de stockage, de frigos, installation de climatisation etc…)
+		Variable=A2c
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A2c_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Achat de véhicules pour la distribution
+		Variable=A2d
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A2d_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Rémunération du personnel (salaire)
+		Variable=A2e
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A2e_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Formation du personnel à la gestion
+		Variable=A2f
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A2f_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Achat d'outils/logiciels pour la quantification et/ou la gestion des stocks et/ou la dispensation etc…
+		Variable=A2g
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A2g_Budget
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Autres, à préciser
+		Variable=A2g1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=A2g_Budget1
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si A3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A3 = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=B.1. Analyse que vous faite du système national d'approvisionnement
+		Variable=B-1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=B.2. Analyse que vous faite du système national d'approvisionnement
+		Variable=B-2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+Fin
+Titres
+	Titre
+		Type=0
+		Libellé=Liste des consultants:
+		Première=4
+	Fin
+	Titre
+		Type=0
+		Libellé=Liste des personnes interviewées:
+		Première=10
+	Fin
+	Titre
+		Type=0
+		Libellé=A. FINANCEMENT
+		Première=22
+	Fin
+	Titre
+		Type=0
+		Libellé=B. Qu'elle votre appréciation du système national d'approvisionnement du pays?
+		Première=132
+	Fin
+Fin
+Options
+	GroupesActifs=1
+	RenvoisActifs=1
+	ControlesActifs=1
+Fin

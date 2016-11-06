@@ -1,0 +1,823 @@
+Version=5.0.0.82
+Données=C:\Users\BIGMARKET 2\Desktop\Source questionnaire\Questionnaire n°11\Questionnaire n°11.que
+Paramètres=
+Enquête=
+ID=
+Décimales=2 1
+Statistiques
+	SeuilsFF=5 1 5 15
+	SeuilsFN=5 1 5 15
+	SeuilsNN=0.6 0.8 0.6 0.4
+	CalculsStricts=0 30 20
+	PrincipauxElements=0 10 0 3
+	CasesSignificatives=60 95
+Fin
+Publication
+	Etude=
+	Accès=-1
+	Lien
+		Type=confirm
+	Fin
+Fin
+Vues
+	Actif=-1 0
+	FormulairePapier
+		Nom=Formulaire papier n°1
+		Taille=9 2100 2970 1 82 0 0
+		Marges=26 26 26 26
+		Zoom=-2 50
+		Fond=0 16777215
+		Barre=0
+		Progresion=1
+		Placement=2 1 0 0 1 1 0
+		Organisation=0 3 50 50 0
+		FormatAuto=0 0 0 0 0 256 33554433
+		Options=2 2 0 0 0 0 1 0 0 0 1 0
+		Rectangle=0 0 0 0
+		Style=Style vis à vis
+		StyleFormes
+			Bord=0 1 0
+			Fond=12632256
+		Fin
+		StyleLégendes
+			Bord=1 1 0
+			Police=Arial 16 0 1 0 16751052
+			StyleLien=0
+		Fin
+		StyleTitres
+			Bord=0 0 12632256
+			Police1=Arial 14 1 0 0 -1
+			Police2=Arial 10 2 0 0 -1
+			Affichage=1 0
+		Fin
+		StyleVariables
+			Bord=4 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 12632256
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 0 0 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=10 1 1 0 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleNoeuds
+			Variable=0 
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65280
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=0 0 0 0 0 1 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 1 1 0 0 0
+			Item=0 
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=4 1 1 0 1
+			Fin
+		Fin
+		StyleGroupes
+			Bord=3 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 1 0 0 0 0 0
+			Alignement=1
+			Valeurs=0 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0
+				FF=1 0 0 0 1
+				FN=1 1 1 1 1 1 0 0 0 0 0
+				NN=1 1 1 1 1 0 0 0 0
+			Fin
+			Graphique
+				Type=3
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				FF=1 0 0 1 1 0
+				FN=1 1 1 1
+				NN=1 0 1 0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleTableauCaractéristiques
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 1 0 0 0 1 0
+			Alignement=1
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=5
+				Options=0 5 5 1
+				Cellules=1 0 0
+			Fin
+			Graphique
+				Type=1
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleComposés
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65535
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 0 0 0
+			Alignement=1
+			Valeurs=0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Affichage=3 1 0 1 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleRelations
+			Ligne=0 0 0
+			Bord=4 0 0
+			Police=Arial 8 0 1 0 16777215
+			Valeurs=0 0 0 3 0
+		Fin
+		StyleSaisies
+			Bord=1 0 12632256
+			Police1=Arial 8 2 0 0 16777215
+			Police2=Arial 8 1 0 0 15466495
+			Police3=Arial 8 0 0 0 16577773 16577773
+			Police4=Arial 8 0 0 16711680
+			Affichage=1 1 0 1 1 0 0
+			Alignement=0
+			Taille=1 900 0 500
+			Pictogrammes=
+			Nominale=0 0 0 0 2 2 12 0 16777215
+			Ouverte=2 0 1
+			Options=0 0 0
+		Fin
+		StyleMultimédias
+			Bord=1 1 0
+		Fin
+		StyleExternes
+			Bord=1 1 0
+			Police=Arial 8 0 0 0 -1
+			Affichage=0
+		Fin
+		StyleOLEs
+			Bord=1 1 0
+		Fin
+		Légende
+			Masque=1
+			TexteFR=[Titre de l'étude]
+			TexteEN=[Titre de l'étude]
+			Rectangle=61 61 2037 140
+			Bord=0 1 0
+			Police=Arial 16 0 1 0 16777215
+		Fin
+		Saisie
+			Variable=Pays
+			Rectangle=61 143 2040 254
+		Fin
+		Saisie
+			Variable=Adresse
+			Rectangle=61 251 2040 362
+		Fin
+		Saisie
+			Variable=Tel
+			Rectangle=61 360 2040 471
+		Fin
+		Saisie
+			Variable=Directeur
+			Rectangle=61 468 2040 579
+		Fin
+		Titre
+			Variable=Nom_Consultant
+			Rectangle=61 577 2040 651
+		Fin
+		Saisie
+			Variable=Nom_Consultant
+			Rectangle=61 648 2040 759
+		Fin
+		Saisie
+			Variable=Fonction_Consultant
+			Rectangle=61 757 2040 868
+		Fin
+		Saisie
+			Variable=Tel_Consul
+			Rectangle=61 865 2040 976
+		Fin
+		Saisie
+			Variable=Nom_Consultant 2
+			Rectangle=61 974 2040 1085
+		Fin
+		Saisie
+			Variable=Fonction_Consultant1
+			Rectangle=61 1082 2040 1193
+		Fin
+		Saisie
+			Variable=Tel_Consul1
+			Rectangle=61 1191 2040 1302
+		Fin
+		Titre
+			Variable=Date_Interview
+			Rectangle=61 1299 2040 1373
+		Fin
+		Saisie
+			Variable=Date_Interview
+			Rectangle=61 1371 2040 1445
+		Fin
+		Saisie
+			Variable=Nom_Interview1
+			Rectangle=61 1442 2040 1553
+		Fin
+		Saisie
+			Variable=Interview_Qual
+			Rectangle=61 1550 2040 1662
+		Fin
+		Saisie
+			Variable=Interview_Tel
+			Rectangle=61 1659 2040 1770
+		Fin
+		Saisie
+			Variable=Date_Interview1
+			Rectangle=61 1767 2040 1842
+		Fin
+		Saisie
+			Variable=Nom_Interview2
+			Rectangle=61 1839 2040 1950
+		Fin
+		Saisie
+			Variable=Interview_Qual 1
+			Rectangle=61 1947 2040 2058
+		Fin
+		Saisie
+			Variable=Interview_Tel1
+			Rectangle=61 2056 2040 2167
+		Fin
+		Saisie
+			Variable=Date_Interview2
+			Rectangle=61 2164 2040 2238
+		Fin
+		Saisie
+			Variable=Nom_Interview3
+			Rectangle=61 2236 2040 2347
+		Fin
+		Saisie
+			Variable=Interview_Qual 2
+			Rectangle=61 2344 2040 2455
+		Fin
+		Saisie
+			Variable=Interview_Tel2
+			Rectangle=61 2453 2040 2564
+		Fin
+		Titre
+			Variable=A-1-
+			Rectangle=61 2561 2040 2635
+		Fin
+		Saisie
+			Variable=A-1-
+			Rectangle=61 2633 2040 2723
+		Fin
+		Saisie
+			Variable=A1a
+			Rectangle=61 2720 2040 2773
+		Fin
+		Saisie
+			Variable=A1a_Budget
+			Rectangle=61 2770 2040 2844
+		Fin
+		Saisie
+			Variable=A1a_Appui
+			Rectangle=61 3114 2040 3188
+		Fin
+		Saisie
+			Variable=A1a_Nature
+			Rectangle=61 3186 2040 3239
+		Fin
+		Saisie
+			Variable=A1b
+			Rectangle=61 3236 2040 3289
+		Fin
+		Saisie
+			Variable=A1b_Budget
+			Rectangle=61 3286 2040 3360
+		Fin
+		Saisie
+			Variable=A1b_Appui
+			Rectangle=61 3358 2040 3432
+		Fin
+		Saisie
+			Variable=A1b_Nature
+			Rectangle=61 3429 2040 3482
+		Fin
+		Saisie
+			Variable=A1c
+			Rectangle=61 3479 2040 3532
+		Fin
+		Saisie
+			Variable=A1c_Budget
+			Rectangle=61 3530 2040 3604
+		Fin
+		Saisie
+			Variable=A1c_Appui
+			Rectangle=61 3601 2040 3675
+		Fin
+		Saisie
+			Variable=A1c_Nature
+			Rectangle=61 3672 2040 3725
+		Fin
+		Saisie
+			Variable=A1d
+			Rectangle=61 3723 2040 3776
+		Fin
+		Saisie
+			Variable=A1d_Budget
+			Rectangle=61 3773 2040 3847
+		Fin
+		Saisie
+			Variable=A1d_Appui
+			Rectangle=61 3844 2040 3918
+		Fin
+		Saisie
+			Variable=A1d_Nature
+			Rectangle=61 3916 2040 3969
+		Fin
+		Saisie
+			Variable=A1e
+			Rectangle=61 3966 2040 4019
+		Fin
+		Saisie
+			Variable=A1e_Budget
+			Rectangle=61 4016 2040 4090
+		Fin
+		Saisie
+			Variable=A1e_Appui
+			Rectangle=61 4088 2040 4162
+		Fin
+		Saisie
+			Variable=A1e_Nature
+			Rectangle=61 4159 2040 4212
+		Fin
+		Saisie
+			Variable=A1f
+			Rectangle=61 4210 2040 4262
+		Fin
+		Saisie
+			Variable=A1f_Budget
+			Rectangle=61 4260 2040 4334
+		Fin
+		Saisie
+			Variable=A1f_Appui
+			Rectangle=61 4331 2040 4405
+		Fin
+		Saisie
+			Variable=A1f_Nature
+			Rectangle=61 4403 2040 4456
+		Fin
+		Saisie
+			Variable=A1g
+			Rectangle=61 4453 2040 4506
+		Fin
+		Saisie
+			Variable=A1g_Budget
+			Rectangle=61 4503 2040 4577
+		Fin
+		Saisie
+			Variable=A1g_Appui
+			Rectangle=61 4575 2040 4649
+		Fin
+		Saisie
+			Variable=A1g_Nature6
+			Rectangle=61 4646 2040 4699
+		Fin
+		Saisie
+			Variable=A1h
+			Rectangle=61 4696 2040 4749
+		Fin
+		Saisie
+			Variable=A1h_Budget
+			Rectangle=61 4747 2040 4821
+		Fin
+		Saisie
+			Variable=A1h_Appui
+			Rectangle=61 4818 2040 4892
+		Fin
+		Saisie
+			Variable=A1h_Nature
+			Rectangle=61 4890 2040 4942
+		Fin
+		Saisie
+			Variable=A1i
+			Rectangle=61 4940 2040 4993
+		Fin
+		Saisie
+			Variable=A1i_Budget
+			Rectangle=61 4990 2040 5064
+		Fin
+		Saisie
+			Variable=A1i_Appui
+			Rectangle=61 5061 2040 5136
+		Fin
+		Saisie
+			Variable=A1i_Nature
+			Rectangle=61 5133 2040 5186
+		Fin
+		Saisie
+			Variable=A1j
+			Rectangle=61 5183 2040 5236
+		Fin
+		Saisie
+			Variable=A1j_Budget
+			Rectangle=61 5233 2040 5308
+		Fin
+		Saisie
+			Variable=A1j_Appui
+			Rectangle=61 5305 2040 5379
+		Fin
+		Saisie
+			Variable=A1j_Nature
+			Rectangle=61 5376 2040 5429
+		Fin
+		Saisie
+			Variable=A1k
+			Rectangle=61 5427 2040 5517
+		Fin
+		Saisie
+			Variable=A1k_Budget
+			Rectangle=61 5514 2040 5588
+		Fin
+		Saisie
+			Variable=A1k_Appui
+			Rectangle=61 5585 2040 5659
+		Fin
+		Saisie
+			Variable=A1k_Nature
+			Rectangle=61 5657 2040 5710
+		Fin
+		Saisie
+			Variable=A1l
+			Rectangle=61 5707 2040 5797
+		Fin
+		Saisie
+			Variable=A1l_Budget
+			Rectangle=61 5794 2040 5868
+		Fin
+		Saisie
+			Variable=A1l_Appui
+			Rectangle=61 6085 2040 6160
+		Fin
+		Saisie
+			Variable=A1l_Nature
+			Rectangle=61 6157 2040 6210
+		Fin
+		Saisie
+			Variable=A1m
+			Rectangle=61 6207 2040 6260
+		Fin
+		Saisie
+			Variable=A1m_Budget
+			Rectangle=61 6257 2040 6331
+		Fin
+		Saisie
+			Variable=A1m_Appui
+			Rectangle=61 6329 2040 6403
+		Fin
+		Saisie
+			Variable=A1m_Nature
+			Rectangle=61 6400 2040 6453
+		Fin
+		Saisie
+			Variable=A1n
+			Rectangle=61 6451 2040 6503
+		Fin
+		Saisie
+			Variable=A1n_Budget
+			Rectangle=61 6501 2040 6575
+		Fin
+		Saisie
+			Variable=A1n_Appui
+			Rectangle=61 6572 2040 6646
+		Fin
+		Saisie
+			Variable=A1n_Nature
+			Rectangle=61 6644 2040 6697
+		Fin
+		Saisie
+			Variable=A1o
+			Rectangle=61 6694 2040 6747
+		Fin
+		Saisie
+			Variable=A1o_Budget
+			Rectangle=61 6744 2040 6818
+		Fin
+		Saisie
+			Variable=A1o_Appui
+			Rectangle=61 6816 2040 6890
+		Fin
+		Saisie
+			Variable=A1o_Nature
+			Rectangle=61 6887 2040 6940
+		Fin
+		Saisie
+			Variable=A1p
+			Rectangle=61 6937 2040 6990
+		Fin
+		Saisie
+			Variable=A1p_Budget
+			Rectangle=61 6988 2040 7062
+		Fin
+		Saisie
+			Variable=A1p_Appui
+			Rectangle=61 7059 2040 7133
+		Fin
+		Saisie
+			Variable=A1p_Nature
+			Rectangle=61 7131 2040 7183
+		Fin
+		Saisie
+			Variable=A1q
+			Rectangle=61 7181 2040 7234
+		Fin
+		Saisie
+			Variable=A1q_Budget
+			Rectangle=61 7231 2040 7305
+		Fin
+		Saisie
+			Variable=A1q_Appui
+			Rectangle=61 7303 2040 7377
+		Fin
+		Saisie
+			Variable=A1q_Nature
+			Rectangle=61 7374 2040 7427
+		Fin
+		Saisie
+			Variable=A1q1
+			Rectangle=61 7424 2040 7477
+		Fin
+		Saisie
+			Variable=A1q_Budget1
+			Rectangle=61 7474 2040 7549
+		Fin
+		Saisie
+			Variable=A1q_Appui1
+			Rectangle=61 7546 2040 7620
+		Fin
+		Saisie
+			Variable=A1q_Nature1
+			Rectangle=61 7617 2040 7670
+		Fin
+		Saisie
+			Variable=A1r
+			Rectangle=61 7668 2040 7758
+		Fin
+		Saisie
+			Variable=A1r_Budget
+			Rectangle=61 7755 2040 7829
+		Fin
+		Saisie
+			Variable=A1r_Appui
+			Rectangle=61 7826 2040 7900
+		Fin
+		Saisie
+			Variable=A1r_Nature
+			Rectangle=61 7898 2040 7951
+		Fin
+		Saisie
+			Variable=A1s
+			Rectangle=61 7948 2040 8001
+		Fin
+		Saisie
+			Variable=A1s_Budget
+			Rectangle=61 7998 2040 8072
+		Fin
+		Saisie
+			Variable=A1s_Appui
+			Rectangle=61 8070 2040 8144
+		Fin
+		Saisie
+			Variable=A1s_Nature
+			Rectangle=61 8141 2040 8231
+		Fin
+		Saisie
+			Variable=A1t
+			Rectangle=61 8229 2040 8281
+		Fin
+		Saisie
+			Variable=A1t_Budget
+			Rectangle=61 8279 2040 8353
+		Fin
+		Saisie
+			Variable=A1t_Appui
+			Rectangle=61 8350 2040 8424
+		Fin
+		Saisie
+			Variable=A1t_Nature
+			Rectangle=61 8422 2040 8512
+		Fin
+		Saisie
+			Variable=A1v
+			Rectangle=61 8509 2040 8562
+		Fin
+		Saisie
+			Variable=A1v_Budget
+			Rectangle=61 8559 2040 8633
+		Fin
+		Saisie
+			Variable=A1v_Appui
+			Rectangle=61 8631 2040 8705
+		Fin
+		Saisie
+			Variable=A1v_Nature
+			Rectangle=61 8702 2040 8792
+		Fin
+		Saisie
+			Variable=A1w
+			Rectangle=61 8789 2040 8842
+		Fin
+		Saisie
+			Variable=A1w_Budget
+			Rectangle=61 9057 2040 9131
+		Fin
+		Saisie
+			Variable=A1w_Appui
+			Rectangle=61 9128 2040 9202
+		Fin
+		Saisie
+			Variable=A1w_Nature
+			Rectangle=61 9200 2040 9290
+		Fin
+		Saisie
+			Variable=A3
+			Rectangle=61 9287 2040 9414
+		Fin
+		Saisie
+			Variable=A2a
+			Rectangle=61 9411 2040 9464
+		Fin
+		Saisie
+			Variable=A2a_Budget
+			Rectangle=61 9462 2040 9536
+		Fin
+		Saisie
+			Variable=A2b
+			Rectangle=61 9533 2040 9623
+		Fin
+		Saisie
+			Variable=A2b_Budget
+			Rectangle=61 9620 2040 9694
+		Fin
+		Saisie
+			Variable=A2c
+			Rectangle=61 9692 2040 9819
+		Fin
+		Saisie
+			Variable=A2c_Budget
+			Rectangle=61 9816 2040 9890
+		Fin
+		Saisie
+			Variable=A2d
+			Rectangle=61 9887 2040 9940
+		Fin
+		Saisie
+			Variable=A2d_Budget
+			Rectangle=61 9938 2040 10012
+		Fin
+		Saisie
+			Variable=A2e
+			Rectangle=61 10009 2040 10062
+		Fin
+		Saisie
+			Variable=A2e_Budget
+			Rectangle=61 10059 2040 10134
+		Fin
+		Saisie
+			Variable=A2f
+			Rectangle=61 10131 2040 10184
+		Fin
+		Saisie
+			Variable=A2f_Budget
+			Rectangle=61 10181 2040 10255
+		Fin
+		Saisie
+			Variable=A2g
+			Rectangle=61 10253 2040 10343
+		Fin
+		Saisie
+			Variable=A2g_Budget
+			Rectangle=61 10340 2040 10414
+		Fin
+		Saisie
+			Variable=A2g1
+			Rectangle=61 10411 2040 10522
+		Fin
+		Saisie
+			Variable=A2g_Budget1
+			Rectangle=61 10520 2040 10594
+		Fin
+		Titre
+			Variable=B-1
+			Rectangle=61 10591 2040 10724
+		Fin
+		Saisie
+			Variable=B-1
+			Rectangle=61 10721 2040 10832
+		Fin
+		Saisie
+			Variable=B-2
+			Rectangle=61 10829 2040 10941
+		Fin
+	Fin
+Fin

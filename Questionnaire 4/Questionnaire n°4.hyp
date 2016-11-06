@@ -1,0 +1,7267 @@
+Version=5.0.0.82
+Données=C:\Users\BIGMARKET 2\Desktop\Source questionnaire\Questionnaire 4\Questionnaire n°4.que
+Paramètres=
+Enquête=
+ID=
+Décimales=2 1
+Statistiques
+	SeuilsFF=5 1 5 15
+	SeuilsFN=5 1 5 15
+	SeuilsNN=0.6 0.8 0.6 0.4
+	CalculsStricts=0 30 20
+	PrincipauxElements=0 10 0 3
+	CasesSignificatives=60 95
+Fin
+Publication
+	Etude=
+	Accès=-1
+	Lien
+		Type=confirm
+	Fin
+Fin
+Vues
+	Actif=-1 0
+	FormulairePapier
+		Nom=Formulaire papier n°1
+		Taille=9 2100 2970 1 82 0 0
+		Marges=26 26 26 26
+		Zoom=-2 50
+		Fond=0 16777215
+		Barre=0
+		Progresion=1
+		Placement=2 1 0 0 1 1 0
+		Organisation=0 3 50 50 0
+		FormatAuto=0 0 0 0 0 256 33554433
+		Options=2 2 0 0 0 0 1 0 0 0 1 0
+		Rectangle=0 0 0 0
+		Style=Style vis à vis
+		StyleFormes
+			Bord=0 1 0
+			Fond=12632256
+		Fin
+		StyleLégendes
+			Bord=1 1 0
+			Police=Arial 16 0 1 0 16751052
+			StyleLien=0
+		Fin
+		StyleTitres
+			Bord=0 0 12632256
+			Police1=Arial 14 1 0 0 -1
+			Police2=Arial 10 2 0 0 -1
+			Affichage=1 0
+		Fin
+		StyleVariables
+			Bord=4 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 12632256
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 0 0 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=10 1 1 0 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleNoeuds
+			Variable=0 
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65280
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=0 0 0 0 0 1 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 1 1 0 0 0
+			Item=0 
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=4 1 1 0 1
+			Fin
+		Fin
+		StyleGroupes
+			Bord=3 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 1 0 0 0 0 0
+			Alignement=1
+			Valeurs=0 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0
+				FF=1 0 0 0 1
+				FN=1 1 1 1 1 1 0 0 0 0 0
+				NN=1 1 1 1 1 0 0 0 0
+			Fin
+			Graphique
+				Type=3
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				FF=1 0 0 1 1 0
+				FN=1 1 1 1
+				NN=1 0 1 0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleTableauCaractéristiques
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 1 0 0 0 1 0
+			Alignement=1
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=5
+				Options=0 5 5 1
+				Cellules=1 0 0
+			Fin
+			Graphique
+				Type=1
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleComposés
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65535
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 0 0 0
+			Alignement=1
+			Valeurs=0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Affichage=3 1 0 1 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleRelations
+			Ligne=0 0 0
+			Bord=4 0 0
+			Police=Arial 8 0 1 0 16777215
+			Valeurs=0 0 0 3 0
+		Fin
+		StyleSaisies
+			Bord=1 0 12632256
+			Police1=Arial 8 2 0 0 16777215
+			Police2=Arial 8 1 0 0 15466495
+			Police3=Arial 8 0 0 0 16577773 16577773
+			Police4=Arial 8 0 0 16711680
+			Affichage=1 1 0 1 1 0 0
+			Alignement=0
+			Taille=1 900 0 500
+			Pictogrammes=
+			Nominale=0 0 0 0 2 2 12 0 16777215
+			Ouverte=2 0 1
+			Options=0 0 0
+		Fin
+		StyleMultimédias
+			Bord=1 1 0
+		Fin
+		StyleExternes
+			Bord=1 1 0
+			Police=Arial 8 0 0 0 -1
+			Affichage=0
+		Fin
+		StyleOLEs
+			Bord=1 1 0
+		Fin
+		Saisie
+			Variable=Pays
+			Rectangle=61 143 2040 254
+		Fin
+		Saisie
+			Variable=Nom_Programme
+			Rectangle=61 251 2040 362
+		Fin
+		Saisie
+			Variable=Adresse_Programme
+			Rectangle=61 360 2040 471
+		Fin
+		Saisie
+			Variable=Tel_programme
+			Rectangle=61 468 2040 579
+		Fin
+		Saisie
+			Variable=Directeur_programme
+			Rectangle=61 577 2040 688
+		Fin
+		Saisie
+			Variable=Qual_Directeur
+			Rectangle=61 685 2040 796
+			Sélection=1
+		Fin
+		Titre
+			Variable=Nom_Evaluateur1
+			Rectangle=61 794 2040 868
+		Fin
+		Saisie
+			Variable=Nom_Evaluateur1
+			Rectangle=61 865 2040 976
+		Fin
+		Saisie
+			Variable=Struct_Evaluateur1
+			Rectangle=61 974 2040 1085
+		Fin
+		Saisie
+			Variable=Tel_Evaluateur1
+			Rectangle=61 1082 2040 1193
+		Fin
+		Saisie
+			Variable=Comm_Evaluateur1
+			Rectangle=61 1191 2040 1302
+		Fin
+		Saisie
+			Variable=Nom_Evaluateur2
+			Rectangle=61 1299 2040 1410
+		Fin
+		Saisie
+			Variable=Struct_Evaluateur2
+			Rectangle=61 1408 2040 1519
+		Fin
+		Saisie
+			Variable=Tel_Evaluateur2
+			Rectangle=61 1516 2040 1627
+		Fin
+		Saisie
+			Variable=Comm_Evaluateur2
+			Rectangle=61 1625 2040 1736
+		Fin
+		Saisie
+			Variable=Nom_Evaluateur3
+			Rectangle=61 1733 2040 1844
+		Fin
+		Saisie
+			Variable=Struct_Evaluateur3
+			Rectangle=61 1842 2040 1953
+		Fin
+		Saisie
+			Variable=Tel_Evaluateur3
+			Rectangle=61 1950 2040 2061
+		Fin
+		Saisie
+			Variable=Comm_Evaluateur3
+			Rectangle=61 2058 2040 2170
+		Fin
+		Saisie
+			Variable=Nom_Evaluateur4
+			Rectangle=61 2167 2040 2278
+		Fin
+		Saisie
+			Variable=Struct_Evaluateur4
+			Rectangle=61 2275 2040 2387
+		Fin
+		Saisie
+			Variable=Tel_Evaluateur4
+			Rectangle=61 2384 2040 2495
+		Fin
+		Saisie
+			Variable=Comm_Evaluateur4
+			Rectangle=61 2492 2040 2604
+		Fin
+		Saisie
+			Variable=Nom_Evaluateur5
+			Rectangle=61 2601 2040 2712
+		Fin
+		Saisie
+			Variable=Struct_Evaluateur5
+			Rectangle=61 2709 2040 2820
+		Fin
+		Saisie
+			Variable=Tel_Evaluateur5
+			Rectangle=61 3114 2040 3225
+		Fin
+		Saisie
+			Variable=Comm_Evaluateur5
+			Rectangle=61 3223 2040 3334
+		Fin
+		Titre
+			Variable=Date_Interview1
+			Rectangle=61 3331 2040 3405
+		Fin
+		Saisie
+			Variable=Date_Interview1
+			Rectangle=61 3403 2040 3514
+		Fin
+		Saisie
+			Variable=Nom_interviewé1
+			Rectangle=61 3511 2040 3622
+		Fin
+		Saisie
+			Variable=Fonction_Interviewé1
+			Rectangle=61 3620 2040 3731
+		Fin
+		Saisie
+			Variable=Tel_Interviewé1
+			Rectangle=61 3728 2040 3839
+		Fin
+		Saisie
+			Variable=Date_Interview2
+			Rectangle=61 3836 2040 3948
+		Fin
+		Saisie
+			Variable=Nom_interviewé2
+			Rectangle=61 3945 2040 4056
+		Fin
+		Saisie
+			Variable=Fonction_Interviewé2
+			Rectangle=61 4053 2040 4165
+		Fin
+		Saisie
+			Variable=Tel_Interviewé2
+			Rectangle=61 4162 2040 4273
+		Fin
+		Saisie
+			Variable=Date_Interview3
+			Rectangle=61 4270 2040 4382
+		Fin
+		Saisie
+			Variable=Nom_interviewé3
+			Rectangle=61 4379 2040 4490
+		Fin
+		Saisie
+			Variable=Fonction_Interviewé3
+			Rectangle=61 4487 2040 4598
+		Fin
+		Saisie
+			Variable=Tel_Interviewé3
+			Rectangle=61 4596 2040 4707
+		Fin
+		Saisie
+			Variable=Date_Interview4
+			Rectangle=61 4704 2040 4815
+		Fin
+		Saisie
+			Variable=Nom_interviewé4
+			Rectangle=61 4813 2040 4924
+		Fin
+		Saisie
+			Variable=Fonction_Interviewé4
+			Rectangle=61 4921 2040 5032
+		Fin
+		Saisie
+			Variable=Tel_Interviewé4
+			Rectangle=61 5030 2040 5141
+		Fin
+		Saisie
+			Variable=Date_Interview5
+			Rectangle=61 5138 2040 5249
+		Fin
+		Saisie
+			Variable=Nom_interviewé5
+			Rectangle=61 5247 2040 5358
+		Fin
+		Saisie
+			Variable=Fonction_Interviewé5
+			Rectangle=61 5355 2040 5466
+		Fin
+		Saisie
+			Variable=Tel_Interviewé5
+			Rectangle=61 5464 2040 5575
+		Fin
+		Titre
+			Variable=A1
+			Rectangle=61 5572 2040 5646
+		Fin
+		Saisie
+			Variable=A1
+			Rectangle=61 5644 2040 5718
+		Fin
+		Saisie
+			Variable=Mission_programme
+			Rectangle=61 5715 2040 5826
+		Fin
+		Titre
+			Variable=A-3_programme
+			Rectangle=61 6157 2040 6231
+		Fin
+		Titre
+			Variable=A-3_programme
+			Indice=1
+			Rectangle=61 6085 2040 6160
+		Fin
+		Saisie
+			Variable=A-3_programme
+			Rectangle=61 6228 2040 6281
+		Fin
+		Saisie
+			Variable=Comm_ARV_Pediat
+			Rectangle=61 6279 2040 6390
+		Fin
+		Saisie
+			Variable=ARVsA_programme
+			Rectangle=61 6387 2040 6440
+		Fin
+		Saisie
+			Variable=Comm_ARV_Adulte
+			Rectangle=61 6437 2040 6548
+		Fin
+		Saisie
+			Variable=ARVsPTME_programme
+			Rectangle=61 6546 2040 6599
+		Fin
+		Saisie
+			Variable=Comm_ARV_PTME
+			Rectangle=61 6596 2040 6707
+		Fin
+		Saisie
+			Variable=ARV_IO_programme
+			Rectangle=61 6705 2040 6757
+		Fin
+		Saisie
+			Variable=Comm_ARV_IO
+			Rectangle=61 6755 2040 6866
+		Fin
+		Saisie
+			Variable=ACT_programme
+			Rectangle=61 6863 2040 6916
+		Fin
+		Saisie
+			Variable=Comm_ACT
+			Rectangle=61 6914 2040 7025
+		Fin
+		Saisie
+			Variable=Kit_Palu_programme
+			Rectangle=61 7022 2040 7075
+		Fin
+		Saisie
+			Variable=Comm_KIT_Palu
+			Rectangle=61 7072 2040 7183
+		Fin
+		Saisie
+			Variable=SP_programme
+			Rectangle=61 7181 2040 7234
+		Fin
+		Saisie
+			Variable=Comm_SP
+			Rectangle=61 7231 2040 7342
+		Fin
+		Saisie
+			Variable=TB_programme
+			Rectangle=61 7340 2040 7392
+		Fin
+		Saisie
+			Variable=Comm_TB
+			Rectangle=61 7390 2040 7501
+		Fin
+		Saisie
+			Variable=PSR_programme
+			Rectangle=61 7498 2040 7551
+		Fin
+		Saisie
+			Variable=Comm_PSR
+			Rectangle=61 7549 2040 7660
+		Fin
+		Saisie
+			Variable=PEV_programme
+			Rectangle=61 7657 2040 7710
+		Fin
+		Saisie
+			Variable=Comm_PEV
+			Rectangle=61 7707 2040 7818
+		Fin
+		Saisie
+			Variable=UNLSco_programme
+			Rectangle=61 7816 2040 7906
+		Fin
+		Saisie
+			Variable=Comm_UNLSco
+			Rectangle=61 7903 2040 8014
+		Fin
+		Saisie
+			Variable=MMNT_programme
+			Rectangle=61 8012 2040 8065
+		Fin
+		Saisie
+			Variable=Comm_MMNT
+			Rectangle=61 8062 2040 8173
+		Fin
+		Saisie
+			Variable=Kit_SONU_programme
+			Rectangle=61 8170 2040 8223
+		Fin
+		Saisie
+			Variable=Comm_Kit_SONU
+			Rectangle=61 8221 2040 8332
+		Fin
+		Saisie
+			Variable=MILDA_programme
+			Rectangle=61 8329 2040 8382
+		Fin
+		Saisie
+			Variable=Comm_Kit_SONU1
+			Rectangle=61 8379 2040 8490
+		Fin
+		Saisie
+			Variable=recouvr_programme
+			Rectangle=61 8488 2040 8541
+		Fin
+		Saisie
+			Variable=Comm_Recouvr
+			Rectangle=61 8538 2040 8649
+		Fin
+		Saisie
+			Variable=GTC_programme
+			Rectangle=61 8647 2040 8700
+		Fin
+		Saisie
+			Variable=Comm_GTC
+			Rectangle=61 8697 2040 8808
+		Fin
+		Saisie
+			Variable=DM_programme
+			Rectangle=61 9057 2040 9110
+		Fin
+		Saisie
+			Variable=Comm_DM
+			Rectangle=61 9107 2040 9218
+		Fin
+		Saisie
+			Variable=Reactifs_programme
+			Rectangle=61 9215 2040 9305
+		Fin
+		Saisie
+			Variable=Comm_Reactifs
+			Rectangle=61 9303 2040 9414
+		Fin
+		Saisie
+			Variable=React_CNTS_programme
+			Rectangle=61 9411 2040 9464
+		Fin
+		Saisie
+			Variable=Comm_React_CNTS
+			Rectangle=61 9462 2040 9573
+		Fin
+		Saisie
+			Variable=HVB_HVC_programme
+			Rectangle=61 9570 2040 9623
+		Fin
+		Saisie
+			Variable=Comm_HVBC
+			Rectangle=61 9620 2040 9731
+		Fin
+		Saisie
+			Variable=Stupéfiants_programme
+			Rectangle=61 9729 2040 9782
+		Fin
+		Saisie
+			Variable=Comm_Stupefiants
+			Rectangle=61 9779 2040 9890
+		Fin
+		Saisie
+			Variable=nutrition_programme
+			Rectangle=61 9887 2040 9940
+		Fin
+		Saisie
+			Variable=Comm_Nutrition
+			Rectangle=61 9938 2040 10049
+		Fin
+		Titre
+			Variable=Resp_Select_Prdt
+			Rectangle=61 10046 2040 10120
+		Fin
+		Saisie
+			Variable=Resp_Select_Prdt
+			Rectangle=61 10118 2040 10171
+		Fin
+		Saisie
+			Variable=Cat_Prdt
+			Rectangle=61 10168 2040 10279
+		Fin
+		Saisie
+			Variable=sinon_prog_resp_Pdt
+			Rectangle=61 10276 2040 10388
+		Fin
+		Saisie
+			Variable=Resp_Quantif_Besoin
+			Rectangle=61 10385 2040 10438
+		Fin
+		Saisie
+			Variable=Cat_Prdt_Quantif
+			Rectangle=61 10435 2040 10546
+		Fin
+		Saisie
+			Variable=sinon_prog_resp_Quantif
+			Rectangle=61 10544 2040 10655
+		Fin
+		Saisie
+			Variable=Resp_Achats
+			Rectangle=61 10652 2040 10705
+		Fin
+		Saisie
+			Variable=Cat_Prdt_Achats
+			Rectangle=61 10702 2040 10814
+		Fin
+		Saisie
+			Variable=sinon_prog_resp_Achats
+			Rectangle=61 10811 2040 10922
+		Fin
+		Saisie
+			Variable=Resp_Commandes
+			Rectangle=61 10919 2040 10972
+		Fin
+		Saisie
+			Variable=Cat_Prdt_Commandes
+			Rectangle=61 10970 2040 11081
+		Fin
+		Saisie
+			Variable=sinon_prog_resp_Commandes
+			Rectangle=61 11078 2040 11189
+		Fin
+		Saisie
+			Variable=Resp_Stockage
+			Rectangle=61 11187 2040 11240
+		Fin
+		Saisie
+			Variable=Cat_Prdt_Stockage
+			Rectangle=61 11237 2040 11348
+		Fin
+		Saisie
+			Variable=sinon_prog_resp_Stockage
+			Rectangle=61 11345 2040 11456
+		Fin
+		Saisie
+			Variable=Resp_gestion_Stock
+			Rectangle=61 11454 2040 11507
+		Fin
+		Saisie
+			Variable=Cat_Prdt_Gestion_stock
+			Rectangle=61 11504 2040 11615
+		Fin
+		Saisie
+			Variable=sinon_prog_resp_gestion_stock
+			Rectangle=61 11613 2040 11724
+		Fin
+		Saisie
+			Variable=Resp_Distribution
+			Rectangle=61 11721 2040 11774
+		Fin
+		Saisie
+			Variable=Cat_Prdt_Distribution
+			Rectangle=61 12028 2040 12139
+		Fin
+		Saisie
+			Variable=sinon_prog_resp_distrib
+			Rectangle=61 12136 2040 12248
+		Fin
+		Saisie
+			Variable=Resp_Dispensation
+			Rectangle=61 12245 2040 12298
+		Fin
+		Saisie
+			Variable=Cat_Prdt_Dispensation
+			Rectangle=61 12295 2040 12406
+		Fin
+		Saisie
+			Variable=sinon_prog_resp_dispensation
+			Rectangle=61 12404 2040 12515
+		Fin
+		Saisie
+			Variable=Resp_autres_preciser
+			Rectangle=61 12512 2040 12623
+		Fin
+		Saisie
+			Variable=Cat_Prdt_autres
+			Rectangle=61 12621 2040 12732
+		Fin
+		Saisie
+			Variable=sinon_prog_resp_autres
+			Rectangle=61 12729 2040 12840
+		Fin
+		Saisie
+			Variable=Program_antenne_region
+			Rectangle=61 12838 2040 12928
+		Fin
+		Saisie
+			Variable=Program_antenne_region_AUTRE
+			Rectangle=61 12925 2040 13036
+		Fin
+		Saisie
+			Variable=comm_program_antenne_region
+			Rectangle=61 13033 2040 13107
+		Fin
+		Titre
+			Variable=Dispo_LME_Programme
+			Rectangle=61 13105 2040 13179
+		Fin
+		Saisie
+			Variable=Dispo_LME_Programme
+			Rectangle=61 13176 2040 13266
+		Fin
+		Saisie
+			Variable=Date_Version_LME
+			Rectangle=61 13264 2040 13338
+		Fin
+		Saisie
+			Variable=Comm_dispo_LME_programm
+			Rectangle=61 13335 2040 13446
+		Fin
+		Saisie
+			Variable=Dispo_STG_Programme
+			Rectangle=61 13443 2040 13496
+		Fin
+		Saisie
+			Variable=Date_Version_STG
+			Rectangle=61 13494 2040 13568
+		Fin
+		Saisie
+			Variable=programm_Limite_LME
+			Rectangle=61 13565 2040 13655
+		Fin
+		Saisie
+			Variable=Comm_program_Limit_LME
+			Rectangle=61 13653 2040 13764
+		Fin
+		Titre
+			Variable=LME_non_impose
+			Rectangle=61 13761 2040 13893
+		Fin
+		Saisie
+			Variable=LME_non_impose
+			Rectangle=61 13891 2040 13981
+		Fin
+		Saisie
+			Variable=ordre_LME_non_impose
+			Rectangle=61 13978 2040 14068
+		Fin
+		Saisie
+			Variable=comm_Programm_Limi_LME
+			Rectangle=61 14065 2040 14176
+		Fin
+		Saisie
+			Variable=LME_non_dispo
+			Rectangle=61 14174 2040 14227
+		Fin
+		Saisie
+			Variable=ordre_LME_non_dispo
+			Rectangle=61 14224 2040 14314
+		Fin
+		Saisie
+			Variable=comm_Programm_LME_non_dispo
+			Rectangle=61 14311 2040 14422
+		Fin
+		Saisie
+			Variable=LME_different_du_GDT
+			Rectangle=61 14420 2040 14510
+		Fin
+		Saisie
+			Variable=ordre_LME_different_GDT
+			Rectangle=61 14507 2040 14597
+		Fin
+		Saisie
+			Variable=comm_Programm_LME_different_GDT
+			Rectangle=61 14594 2040 14706
+		Fin
+		Saisie
+			Variable=LME_different_besoin
+			Rectangle=61 14703 2040 14793
+		Fin
+		Saisie
+			Variable=ordre_LME_different_besoin
+			Rectangle=61 14999 2040 15089
+		Fin
+		Saisie
+			Variable=comm_Programm_LME_different_besoin
+			Rectangle=61 15087 2040 15198
+		Fin
+		Saisie
+			Variable=B4e
+			Rectangle=61 15195 2040 15248
+		Fin
+		Saisie
+			Variable=B4e_Ordre
+			Rectangle=61 15245 2040 15335
+		Fin
+		Saisie
+			Variable=B4e_commentaire
+			Rectangle=61 15333 2040 15444
+		Fin
+		Saisie
+			Variable=B4f
+			Rectangle=61 15441 2040 15494
+		Fin
+		Saisie
+			Variable=B4f_Ordre
+			Rectangle=61 15491 2040 15581
+		Fin
+		Saisie
+			Variable=B4f_commentaire
+			Rectangle=61 15579 2040 15690
+		Fin
+		Saisie
+			Variable=B4g
+			Rectangle=61 15687 2040 15814
+		Fin
+		Saisie
+			Variable=B4g_Ordre
+			Rectangle=61 15812 2040 15901
+		Fin
+		Saisie
+			Variable=B4g_commentaire
+			Rectangle=61 15899 2040 16010
+		Fin
+		Saisie
+			Variable=B4h
+			Rectangle=61 16007 2040 16118
+		Fin
+		Saisie
+			Variable=B4h_Ordre
+			Rectangle=61 16116 2040 16169
+		Fin
+		Saisie
+			Variable=B4h_commentaire
+			Rectangle=61 16166 2040 16277
+		Fin
+		Titre
+			Variable=C1a
+			Rectangle=61 16346 2040 16478
+		Fin
+		Titre
+			Variable=C1a
+			Indice=1
+			Rectangle=61 16275 2040 16349
+		Fin
+		Saisie
+			Variable=C1a
+			Rectangle=61 16476 2040 16587
+		Fin
+		Saisie
+			Variable=C1a_qualification
+			Rectangle=61 16584 2040 16695
+		Fin
+		Saisie
+			Variable=C1a_Commentaire
+			Rectangle=61 16693 2040 16804
+		Fin
+		Saisie
+			Variable=C1b
+			Rectangle=61 16801 2040 16912
+		Fin
+		Saisie
+			Variable=C1b_qualification
+			Rectangle=61 16910 2040 17021
+		Fin
+		Saisie
+			Variable=C1b_Commentaire
+			Rectangle=61 17018 2040 17129
+		Fin
+		Saisie
+			Variable=C1c
+			Rectangle=61 17126 2040 17238
+		Fin
+		Saisie
+			Variable=C1c_qualification
+			Rectangle=61 17235 2040 17346
+		Fin
+		Saisie
+			Variable=C1c_Commentaire
+			Rectangle=61 17343 2040 17455
+		Fin
+		Saisie
+			Variable=C1d
+			Rectangle=61 17452 2040 17563
+		Fin
+		Saisie
+			Variable=C1d_qualification
+			Rectangle=61 17560 2040 17672
+		Fin
+		Saisie
+			Variable=C1d_Commentaire
+			Rectangle=61 17971 2040 18082
+		Fin
+		Saisie
+			Variable=C1e
+			Rectangle=61 18079 2040 18190
+		Fin
+		Saisie
+			Variable=C1e_qualification
+			Rectangle=61 18187 2040 18299
+		Fin
+		Saisie
+			Variable=C1e_Commentaire
+			Rectangle=61 18296 2040 18407
+		Fin
+		Saisie
+			Variable=C1f
+			Rectangle=61 18404 2040 18516
+		Fin
+		Saisie
+			Variable=C1f_qualification
+			Rectangle=61 18513 2040 18624
+		Fin
+		Saisie
+			Variable=C1f_Commentaire
+			Rectangle=61 18621 2040 18733
+		Fin
+		Saisie
+			Variable=C1g
+			Rectangle=61 18730 2040 18841
+		Fin
+		Saisie
+			Variable=C1g_qualification
+			Rectangle=61 18838 2040 18949
+		Fin
+		Saisie
+			Variable=C1g_Commentaire
+			Rectangle=61 18947 2040 19058
+		Fin
+		Saisie
+			Variable=C1h
+			Rectangle=61 19055 2040 19166
+		Fin
+		Saisie
+			Variable=C1h_Qualifications
+			Rectangle=61 19164 2040 19275
+		Fin
+		Saisie
+			Variable=C1h_Commentaire
+			Rectangle=61 19272 2040 19383
+		Fin
+		Saisie
+			Variable=C1i
+			Rectangle=61 19381 2040 19492
+		Fin
+		Saisie
+			Variable=C1i_Qualifications
+			Rectangle=61 19489 2040 19600
+		Fin
+		Saisie
+			Variable=C1i_Commentaire
+			Rectangle=61 19598 2040 19709
+		Fin
+		Saisie
+			Variable=C1j
+			Rectangle=61 19706 2040 19817
+		Fin
+		Saisie
+			Variable=C1j_Qualifications
+			Rectangle=61 19815 2040 19926
+		Fin
+		Saisie
+			Variable=C1j_Commentaire
+			Rectangle=61 19923 2040 20034
+		Fin
+		Saisie
+			Variable=C1k
+			Rectangle=61 20032 2040 20143
+		Fin
+		Saisie
+			Variable=C1k_Qualifications
+			Rectangle=61 20140 2040 20251
+		Fin
+		Saisie
+			Variable=C1k_Commentaire
+			Rectangle=61 20249 2040 20360
+		Fin
+		Saisie
+			Variable=C1l
+			Rectangle=61 20357 2040 20468
+		Fin
+		Saisie
+			Variable=C1l_Qualifications
+			Rectangle=61 20466 2040 20577
+		Fin
+		Saisie
+			Variable=C1l_Commentaire
+			Rectangle=61 20574 2040 20685
+		Fin
+		Saisie
+			Variable=C1m
+			Rectangle=61 20942 2040 21053
+		Fin
+		Saisie
+			Variable=C1m_Qualifications
+			Rectangle=61 21050 2040 21161
+		Fin
+		Saisie
+			Variable=C1m_Commentaire
+			Rectangle=61 21159 2040 21270
+		Fin
+		Saisie
+			Variable=C1n
+			Rectangle=61 21267 2040 21378
+		Fin
+		Saisie
+			Variable=C1n_Qualifications
+			Rectangle=61 21376 2040 21487
+		Fin
+		Saisie
+			Variable=C1n_Commentaire
+			Rectangle=61 21484 2040 21595
+		Fin
+		Saisie
+			Variable=C1o
+			Rectangle=61 21593 2040 21704
+		Fin
+		Saisie
+			Variable=C1o_Qualifications
+			Rectangle=61 21701 2040 21812
+		Fin
+		Saisie
+			Variable=C1o_Commentaire
+			Rectangle=61 21810 2040 21921
+		Fin
+		Saisie
+			Variable=C1p
+			Rectangle=61 21918 2040 22029
+		Fin
+		Saisie
+			Variable=C1p_Qualifications
+			Rectangle=61 22027 2040 22138
+		Fin
+		Saisie
+			Variable=C1p_Commentaire
+			Rectangle=61 22135 2040 22246
+		Fin
+		Saisie
+			Variable=C1q
+			Rectangle=61 22244 2040 22355
+		Fin
+		Saisie
+			Variable=C1q_Qualifications
+			Rectangle=61 22352 2040 22463
+		Fin
+		Saisie
+			Variable=C1q_Commentaire
+			Rectangle=61 22460 2040 22572
+		Fin
+		Saisie
+			Variable=C1r
+			Rectangle=61 22569 2040 22680
+		Fin
+		Saisie
+			Variable=C1r_Qualifications
+			Rectangle=61 22677 2040 22789
+		Fin
+		Saisie
+			Variable=C1r_Commentaire
+			Rectangle=61 22786 2040 22897
+		Fin
+		Saisie
+			Variable=C1s
+			Rectangle=61 22894 2040 23006
+		Fin
+		Saisie
+			Variable=C1s_Qualifications
+			Rectangle=61 23003 2040 23114
+		Fin
+		Saisie
+			Variable=C1s_Commentaire
+			Rectangle=61 23111 2040 23222
+		Fin
+		Saisie
+			Variable=C1t
+			Rectangle=61 23220 2040 23331
+		Fin
+		Saisie
+			Variable=C1t_Qualifications
+			Rectangle=61 23328 2040 23439
+		Fin
+		Saisie
+			Variable=C1t_Commentaire
+			Rectangle=61 23437 2040 23548
+		Fin
+		Saisie
+			Variable=C1v
+			Rectangle=61 23545 2040 23656
+		Fin
+		Saisie
+			Variable=C1v_Qualifications
+			Rectangle=61 23913 2040 24024
+		Fin
+		Saisie
+			Variable=C1v_Commentaire
+			Rectangle=61 24022 2040 24133
+		Fin
+		Saisie
+			Variable=C1w
+			Rectangle=61 24130 2040 24241
+		Fin
+		Saisie
+			Variable=C1w_Qualifications
+			Rectangle=61 24238 2040 24350
+		Fin
+		Saisie
+			Variable=C1w_Commentaire
+			Rectangle=61 24347 2040 24458
+		Fin
+		Titre
+			Variable=C2a
+			Rectangle=61 24455 2040 24588
+		Fin
+		Saisie
+			Variable=C2a
+			Rectangle=61 24585 2040 24638
+		Fin
+		Saisie
+			Variable=C2a_Categorie
+			Rectangle=61 24635 2040 24746
+		Fin
+		Saisie
+			Variable=C2a_Commentaire
+			Rectangle=61 24744 2040 24855
+		Fin
+		Saisie
+			Variable=C2b
+			Rectangle=61 24852 2040 24942
+		Fin
+		Saisie
+			Variable=C2b_Categorie
+			Rectangle=61 24940 2040 25051
+		Fin
+		Saisie
+			Variable=C2b_Commentaire
+			Rectangle=61 25048 2040 25159
+		Fin
+		Saisie
+			Variable=C2c
+			Rectangle=61 25157 2040 25210
+		Fin
+		Saisie
+			Variable=C2c_Categorie
+			Rectangle=61 25207 2040 25318
+		Fin
+		Saisie
+			Variable=C2c_Commentaire
+			Rectangle=61 25315 2040 25426
+		Fin
+		Saisie
+			Variable=C2d
+			Rectangle=61 25424 2040 25477
+		Fin
+		Saisie
+			Variable=C2d_Categorie
+			Rectangle=61 25474 2040 25585
+		Fin
+		Saisie
+			Variable=C2d_Commentaire
+			Rectangle=61 25583 2040 25694
+		Fin
+		Saisie
+			Variable=C2e
+			Rectangle=61 25691 2040 25744
+		Fin
+		Saisie
+			Variable=C2e_Categorie
+			Rectangle=61 25741 2040 25852
+		Fin
+		Saisie
+			Variable=C2e_Commentaire
+			Rectangle=61 25850 2040 25961
+		Fin
+		Saisie
+			Variable=C2f
+			Rectangle=61 25958 2040 26011
+		Fin
+		Saisie
+			Variable=C2f_Categorie
+			Rectangle=61 26009 2040 26120
+		Fin
+		Saisie
+			Variable=C2f_Commentaire
+			Rectangle=61 26117 2040 26228
+		Fin
+		Saisie
+			Variable=C2g
+			Rectangle=61 26226 2040 26278
+		Fin
+		Saisie
+			Variable=C2g_Categorie
+			Rectangle=61 26276 2040 26387
+		Fin
+		Saisie
+			Variable=C2g_Commentaire
+			Rectangle=61 26384 2040 26495
+		Fin
+		Saisie
+			Variable=C2h
+			Rectangle=61 26493 2040 26583
+		Fin
+		Saisie
+			Variable=C2h_Categorie
+			Rectangle=61 26884 2040 26995
+		Fin
+		Saisie
+			Variable=C2h_Commentaire
+			Rectangle=61 26993 2040 27104
+		Fin
+		Saisie
+			Variable=C2i
+			Rectangle=61 27101 2040 27191
+		Fin
+		Saisie
+			Variable=C2i_Categorie
+			Rectangle=61 27189 2040 27300
+		Fin
+		Saisie
+			Variable=C2i_Commentaire
+			Rectangle=61 27297 2040 27408
+		Fin
+		Saisie
+			Variable=C2j
+			Rectangle=61 27406 2040 27458
+		Fin
+		Saisie
+			Variable=C2j_Categorie
+			Rectangle=61 27456 2040 27567
+		Fin
+		Saisie
+			Variable=C2j_Commentaire
+			Rectangle=61 27564 2040 27675
+		Fin
+		Saisie
+			Variable=C2k
+			Rectangle=61 27673 2040 27726
+		Fin
+		Saisie
+			Variable=C2k_Categorie
+			Rectangle=61 27723 2040 27834
+		Fin
+		Saisie
+			Variable=C2k_Commentaire
+			Rectangle=61 27832 2040 27943
+		Fin
+		Saisie
+			Variable=C2l
+			Rectangle=61 27940 2040 28051
+		Fin
+		Saisie
+			Variable=C2l_Categorie
+			Rectangle=61 28048 2040 28160
+		Fin
+		Saisie
+			Variable=C2l_Commentaire
+			Rectangle=61 28157 2040 28268
+		Fin
+		Titre
+			Variable=C3a_Outils
+			Rectangle=61 28265 2040 28456
+		Fin
+		Saisie
+			Variable=C3a_Outils
+			Rectangle=61 28453 2040 28506
+		Fin
+		Saisie
+			Variable=C3a_Lesquel
+			Rectangle=61 28504 2040 28615
+		Fin
+		Saisie
+			Variable=C3a_Developpe
+			Rectangle=61 28612 2040 28723
+		Fin
+		Saisie
+			Variable=C3a_Commentaires
+			Rectangle=61 28721 2040 28832
+		Fin
+		Saisie
+			Variable=C3b_Outils
+			Rectangle=61 28829 2040 28882
+		Fin
+		Saisie
+			Variable=c3b_lesquel
+			Rectangle=61 28879 2040 28990
+		Fin
+		Saisie
+			Variable=C3b_Developpe
+			Rectangle=61 28988 2040 29099
+		Fin
+		Saisie
+			Variable=C3b_Commentaires
+			Rectangle=61 29096 2040 29207
+		Fin
+		Saisie
+			Variable=C3c_Outils
+			Rectangle=61 29205 2040 29258
+		Fin
+		Saisie
+			Variable=C3c_Lesquel
+			Rectangle=61 29255 2040 29366
+		Fin
+		Saisie
+			Variable=C3c_Developpe
+			Rectangle=61 29363 2040 29475
+		Fin
+		Saisie
+			Variable=C3c_Commentaires
+			Rectangle=61 29472 2040 29583
+		Fin
+		Saisie
+			Variable=C3d_Outils
+			Rectangle=61 29856 2040 29946
+		Fin
+		Saisie
+			Variable=C3d_lesquel
+			Rectangle=61 29943 2040 30054
+		Fin
+		Saisie
+			Variable=C3d_Developpe
+			Rectangle=61 30051 2040 30163
+		Fin
+		Saisie
+			Variable=C3d_Commentaires
+			Rectangle=61 30160 2040 30271
+		Fin
+		Saisie
+			Variable=C3e_Outils
+			Rectangle=61 30268 2040 30358
+		Fin
+		Saisie
+			Variable=C3e_Lequek
+			Rectangle=61 30356 2040 30467
+		Fin
+		Saisie
+			Variable=C3e_Developpe
+			Rectangle=61 30464 2040 30575
+		Fin
+		Saisie
+			Variable=C3e_Commentaires
+			Rectangle=61 30573 2040 30684
+		Fin
+		Saisie
+			Variable=C3f_Outils
+			Rectangle=61 30681 2040 30771
+		Fin
+		Saisie
+			Variable=C3f_lesquel
+			Rectangle=61 30768 2040 30880
+		Fin
+		Saisie
+			Variable=C3f_Developpe
+			Rectangle=61 30877 2040 30988
+		Fin
+		Saisie
+			Variable=C3f_Commentaires
+			Rectangle=61 30985 2040 31096
+		Fin
+		Saisie
+			Variable=C3g_Outils
+			Rectangle=61 31094 2040 31147
+		Fin
+		Saisie
+			Variable=C3g_lequel
+			Rectangle=61 31144 2040 31255
+		Fin
+		Saisie
+			Variable=C3g_Developpe
+			Rectangle=61 31253 2040 31364
+		Fin
+		Saisie
+			Variable=C3g_Commentaires
+			Rectangle=61 31361 2040 31472
+		Fin
+		Saisie
+			Variable=C3h_Outils
+			Rectangle=61 31470 2040 31522
+		Fin
+		Saisie
+			Variable=C3h_lesquel
+			Rectangle=61 31520 2040 31631
+		Fin
+		Saisie
+			Variable=C3h_Developpe
+			Rectangle=61 31628 2040 31739
+		Fin
+		Saisie
+			Variable=C3h_Commentaires
+			Rectangle=61 31737 2040 31848
+		Fin
+		Saisie
+			Variable=C3i_Outils
+			Rectangle=61 31845 2040 31898
+		Fin
+		Saisie
+			Variable=C3h_Lesquel1
+			Rectangle=61 31896 2040 32007
+		Fin
+		Saisie
+			Variable=C3i_Developpe
+			Rectangle=61 32004 2040 32115
+		Fin
+		Saisie
+			Variable=C3i_Commentaires
+			Rectangle=61 32112 2040 32224
+		Fin
+		Saisie
+			Variable=C3j_Outils
+			Rectangle=61 32221 2040 32274
+		Fin
+		Saisie
+			Variable=C3j_lequel
+			Rectangle=61 32271 2040 32382
+		Fin
+		Saisie
+			Variable=C3j_Developpe
+			Rectangle=61 32380 2040 32491
+		Fin
+		Saisie
+			Variable=C3j_Commentaires
+			Rectangle=61 32488 2040 32599
+		Fin
+		Saisie
+			Variable=C3k_Outils
+			Rectangle=61 32827 2040 32917
+		Fin
+		Saisie
+			Variable=C3k_lequel
+			Rectangle=61 32914 2040 33025
+		Fin
+		Saisie
+			Variable=C3k_Developpe
+			Rectangle=61 33023 2040 33134
+		Fin
+		Saisie
+			Variable=C3k_Commentaires
+			Rectangle=61 33131 2040 33242
+		Fin
+		Saisie
+			Variable=C3l_Outils
+			Rectangle=61 33240 2040 33293
+		Fin
+		Saisie
+			Variable=C3l_lesquel
+			Rectangle=61 33290 2040 33401
+		Fin
+		Saisie
+			Variable=C3l_Developpe
+			Rectangle=61 33398 2040 33509
+		Fin
+		Saisie
+			Variable=C3l_Commentaires
+			Rectangle=61 33507 2040 33618
+		Fin
+		Saisie
+			Variable=C3m_Outils
+			Rectangle=61 33615 2040 33705
+		Fin
+		Saisie
+			Variable=C3m_lesquel
+			Rectangle=61 33703 2040 33756
+		Fin
+		Saisie
+			Variable=C3m_Developpe
+			Rectangle=61 33753 2040 33864
+		Fin
+		Saisie
+			Variable=C3m_Commentaires
+			Rectangle=61 33861 2040 33973
+		Fin
+		Saisie
+			Variable=C3n_Outils
+			Rectangle=61 33970 2040 34023
+		Fin
+		Saisie
+			Variable=C3n_lesquel
+			Rectangle=61 34020 2040 34073
+		Fin
+		Saisie
+			Variable=C3n_Developpe
+			Rectangle=61 34070 2040 34182
+		Fin
+		Saisie
+			Variable=C3n_Commentaires
+			Rectangle=61 34179 2040 34290
+		Fin
+		Saisie
+			Variable=C3o_Outils
+			Rectangle=61 34287 2040 34340
+		Fin
+		Saisie
+			Variable=C3O_lesquel
+			Rectangle=61 34338 2040 34449
+		Fin
+		Saisie
+			Variable=C3o_Developpe
+			Rectangle=61 34446 2040 34557
+		Fin
+		Saisie
+			Variable=C3o_Commentaires
+			Rectangle=61 34555 2040 34666
+		Fin
+		Saisie
+			Variable=C3p_Outils
+			Rectangle=61 34663 2040 34753
+		Fin
+		Saisie
+			Variable=C3p_lesquel
+			Rectangle=61 34750 2040 34803
+		Fin
+		Saisie
+			Variable=C3p_Developpe
+			Rectangle=61 34801 2040 34912
+		Fin
+		Saisie
+			Variable=C3p_Commentaires
+			Rectangle=61 34909 2040 35020
+		Fin
+		Saisie
+			Variable=C3q_Outils
+			Rectangle=61 35018 2040 35071
+		Fin
+		Saisie
+			Variable=C3q_Lesquel
+			Rectangle=61 35068 2040 35179
+		Fin
+		Saisie
+			Variable=C3q_Developpe
+			Rectangle=61 35176 2040 35287
+		Fin
+		Saisie
+			Variable=C3q_Commentaires
+			Rectangle=61 35285 2040 35396
+		Fin
+		Saisie
+			Variable=C3r_Outils
+			Rectangle=61 35393 2040 35483
+		Fin
+		Saisie
+			Variable=C3r_lequel
+			Rectangle=61 35481 2040 35592
+		Fin
+		Saisie
+			Variable=C3r_Developpe
+			Rectangle=61 35798 2040 35909
+		Fin
+		Saisie
+			Variable=C3r_Commentaires
+			Rectangle=61 35907 2040 36018
+		Fin
+		Saisie
+			Variable=C3s_Outils
+			Rectangle=61 36015 2040 36105
+		Fin
+		Saisie
+			Variable=C3s_lequel
+			Rectangle=61 36102 2040 36214
+		Fin
+		Saisie
+			Variable=C3s_Developpe
+			Rectangle=61 36211 2040 36322
+		Fin
+		Saisie
+			Variable=C3s_Commentaires
+			Rectangle=61 36319 2040 36430
+		Fin
+		Saisie
+			Variable=C3t_Outils
+			Rectangle=61 36428 2040 36518
+		Fin
+		Saisie
+			Variable=C3t_lesquel
+			Rectangle=61 36515 2040 36626
+		Fin
+		Saisie
+			Variable=C3t_Developpe
+			Rectangle=61 36624 2040 36735
+		Fin
+		Saisie
+			Variable=C3t_Commentaires
+			Rectangle=61 36732 2040 36843
+		Fin
+		Saisie
+			Variable=C3v_Outils
+			Rectangle=61 36841 2040 36894
+		Fin
+		Saisie
+			Variable=C3v_lequel
+			Rectangle=61 36891 2040 37002
+		Fin
+		Saisie
+			Variable=C3v_Developpe
+			Rectangle=61 36999 2040 37110
+		Fin
+		Saisie
+			Variable=C3v_Commentaires
+			Rectangle=61 37108 2040 37219
+		Fin
+		Saisie
+			Variable=C3w_Outils
+			Rectangle=61 37216 2040 37269
+		Fin
+		Saisie
+			Variable=C3w_lequel
+			Rectangle=61 37267 2040 37378
+		Fin
+		Saisie
+			Variable=C3w_Developpe
+			Rectangle=61 37375 2040 37486
+		Fin
+		Saisie
+			Variable=C3w_Commentaires
+			Rectangle=61 37484 2040 37595
+		Fin
+		Titre
+			Variable=C4a
+			Rectangle=61 37592 2040 37724
+		Fin
+		Saisie
+			Variable=C4a
+			Rectangle=61 37722 2040 37775
+		Fin
+		Saisie
+			Variable=c4a_Categorie
+			Rectangle=61 37772 2040 37883
+		Fin
+		Saisie
+			Variable=c4a_Commentaires
+			Rectangle=61 37880 2040 37992
+		Fin
+		Saisie
+			Variable=C4b
+			Rectangle=61 37989 2040 38042
+		Fin
+		Saisie
+			Variable=c4b_Categorie
+			Rectangle=61 38039 2040 38150
+		Fin
+		Saisie
+			Variable=c4b_Commentaires
+			Rectangle=61 38148 2040 38259
+		Fin
+		Saisie
+			Variable=C4c
+			Rectangle=61 38256 2040 38309
+		Fin
+		Saisie
+			Variable=c4c_Categorie
+			Rectangle=61 38306 2040 38418
+		Fin
+		Saisie
+			Variable=c4b_Commentaires1
+			Rectangle=61 38415 2040 38526
+		Fin
+		Saisie
+			Variable=C4d
+			Rectangle=61 38769 2040 38881
+		Fin
+		Saisie
+			Variable=c4d_Categorie
+			Rectangle=61 38878 2040 38989
+		Fin
+		Saisie
+			Variable=c4d_Commentaires
+			Rectangle=61 38986 2040 39097
+		Fin
+		Saisie
+			Variable=C5
+			Rectangle=61 39095 2040 39148
+		Fin
+		Saisie
+			Variable=c5_Commentaires
+			Rectangle=61 39145 2040 39256
+		Fin
+		Saisie
+			Variable=C6
+			Rectangle=61 39254 2040 39344
+		Fin
+		Saisie
+			Variable=C6_Commentaire
+			Rectangle=61 39341 2040 39452
+		Fin
+		Saisie
+			Variable=C6_Composition
+			Rectangle=61 39449 2040 39561
+		Fin
+		Saisie
+			Variable=C7
+			Rectangle=61 39558 2040 39685
+		Fin
+		Saisie
+			Variable=C7_Commentaires
+			Rectangle=61 39682 2040 39793
+		Fin
+		Saisie
+			Variable=C8
+			Rectangle=61 39791 2040 39881
+		Fin
+		Saisie
+			Variable=C8_Commentaires
+			Rectangle=61 39878 2040 39989
+		Fin
+		Saisie
+			Variable=C8_description
+			Rectangle=61 39986 2040 40098
+		Fin
+		Titre
+			Variable=D1
+			Rectangle=61 40095 2040 40169
+		Fin
+		Saisie
+			Variable=D1
+			Rectangle=61 40166 2040 40256
+		Fin
+		Titre
+			Variable=D1a_Respo
+			Rectangle=61 40254 2040 40328
+		Fin
+		Saisie
+			Variable=D1a_Respo
+			Rectangle=61 40325 2040 40436
+		Fin
+		Saisie
+			Variable=D1a_Qualification
+			Rectangle=61 40434 2040 40545
+		Fin
+		Saisie
+			Variable=D1a_Commentaire
+			Rectangle=61 40542 2040 40653
+		Fin
+		Saisie
+			Variable=D1b_Respo
+			Rectangle=61 40651 2040 40762
+		Fin
+		Saisie
+			Variable=D1b_Qualification
+			Rectangle=61 40759 2040 40870
+		Fin
+		Saisie
+			Variable=D1b_Commentaire
+			Rectangle=61 40868 2040 40979
+		Fin
+		Saisie
+			Variable=D1c_Respo
+			Rectangle=61 40976 2040 41087
+		Fin
+		Saisie
+			Variable=D1c_Qualification
+			Rectangle=61 41085 2040 41196
+		Fin
+		Saisie
+			Variable=D1c_Commentaire
+			Rectangle=61 41193 2040 41304
+		Fin
+		Saisie
+			Variable=D1d_Respo
+			Rectangle=61 41301 2040 41413
+		Fin
+		Saisie
+			Variable=D1d_Qualification
+			Rectangle=61 41410 2040 41521
+		Fin
+		Saisie
+			Variable=D1d_Commentaire
+			Rectangle=61 41741 2040 41852
+		Fin
+		Saisie
+			Variable=D1e_Respo
+			Rectangle=61 41849 2040 41960
+		Fin
+		Saisie
+			Variable=D1e_Qualification
+			Rectangle=61 41958 2040 42069
+		Fin
+		Saisie
+			Variable=D1e_Commentaire
+			Rectangle=61 42066 2040 42177
+		Fin
+		Saisie
+			Variable=D1f_Respo
+			Rectangle=61 42175 2040 42286
+		Fin
+		Saisie
+			Variable=D1f_Qualification
+			Rectangle=61 42283 2040 42394
+		Fin
+		Saisie
+			Variable=D1f_Commentaire
+			Rectangle=61 42392 2040 42503
+		Fin
+		Saisie
+			Variable=D1g_Respo
+			Rectangle=61 42500 2040 42611
+		Fin
+		Saisie
+			Variable=D1g_Qualification
+			Rectangle=61 42609 2040 42720
+		Fin
+		Saisie
+			Variable=D1g_Commentaire
+			Rectangle=61 42717 2040 42828
+		Fin
+		Saisie
+			Variable=D1h_Respo
+			Rectangle=61 42825 2040 42937
+		Fin
+		Saisie
+			Variable=D1h_Qualification
+			Rectangle=61 42934 2040 43045
+		Fin
+		Saisie
+			Variable=D1h_Commentaire
+			Rectangle=61 43042 2040 43154
+		Fin
+		Saisie
+			Variable=D1i_Respo
+			Rectangle=61 43151 2040 43262
+		Fin
+		Saisie
+			Variable=D1i_Qualification
+			Rectangle=61 43259 2040 43371
+		Fin
+		Saisie
+			Variable=D1i_Commentaire
+			Rectangle=61 43368 2040 43479
+		Fin
+		Saisie
+			Variable=D1j_Respo
+			Rectangle=61 43476 2040 43587
+		Fin
+		Saisie
+			Variable=D1j_Qualification
+			Rectangle=61 43585 2040 43696
+		Fin
+		Saisie
+			Variable=D1j_Commentaire
+			Rectangle=61 43693 2040 43804
+		Fin
+		Saisie
+			Variable=D1k_Respo
+			Rectangle=61 43802 2040 43913
+		Fin
+		Saisie
+			Variable=D1k_Qualification
+			Rectangle=61 43910 2040 44021
+		Fin
+		Saisie
+			Variable=D1k_Commentaire
+			Rectangle=61 44019 2040 44130
+		Fin
+		Saisie
+			Variable=D1l_Respo
+			Rectangle=61 44127 2040 44238
+		Fin
+		Saisie
+			Variable=D1l_Qualification
+			Rectangle=61 44236 2040 44347
+		Fin
+		Saisie
+			Variable=D1l_Commentaire
+			Rectangle=61 44344 2040 44455
+		Fin
+		Saisie
+			Variable=D1m_Respo
+			Rectangle=61 44712 2040 44823
+		Fin
+		Saisie
+			Variable=D1m_Qualification
+			Rectangle=61 44820 2040 44932
+		Fin
+		Saisie
+			Variable=D1m_Commentaire
+			Rectangle=61 44929 2040 45040
+		Fin
+		Saisie
+			Variable=D1m_Respo1
+			Rectangle=61 45037 2040 45149
+		Fin
+		Saisie
+			Variable=D1m_Qualification1
+			Rectangle=61 45146 2040 45257
+		Fin
+		Saisie
+			Variable=D1m_Commentaire1
+			Rectangle=61 45254 2040 45365
+		Fin
+		Saisie
+			Variable=D1n_Respo
+			Rectangle=61 45363 2040 45474
+		Fin
+		Saisie
+			Variable=D1n_Qualification
+			Rectangle=61 45471 2040 45582
+		Fin
+		Saisie
+			Variable=D1n_Commentaire
+			Rectangle=61 45580 2040 45691
+		Fin
+		Saisie
+			Variable=D1o_Respo
+			Rectangle=61 45688 2040 45799
+		Fin
+		Saisie
+			Variable=D1o_Qualification
+			Rectangle=61 45797 2040 45908
+		Fin
+		Saisie
+			Variable=D1o_Commentaire
+			Rectangle=61 45905 2040 46016
+		Fin
+		Saisie
+			Variable=D1p_Respo
+			Rectangle=61 46014 2040 46125
+		Fin
+		Saisie
+			Variable=D1p_Qualification
+			Rectangle=61 46122 2040 46233
+		Fin
+		Saisie
+			Variable=D1p_Commentaire
+			Rectangle=61 46231 2040 46342
+		Fin
+		Saisie
+			Variable=D1q_Respo
+			Rectangle=61 46339 2040 46450
+		Fin
+		Saisie
+			Variable=D1q_Qualification
+			Rectangle=61 46448 2040 46559
+		Fin
+		Saisie
+			Variable=D1q_Commentaire
+			Rectangle=61 46556 2040 46667
+		Fin
+		Saisie
+			Variable=D1r_Respo
+			Rectangle=61 46665 2040 46776
+		Fin
+		Saisie
+			Variable=D1r_Qualification
+			Rectangle=61 46773 2040 46884
+		Fin
+		Saisie
+			Variable=D1r_Commentaire
+			Rectangle=61 46882 2040 47009
+		Fin
+		Saisie
+			Variable=D1s_Respo
+			Rectangle=61 47006 2040 47117
+		Fin
+		Saisie
+			Variable=D1s_Qualification
+			Rectangle=61 47114 2040 47225
+		Fin
+		Saisie
+			Variable=D1s_Commentaire
+			Rectangle=61 47223 2040 47334
+		Fin
+		Saisie
+			Variable=D1t_Respo
+			Rectangle=61 47331 2040 47442
+		Fin
+		Saisie
+			Variable=D1t_Qualification
+			Rectangle=61 47683 2040 47794
+		Fin
+		Saisie
+			Variable=D1t_Commentaire
+			Rectangle=61 47792 2040 47903
+		Fin
+		Saisie
+			Variable=D1v_Respo
+			Rectangle=61 47900 2040 48011
+		Fin
+		Saisie
+			Variable=D1v_Qualification
+			Rectangle=61 48009 2040 48120
+		Fin
+		Saisie
+			Variable=D1v_Commentaire
+			Rectangle=61 48117 2040 48228
+		Fin
+		Saisie
+			Variable=D1w_Respo
+			Rectangle=61 48226 2040 48337
+		Fin
+		Saisie
+			Variable=D1w_Qualification
+			Rectangle=61 48334 2040 48445
+		Fin
+		Saisie
+			Variable=D1w_Commentaire
+			Rectangle=61 48443 2040 48554
+		Fin
+		Titre
+			Variable=D2a
+			Rectangle=61 48551 2040 48683
+		Fin
+		Saisie
+			Variable=D2a
+			Rectangle=61 48681 2040 48734
+		Fin
+		Saisie
+			Variable=D2a_critere
+			Rectangle=61 48731 2040 48842
+		Fin
+		Saisie
+			Variable=D2a_pourcentage
+			Rectangle=61 48839 2040 48914
+		Fin
+		Saisie
+			Variable=D2b
+			Rectangle=61 48911 2040 48964
+		Fin
+		Saisie
+			Variable=D2b_critere
+			Rectangle=61 48961 2040 49072
+		Fin
+		Saisie
+			Variable=D2b_pourcentage
+			Rectangle=61 49070 2040 49144
+		Fin
+		Saisie
+			Variable=D2c
+			Rectangle=61 49141 2040 49194
+		Fin
+		Saisie
+			Variable=D2c_critere
+			Rectangle=61 49191 2040 49302
+		Fin
+		Saisie
+			Variable=D2c_pourcentage
+			Rectangle=61 49300 2040 49374
+		Fin
+		Saisie
+			Variable=D2d
+			Rectangle=61 49371 2040 49424
+		Fin
+		Saisie
+			Variable=D2d_critere
+			Rectangle=61 49422 2040 49533
+		Fin
+		Saisie
+			Variable=D2d_pourcentage
+			Rectangle=61 49530 2040 49604
+		Fin
+		Saisie
+			Variable=D2e
+			Rectangle=61 49601 2040 49654
+		Fin
+		Saisie
+			Variable=D2e_critere
+			Rectangle=61 49652 2040 49763
+		Fin
+		Saisie
+			Variable=D2e_pourcentage
+			Rectangle=61 49760 2040 49834
+		Fin
+		Saisie
+			Variable=D2f
+			Rectangle=61 49832 2040 49943
+		Fin
+		Saisie
+			Variable=D2f_critere
+			Rectangle=61 49940 2040 50051
+		Fin
+		Saisie
+			Variable=D2f_pourcentage
+			Rectangle=61 50049 2040 50123
+		Fin
+		Titre
+			Variable=D3a
+			Rectangle=61 50120 2040 50194
+		Fin
+		Saisie
+			Variable=D3a
+			Rectangle=61 50191 2040 50266
+		Fin
+		Saisie
+			Variable=D3b
+			Rectangle=61 50263 2040 50337
+		Fin
+		Saisie
+			Variable=D3c
+			Rectangle=61 50334 2040 50408
+		Fin
+		Saisie
+			Variable=D3d
+			Rectangle=61 50654 2040 50729
+		Fin
+		Saisie
+			Variable=D3d1
+			Rectangle=61 50726 2040 50800
+		Fin
+		Saisie
+			Variable=D3e
+			Rectangle=61 50797 2040 50871
+		Fin
+		Saisie
+			Variable=D3f
+			Rectangle=61 50869 2040 50943
+		Fin
+		Titre
+			Variable=D4a
+			Rectangle=61 50940 2040 51014
+		Fin
+		Saisie
+			Variable=D4a
+			Rectangle=61 51012 2040 51065
+		Fin
+		Saisie
+			Variable=D4a_Commentaire
+			Rectangle=61 51062 2040 51173
+		Fin
+		Saisie
+			Variable=D4b
+			Rectangle=61 51170 2040 51223
+		Fin
+		Saisie
+			Variable=D4b_Commentaire
+			Rectangle=61 51221 2040 51332
+		Fin
+		Saisie
+			Variable=D4c
+			Rectangle=61 51329 2040 51440
+		Fin
+		Saisie
+			Variable=D4c_Commentaire
+			Rectangle=61 51438 2040 51549
+		Fin
+		Saisie
+			Variable=D5
+			Rectangle=61 51546 2040 51673
+		Fin
+		Saisie
+			Variable=D5_Commentaire
+			Rectangle=61 51670 2040 51782
+		Fin
+		Saisie
+			Variable=D6
+			Rectangle=61 51779 2040 51869
+		Fin
+		Saisie
+			Variable=D6_Commentaire
+			Rectangle=61 51866 2040 51977
+		Fin
+		Titre
+			Variable=D7a
+			Rectangle=61 51975 2040 52107
+		Fin
+		Saisie
+			Variable=D7a
+			Rectangle=61 52104 2040 52194
+		Fin
+		Saisie
+			Variable=D7a_Categorie
+			Rectangle=61 52192 2040 52303
+		Fin
+		Saisie
+			Variable=D7a_Commentaires
+			Rectangle=61 52300 2040 52411
+		Fin
+		Saisie
+			Variable=D7b
+			Rectangle=61 52409 2040 52499
+		Fin
+		Saisie
+			Variable=D7b_Categorie
+			Rectangle=61 52496 2040 52607
+		Fin
+		Saisie
+			Variable=D7b_Commentaires
+			Rectangle=61 52604 2040 52716
+		Fin
+		Saisie
+			Variable=D7c
+			Rectangle=61 52713 2040 52803
+		Fin
+		Saisie
+			Variable=D7c_Categorie
+			Rectangle=61 52800 2040 52911
+		Fin
+		Saisie
+			Variable=D7c_Commentaires
+			Rectangle=61 52909 2040 53020
+		Fin
+		Saisie
+			Variable=D7d
+			Rectangle=61 53017 2040 53107
+		Fin
+		Saisie
+			Variable=D7d_Categorie
+			Rectangle=61 53105 2040 53216
+		Fin
+		Saisie
+			Variable=D7d_Commentaires
+			Rectangle=61 53213 2040 53324
+		Fin
+		Saisie
+			Variable=D7e
+			Rectangle=61 53321 2040 53411
+		Fin
+		Saisie
+			Variable=D7e_Categorie
+			Rectangle=61 53626 2040 53737
+		Fin
+		Saisie
+			Variable=D7e_Commentaires
+			Rectangle=61 53734 2040 53845
+		Fin
+		Saisie
+			Variable=D7f
+			Rectangle=61 53843 2040 53954
+		Fin
+		Saisie
+			Variable=D7f_Categorie
+			Rectangle=61 53951 2040 54062
+		Fin
+		Saisie
+			Variable=D7f_Commentaires
+			Rectangle=61 54060 2040 54171
+		Fin
+		Titre
+			Variable=D8a
+			Rectangle=61 54168 2040 54300
+		Fin
+		Saisie
+			Variable=D8a
+			Rectangle=61 54298 2040 54388
+		Fin
+		Saisie
+			Variable=D8a_Ordre
+			Rectangle=61 54385 2040 54475
+		Fin
+		Saisie
+			Variable=D8a_Commentaires
+			Rectangle=61 54472 2040 54584
+		Fin
+		Saisie
+			Variable=D8b
+			Rectangle=61 54581 2040 54671
+		Fin
+		Saisie
+			Variable=D8b_Ordre
+			Rectangle=61 54668 2040 54758
+		Fin
+		Saisie
+			Variable=D8b_Commentaires
+			Rectangle=61 54756 2040 54867
+		Fin
+		Saisie
+			Variable=D8c
+			Rectangle=61 54864 2040 54954
+		Fin
+		Saisie
+			Variable=D8c_Ordre
+			Rectangle=61 54951 2040 55041
+		Fin
+		Saisie
+			Variable=D8c_Commentaires
+			Rectangle=61 55039 2040 55150
+		Fin
+		Saisie
+			Variable=D8d
+			Rectangle=61 55147 2040 55237
+		Fin
+		Saisie
+			Variable=D8d_Ordre
+			Rectangle=61 55234 2040 55324
+		Fin
+		Saisie
+			Variable=D8d_Commentaires
+			Rectangle=61 55322 2040 55433
+		Fin
+		Saisie
+			Variable=D8e
+			Rectangle=61 55430 2040 55520
+		Fin
+		Saisie
+			Variable=D8e_Ordre
+			Rectangle=61 55518 2040 55607
+		Fin
+		Saisie
+			Variable=D8e_Commentaires
+			Rectangle=61 55605 2040 55716
+		Fin
+		Saisie
+			Variable=D8f
+			Rectangle=61 55713 2040 55803
+		Fin
+		Saisie
+			Variable=D8f_Ordre
+			Rectangle=61 55801 2040 55891
+		Fin
+		Saisie
+			Variable=D8f_Commentaires
+			Rectangle=61 55888 2040 55999
+		Fin
+		Saisie
+			Variable=D8g
+			Rectangle=61 55996 2040 56086
+		Fin
+		Saisie
+			Variable=D8g_Ordre
+			Rectangle=61 56084 2040 56174
+		Fin
+		Saisie
+			Variable=D8g_Commentaires
+			Rectangle=61 56171 2040 56282
+		Fin
+		Saisie
+			Variable=D8h
+			Rectangle=61 56280 2040 56369
+		Fin
+		Saisie
+			Variable=D8h_Ordre
+			Rectangle=61 56597 2040 56687
+		Fin
+		Saisie
+			Variable=D8h_Commentaires
+			Rectangle=61 56684 2040 56795
+		Fin
+		Saisie
+			Variable=D8i
+			Rectangle=61 56793 2040 56904
+		Fin
+		Saisie
+			Variable=D8i_Ordre
+			Rectangle=61 56901 2040 56991
+		Fin
+		Saisie
+			Variable=D8i_Commentaires
+			Rectangle=61 56989 2040 57100
+		Fin
+		Saisie
+			Variable=D9
+			Rectangle=61 57097 2040 57224
+		Fin
+		Saisie
+			Variable=D9_Commentaires
+			Rectangle=61 57221 2040 57333
+		Fin
+		Saisie
+			Variable=D10
+			Rectangle=61 57330 2040 57420
+		Fin
+		Saisie
+			Variable=D10_Commentaires
+			Rectangle=61 57417 2040 57528
+		Fin
+		Saisie
+			Variable=D10_Composition
+			Rectangle=61 57526 2040 57637
+		Fin
+		Saisie
+			Variable=D11
+			Rectangle=61 57634 2040 57724
+		Fin
+		Saisie
+			Variable=D11_Commentaires
+			Rectangle=61 57722 2040 57833
+		Fin
+		Titre
+			Variable=D12a
+			Rectangle=61 57830 2040 57904
+		Fin
+		Saisie
+			Variable=D12a
+			Rectangle=61 57901 2040 57954
+		Fin
+		Saisie
+			Variable=D12a_commentaires
+			Rectangle=61 57952 2040 58063
+		Fin
+		Saisie
+			Variable=D12b
+			Rectangle=61 58060 2040 58113
+		Fin
+		Saisie
+			Variable=D12b_commentaires
+			Rectangle=61 58110 2040 58222
+		Fin
+		Saisie
+			Variable=D12c_autres
+			Rectangle=61 58219 2040 58272
+		Fin
+		Saisie
+			Variable=D12_preciser
+			Rectangle=61 58269 2040 58380
+		Fin
+		Saisie
+			Variable=D13
+			Rectangle=61 58378 2040 58468
+		Fin
+		Saisie
+			Variable=D13_Commentaires
+			Rectangle=61 58465 2040 58576
+		Fin
+		Saisie
+			Variable=D13_Lesquel
+			Rectangle=61 58573 2040 58685
+		Fin
+		Saisie
+			Variable=D14
+			Rectangle=61 58682 2040 58735
+		Fin
+		Saisie
+			Variable=D14_Commentaires
+			Rectangle=61 58732 2040 58843
+		Fin
+		Saisie
+			Variable=D16
+			Rectangle=61 58841 2040 58952
+		Fin
+		Titre
+			Variable=D15a
+			Rectangle=61 58949 2040 59023
+		Fin
+		Saisie
+			Variable=D15a
+			Rectangle=61 59021 2040 59074
+		Fin
+		Saisie
+			Variable=D15a_Categorie
+			Rectangle=61 59071 2040 59182
+		Fin
+		Saisie
+			Variable=D15a_Commentaire
+			Rectangle=61 59179 2040 59290
+		Fin
+		Saisie
+			Variable=D15b
+			Rectangle=61 59288 2040 59341
+		Fin
+		Saisie
+			Variable=D15b_Categorie
+			Rectangle=61 59568 2040 59679
+		Fin
+		Saisie
+			Variable=D15b_Commentaire
+			Rectangle=61 59677 2040 59788
+		Fin
+		Saisie
+			Variable=D15c
+			Rectangle=61 59785 2040 59838
+		Fin
+		Saisie
+			Variable=D15c_Categorie
+			Rectangle=61 59836 2040 59947
+		Fin
+		Saisie
+			Variable=D15c_Commentaire
+			Rectangle=61 59944 2040 60055
+		Fin
+		Saisie
+			Variable=D15d
+			Rectangle=61 60052 2040 60164
+		Fin
+		Saisie
+			Variable=D15d_Categorie
+			Rectangle=61 60161 2040 60272
+		Fin
+		Saisie
+			Variable=D15d_Commentaire
+			Rectangle=61 60269 2040 60381
+		Fin
+		Titre
+			Variable=D16a_Distributeur
+			Rectangle=61 60378 2040 60510
+		Fin
+		Saisie
+			Variable=D16a_Distributeur
+			Rectangle=61 60508 2040 60598
+		Fin
+		Saisie
+			Variable=D16a_Montant_Distributeur
+			Rectangle=61 60595 2040 60685
+		Fin
+		Saisie
+			Variable=D16a_Fabricants
+			Rectangle=61 60682 2040 60772
+		Fin
+		Saisie
+			Variable=D16a_Montant_Fabricant
+			Rectangle=61 60770 2040 60859
+		Fin
+		Saisie
+			Variable=D16a_Distr_Locaux
+			Rectangle=61 60857 2040 60947
+		Fin
+		Saisie
+			Variable=D16a_Montant_Distr_locaux
+			Rectangle=61 60944 2040 61034
+		Fin
+		Saisie
+			Variable=D16a_Fabricant
+			Rectangle=61 61031 2040 61084
+		Fin
+		Saisie
+			Variable=D16a
+			Rectangle=61 61082 2040 61156
+		Fin
+		Saisie
+			Variable=D16a_Autres
+			Rectangle=61 61153 2040 61264
+		Fin
+		Saisie
+			Variable=D16a_Montant_Autres
+			Rectangle=61 61262 2040 61352
+		Fin
+		Saisie
+			Variable=D16b_Distributeur_Adulte
+			Rectangle=61 61349 2040 61439
+		Fin
+		Saisie
+			Variable=D16b_Montant_Distributeur
+			Rectangle=61 61436 2040 61526
+		Fin
+		Saisie
+			Variable=D16b_Fabricants
+			Rectangle=61 61524 2040 61614
+		Fin
+		Saisie
+			Variable=D16b_Montant_Fabricant
+			Rectangle=61 61611 2040 61701
+		Fin
+		Saisie
+			Variable=D16b_Distr_Locaux
+			Rectangle=61 61698 2040 61788
+		Fin
+		Saisie
+			Variable=D16b_Montant_Distr_locaux
+			Rectangle=61 61786 2040 61875
+		Fin
+		Saisie
+			Variable=D16b_fabricant
+			Rectangle=61 61873 2040 61926
+		Fin
+		Saisie
+			Variable=D16b_Montant_fabricant1
+			Rectangle=61 61923 2040 61997
+		Fin
+		Saisie
+			Variable=D16b_Autres
+			Rectangle=61 61995 2040 62106
+		Fin
+		Saisie
+			Variable=D16b_Montant_Autres
+			Rectangle=61 62103 2040 62193
+		Fin
+		Saisie
+			Variable=D16c_Distributeur_Adulte
+			Rectangle=61 62190 2040 62280
+		Fin
+		Saisie
+			Variable=D16c_Montant_Distributeur
+			Rectangle=61 62540 2040 62630
+		Fin
+		Saisie
+			Variable=D16c_Fabricants
+			Rectangle=61 62627 2040 62717
+		Fin
+		Saisie
+			Variable=D16c_Montant_Fabricant
+			Rectangle=61 62714 2040 62804
+		Fin
+		Saisie
+			Variable=D16c_Distr_Locaux
+			Rectangle=61 62802 2040 62891
+		Fin
+		Saisie
+			Variable=D16c_Montant_Distr_locaux
+			Rectangle=61 62889 2040 62979
+		Fin
+		Saisie
+			Variable=D16c_Montant_Fabricant1
+			Rectangle=61 62976 2040 63029
+		Fin
+		Saisie
+			Variable=D16_Montant_Fabricant
+			Rectangle=61 63026 2040 63100
+		Fin
+		Saisie
+			Variable=D16c_Autres
+			Rectangle=61 63098 2040 63209
+		Fin
+		Saisie
+			Variable=D16c_Montant_Autres
+			Rectangle=61 63206 2040 63296
+		Fin
+		Saisie
+			Variable=D16d_Distributeur_Adulte
+			Rectangle=61 63294 2040 63384
+		Fin
+		Saisie
+			Variable=D16d_Montant_Distributeur
+			Rectangle=61 63381 2040 63471
+		Fin
+		Saisie
+			Variable=D16d_Fabricants
+			Rectangle=61 63468 2040 63558
+		Fin
+		Saisie
+			Variable=D16d_Montant_Fabricant
+			Rectangle=61 63556 2040 63646
+		Fin
+		Saisie
+			Variable=D16d_Distr_Locaux
+			Rectangle=61 63643 2040 63733
+		Fin
+		Saisie
+			Variable=D16d_Montant_Distr_locaux
+			Rectangle=61 63730 2040 63820
+		Fin
+		Saisie
+			Variable=D16d_Fabricaux
+			Rectangle=61 63818 2040 63870
+		Fin
+		Saisie
+			Variable=D16d_Montant_Fabricant1
+			Rectangle=61 63868 2040 63942
+		Fin
+		Saisie
+			Variable=D16d_Autres
+			Rectangle=61 63939 2040 64050
+		Fin
+		Saisie
+			Variable=D16d_Montant_Autres
+			Rectangle=61 64048 2040 64138
+		Fin
+		Saisie
+			Variable=D16e_Distributeur_Adulte
+			Rectangle=61 64135 2040 64225
+		Fin
+		Saisie
+			Variable=D16e_Montant_Distributeur
+			Rectangle=61 64222 2040 64312
+		Fin
+		Saisie
+			Variable=D16e_Fabricants
+			Rectangle=61 64310 2040 64400
+		Fin
+		Saisie
+			Variable=D16e_Montant_Fabricant
+			Rectangle=61 64397 2040 64487
+		Fin
+		Saisie
+			Variable=D16e_Distr_Locaux
+			Rectangle=61 64484 2040 64574
+		Fin
+		Saisie
+			Variable=D16e_Montant_Distr_locaux
+			Rectangle=61 64572 2040 64662
+		Fin
+		Saisie
+			Variable=D16e_Fabricant
+			Rectangle=61 64659 2040 64712
+		Fin
+		Saisie
+			Variable=D16_montant_Fabricant1
+			Rectangle=61 64709 2040 64783
+		Fin
+		Saisie
+			Variable=D16e_Autres
+			Rectangle=61 64781 2040 64892
+		Fin
+		Saisie
+			Variable=D16e_Montant_Autres
+			Rectangle=61 64889 2040 64979
+		Fin
+		Saisie
+			Variable=D16f_Distributeur_Adulte
+			Rectangle=61 64976 2040 65066
+		Fin
+		Saisie
+			Variable=D16f_Montant_Distributeur
+			Rectangle=61 65064 2040 65154
+		Fin
+		Saisie
+			Variable=D16f_Fabricants
+			Rectangle=61 65151 2040 65241
+		Fin
+		Saisie
+			Variable=D16f_Montant_Fabricant
+			Rectangle=61 65511 2040 65601
+		Fin
+		Saisie
+			Variable=D16f_Distr_Locaux
+			Rectangle=61 65598 2040 65688
+		Fin
+		Saisie
+			Variable=D16f_Montant_Distr_locaux
+			Rectangle=61 65685 2040 65775
+		Fin
+		Saisie
+			Variable=D16f_Fabricants1
+			Rectangle=61 65773 2040 65826
+		Fin
+		Saisie
+			Variable=D16f_Montant_Fabricant1
+			Rectangle=61 65823 2040 65897
+		Fin
+		Saisie
+			Variable=D16f_Autres
+			Rectangle=61 65894 2040 66006
+		Fin
+		Saisie
+			Variable=D16f_Montant_Autres
+			Rectangle=61 66003 2040 66093
+		Fin
+		Saisie
+			Variable=D16g_Distributeur_Adulte
+			Rectangle=61 66090 2040 66180
+		Fin
+		Saisie
+			Variable=D16g_Montant_Distributeur
+			Rectangle=61 66178 2040 66268
+		Fin
+		Saisie
+			Variable=D16g_Fabricants
+			Rectangle=61 66265 2040 66355
+		Fin
+		Saisie
+			Variable=D16g_Montant_Fabricant
+			Rectangle=61 66352 2040 66442
+		Fin
+		Saisie
+			Variable=D16g_Distr_Locaux
+			Rectangle=61 66440 2040 66529
+		Fin
+		Saisie
+			Variable=D16g_Montant_Distr_locaux
+			Rectangle=61 66527 2040 66617
+		Fin
+		Saisie
+			Variable=D16g_Montant_Fabricant1
+			Rectangle=61 66614 2040 66667
+		Fin
+		Saisie
+			Variable=D16g_Montant_fabricant2
+			Rectangle=61 66664 2040 66739
+		Fin
+		Saisie
+			Variable=D16g_Autres
+			Rectangle=61 66736 2040 66847
+		Fin
+		Saisie
+			Variable=D16g_Montant_Autres
+			Rectangle=61 66844 2040 66934
+		Fin
+		Saisie
+			Variable=D16h_Distributeur_Adulte
+			Rectangle=61 66932 2040 67022
+		Fin
+		Saisie
+			Variable=D16h_Montant_Distributeur
+			Rectangle=61 67019 2040 67109
+		Fin
+		Saisie
+			Variable=D16h_Fabricants
+			Rectangle=61 67106 2040 67196
+		Fin
+		Saisie
+			Variable=D16h_Montant_Fabricant
+			Rectangle=61 67194 2040 67284
+		Fin
+		Saisie
+			Variable=D16h_Distr_Locaux
+			Rectangle=61 67281 2040 67371
+		Fin
+		Saisie
+			Variable=D16h_Montant_Distr_locaux
+			Rectangle=61 67368 2040 67458
+		Fin
+		Saisie
+			Variable=D16h_Fabricant
+			Rectangle=61 67456 2040 67508
+		Fin
+		Saisie
+			Variable=D16h_montant_fabrican
+			Rectangle=61 67506 2040 67580
+		Fin
+		Saisie
+			Variable=D16h_Autres
+			Rectangle=61 67577 2040 67688
+		Fin
+		Saisie
+			Variable=D16h_Montant_Autres
+			Rectangle=61 67686 2040 67776
+		Fin
+		Saisie
+			Variable=D16i_Distributeur
+			Rectangle=61 67773 2040 67863
+		Fin
+		Saisie
+			Variable=D16i_Montant_Distributeur
+			Rectangle=61 67860 2040 67950
+		Fin
+		Saisie
+			Variable=D16i_Fabricants
+			Rectangle=61 67948 2040 68038
+		Fin
+		Saisie
+			Variable=D16i_Montant_Fabricant
+			Rectangle=61 68035 2040 68125
+		Fin
+		Saisie
+			Variable=D16i_Distr_Locaux
+			Rectangle=61 68122 2040 68212
+		Fin
+		Saisie
+			Variable=D16i_Montant_Distr_locaux
+			Rectangle=61 68482 2040 68572
+		Fin
+		Saisie
+			Variable=D16i_fabricant
+			Rectangle=61 68569 2040 68622
+		Fin
+		Saisie
+			Variable=D16i_Fabricant_Montant
+			Rectangle=61 68620 2040 68694
+		Fin
+		Saisie
+			Variable=D16i_Autres
+			Rectangle=61 68691 2040 68802
+		Fin
+		Saisie
+			Variable=D16i_Montant_Autres
+			Rectangle=61 68800 2040 68890
+		Fin
+		Saisie
+			Variable=D16j_Distributeur
+			Rectangle=61 68887 2040 68977
+		Fin
+		Saisie
+			Variable=D16j_Montant_Distributeur
+			Rectangle=61 68974 2040 69064
+		Fin
+		Saisie
+			Variable=D16j_Fabricants
+			Rectangle=61 69062 2040 69152
+		Fin
+		Saisie
+			Variable=D16j_Montant_Fabricant
+			Rectangle=61 69149 2040 69239
+		Fin
+		Saisie
+			Variable=D16j_Distr_Locaux
+			Rectangle=61 69236 2040 69326
+		Fin
+		Saisie
+			Variable=D16j_Montant_Distr_locaux
+			Rectangle=61 69323 2040 69413
+		Fin
+		Saisie
+			Variable=D16j_Fabricant
+			Rectangle=61 69411 2040 69464
+		Fin
+		Saisie
+			Variable=D16j_Montant_Fabricant1
+			Rectangle=61 69461 2040 69535
+		Fin
+		Saisie
+			Variable=D16j_Autres
+			Rectangle=61 69533 2040 69585
+		Fin
+		Saisie
+			Variable=D16j_Montant_Autres
+			Rectangle=61 69583 2040 69673
+		Fin
+		Saisie
+			Variable=D16k_Distributeur
+			Rectangle=61 69670 2040 69760
+		Fin
+		Saisie
+			Variable=D16k_Montant_Distributeur
+			Rectangle=61 69757 2040 69847
+		Fin
+		Saisie
+			Variable=D16k_Fabricants
+			Rectangle=61 69845 2040 69935
+		Fin
+		Saisie
+			Variable=D16k_Montant_Fabricant
+			Rectangle=61 69932 2040 70022
+		Fin
+		Saisie
+			Variable=D16k_Distr_Locaux
+			Rectangle=61 70019 2040 70109
+		Fin
+		Saisie
+			Variable=D16k_Montant_Distr_locaux
+			Rectangle=61 70107 2040 70197
+		Fin
+		Saisie
+			Variable=D16k_Fabricant
+			Rectangle=61 70194 2040 70247
+		Fin
+		Saisie
+			Variable=D16k_Montant_Fabricant1
+			Rectangle=61 70244 2040 70318
+		Fin
+		Saisie
+			Variable=D16k_Autres
+			Rectangle=61 70316 2040 70427
+		Fin
+		Saisie
+			Variable=D16k_Montant_Autres
+			Rectangle=61 70424 2040 70514
+		Fin
+		Saisie
+			Variable=D16l_Distributeur
+			Rectangle=61 70511 2040 70601
+		Fin
+		Saisie
+			Variable=D16l_Montant_Distributeur
+			Rectangle=61 70599 2040 70689
+		Fin
+		Saisie
+			Variable=D16l_Fabricants
+			Rectangle=61 70686 2040 70776
+		Fin
+		Saisie
+			Variable=D16l_Montant_Fabricant
+			Rectangle=61 70773 2040 70863
+		Fin
+		Saisie
+			Variable=D16l_Distr_Locaux
+			Rectangle=61 70861 2040 70951
+		Fin
+		Saisie
+			Variable=D16l_Montant_Distr_locaux
+			Rectangle=61 70948 2040 71038
+		Fin
+		Saisie
+			Variable=D16l_fabricant
+			Rectangle=61 71035 2040 71088
+		Fin
+		Saisie
+			Variable=D16l_Montant_Locaux
+			Rectangle=61 71086 2040 71160
+		Fin
+		Saisie
+			Variable=D16l_Autres
+			Rectangle=61 71453 2040 71565
+		Fin
+		Saisie
+			Variable=D16l_Montant_Autres
+			Rectangle=61 71562 2040 71652
+		Fin
+		Saisie
+			Variable=D16m_Distributeur
+			Rectangle=61 71649 2040 71739
+		Fin
+		Saisie
+			Variable=D16m_Montant_Distributeur
+			Rectangle=61 71736 2040 71826
+		Fin
+		Saisie
+			Variable=D16m_Fabricants
+			Rectangle=61 71824 2040 71914
+		Fin
+		Saisie
+			Variable=D16m_Montant_Fabricant
+			Rectangle=61 71911 2040 72001
+		Fin
+		Saisie
+			Variable=D16m_Distr_Locaux
+			Rectangle=61 71998 2040 72088
+		Fin
+		Saisie
+			Variable=D16m_Montant_Distr_locaux
+			Rectangle=61 72086 2040 72176
+		Fin
+		Saisie
+			Variable=D16m_Fabricants1
+			Rectangle=61 72173 2040 72226
+		Fin
+		Saisie
+			Variable=D16m_Montant_Fabricant1
+			Rectangle=61 72223 2040 72297
+		Fin
+		Saisie
+			Variable=D16m_Autres
+			Rectangle=61 72295 2040 72406
+		Fin
+		Saisie
+			Variable=D16m_Montant_Autres
+			Rectangle=61 72403 2040 72493
+		Fin
+		Saisie
+			Variable=D16m_Distributeur1
+			Rectangle=61 72491 2040 72581
+		Fin
+		Saisie
+			Variable=D16n_Montant_Distributeur
+			Rectangle=61 72578 2040 72668
+		Fin
+		Saisie
+			Variable=D16n_Fabricants
+			Rectangle=61 72665 2040 72755
+		Fin
+		Saisie
+			Variable=D16n_Montant_Fabricant
+			Rectangle=61 72752 2040 72842
+		Fin
+		Saisie
+			Variable=D16n_Distr_Locaux
+			Rectangle=61 72840 2040 72930
+		Fin
+		Saisie
+			Variable=D16n_Montant_Distr_locaux
+			Rectangle=61 72927 2040 73017
+		Fin
+		Saisie
+			Variable=D16n_Fabricants1
+			Rectangle=61 73014 2040 73067
+		Fin
+		Saisie
+			Variable=D16n_Montant_fabricant1
+			Rectangle=61 73065 2040 73139
+		Fin
+		Saisie
+			Variable=D16n_Autres
+			Rectangle=61 73136 2040 73247
+		Fin
+		Saisie
+			Variable=D16n_Montant_Autres
+			Rectangle=61 73245 2040 73335
+		Fin
+		Saisie
+			Variable=D16n_Distributeur
+			Rectangle=61 73332 2040 73459
+		Fin
+		Saisie
+			Variable=D16o_Montant_Distributeur
+			Rectangle=61 73456 2040 73583
+		Fin
+		Saisie
+			Variable=D16o_Fabricants
+			Rectangle=61 73581 2040 73708
+		Fin
+		Saisie
+			Variable=D16o_Montant_Fabricant
+			Rectangle=61 73705 2040 73795
+		Fin
+		Saisie
+			Variable=D16o_Distr_Locaux
+			Rectangle=61 73792 2040 73882
+		Fin
+		Saisie
+			Variable=D16o_Montant_Distr_locaux
+			Rectangle=61 73880 2040 74007
+		Fin
+		Saisie
+			Variable=D16o_Fabricant
+			Rectangle=61 74004 2040 74057
+		Fin
+		Saisie
+			Variable=D16o_Montant
+			Rectangle=61 74054 2040 74128
+		Fin
+		Saisie
+			Variable=D16o_Autres
+			Rectangle=61 74126 2040 74216
+		Fin
+		Saisie
+			Variable=D16o_Montant_Autres
+			Rectangle=61 74425 2040 74515
+		Fin
+		Saisie
+			Variable=D16p_Distributeur
+			Rectangle=61 74512 2040 74639
+		Fin
+		Saisie
+			Variable=D16p_Montant_Distributeur
+			Rectangle=61 74636 2040 74763
+		Fin
+		Saisie
+			Variable=D16p_Fabricants
+			Rectangle=61 74761 2040 74888
+		Fin
+		Saisie
+			Variable=D16p_Montant_Fabricant
+			Rectangle=61 74885 2040 75012
+		Fin
+		Saisie
+			Variable=D16p_Distr_Locaux
+			Rectangle=61 75009 2040 75099
+		Fin
+		Saisie
+			Variable=D16p_Montant_Distr_locaux
+			Rectangle=61 75097 2040 75224
+		Fin
+		Saisie
+			Variable=D16p_Fabricant
+			Rectangle=61 75221 2040 75274
+		Fin
+		Saisie
+			Variable=D16p_Montant_Fabricant1
+			Rectangle=61 75271 2040 75345
+		Fin
+		Saisie
+			Variable=D16p_Autres
+			Rectangle=61 75343 2040 75454
+		Fin
+		Saisie
+			Variable=D16p_Montant_Autres
+			Rectangle=61 75451 2040 75541
+		Fin
+		Saisie
+			Variable=D16q_distributeur
+			Rectangle=61 75539 2040 75666
+		Fin
+		Saisie
+			Variable=D16q_Montant_Distributeur
+			Rectangle=61 75663 2040 75753
+		Fin
+		Saisie
+			Variable=D16q_Fabricants
+			Rectangle=61 75750 2040 75840
+		Fin
+		Saisie
+			Variable=D16q_Montant_Fabricant
+			Rectangle=61 75838 2040 75927
+		Fin
+		Saisie
+			Variable=D16q_Distr_Locaux
+			Rectangle=61 75925 2040 76015
+		Fin
+		Saisie
+			Variable=D16q_Montant_Distr_locaux
+			Rectangle=61 76012 2040 76102
+		Fin
+		Saisie
+			Variable=D16q_fabricants1
+			Rectangle=61 76099 2040 76152
+		Fin
+		Saisie
+			Variable=D16q_Montant_Fabricants
+			Rectangle=61 76150 2040 76224
+		Fin
+		Saisie
+			Variable=D16q_Autres
+			Rectangle=61 76221 2040 76332
+		Fin
+		Saisie
+			Variable=D16q_Montant_Autres
+			Rectangle=61 76330 2040 76420
+		Fin
+		Saisie
+			Variable=D16r_Distributeurs
+			Rectangle=61 76417 2040 76544
+		Fin
+		Saisie
+			Variable=D16r_Montant_Distributeur
+			Rectangle=61 76541 2040 76631
+		Fin
+		Saisie
+			Variable=D16r_Fabricants
+			Rectangle=61 76629 2040 76719
+		Fin
+		Saisie
+			Variable=D16r_Montant_Fabricant
+			Rectangle=61 76716 2040 76806
+		Fin
+		Saisie
+			Variable=D16r_Distr_Locaux
+			Rectangle=61 76803 2040 76893
+		Fin
+		Saisie
+			Variable=D16r_Montant_Distr_locaux
+			Rectangle=61 76891 2040 76981
+		Fin
+		Saisie
+			Variable=D16r_Fabricants1
+			Rectangle=61 76978 2040 77031
+		Fin
+		Saisie
+			Variable=D16r_Montant_Fabricants
+			Rectangle=61 77028 2040 77102
+		Fin
+		Saisie
+			Variable=D16r_Autres
+			Rectangle=61 77396 2040 77507
+		Fin
+		Saisie
+			Variable=D16r_Montant_Autres
+			Rectangle=61 77504 2040 77594
+		Fin
+		Saisie
+			Variable=D16s_Distributeurs
+			Rectangle=61 77592 2040 77719
+		Fin
+		Saisie
+			Variable=D16s_Montant_Distributeur
+			Rectangle=61 77716 2040 77806
+		Fin
+		Saisie
+			Variable=D16s_Fabricants
+			Rectangle=61 77803 2040 77893
+		Fin
+		Saisie
+			Variable=D16s_Montant_Fabricant
+			Rectangle=61 77891 2040 77981
+		Fin
+		Saisie
+			Variable=D16s_Distr_Locaux
+			Rectangle=61 77978 2040 78068
+		Fin
+		Saisie
+			Variable=D16s_Montant_Distr_locaux
+			Rectangle=61 78065 2040 78155
+		Fin
+		Saisie
+			Variable=D16s_Fabricant
+			Rectangle=61 78153 2040 78206
+		Fin
+		Saisie
+			Variable=D16s_Montant_Fabricants
+			Rectangle=61 78203 2040 78277
+		Fin
+		Saisie
+			Variable=D16s_Autres
+			Rectangle=61 78274 2040 78385
+		Fin
+		Saisie
+			Variable=D16s_Montant_Autres
+			Rectangle=61 78383 2040 78473
+		Fin
+		Saisie
+			Variable=D16t_Distri
+			Rectangle=61 78470 2040 78597
+		Fin
+		Saisie
+			Variable=D16t_Montant_Distributeur
+			Rectangle=61 78594 2040 78721
+		Fin
+		Saisie
+			Variable=D16t_Fabricants
+			Rectangle=61 78719 2040 78809
+		Fin
+		Saisie
+			Variable=D16t_Montant_Fabricant
+			Rectangle=61 78806 2040 78896
+		Fin
+		Saisie
+			Variable=D16t_Distr_Locaux
+			Rectangle=61 78893 2040 78983
+		Fin
+		Saisie
+			Variable=D16t_Montant_Distr_locaux
+			Rectangle=61 78981 2040 79108
+		Fin
+		Saisie
+			Variable=D16t_Fabricants1
+			Rectangle=61 79105 2040 79158
+		Fin
+		Saisie
+			Variable=D16t_Montant_Fabricant1
+			Rectangle=61 79155 2040 79229
+		Fin
+		Saisie
+			Variable=D16t_Autres
+			Rectangle=61 79227 2040 79338
+		Fin
+		Saisie
+			Variable=D16t_Montant_Autres
+			Rectangle=61 79335 2040 79425
+		Fin
+		Saisie
+			Variable=D16v_Distributeurs
+			Rectangle=61 79423 2040 79550
+		Fin
+		Saisie
+			Variable=D16v_Montant_Distributeur
+			Rectangle=61 79547 2040 79637
+		Fin
+		Saisie
+			Variable=D16v_Fabricants
+			Rectangle=61 79634 2040 79724
+		Fin
+		Saisie
+			Variable=D16v_Montant_Fabricant
+			Rectangle=61 79722 2040 79812
+		Fin
+		Saisie
+			Variable=D16v_Distr_Locaux
+			Rectangle=61 79809 2040 79899
+		Fin
+		Saisie
+			Variable=D16v_Montant_Distr_locaux
+			Rectangle=61 79896 2040 79986
+		Fin
+		Saisie
+			Variable=D16v_Fabricants1
+			Rectangle=61 79984 2040 80036
+		Fin
+		Saisie
+			Variable=D16v_montan_fabricants
+			Rectangle=61 80034 2040 80108
+		Fin
+		Saisie
+			Variable=D16v_Autres
+			Rectangle=61 80367 2040 80478
+		Fin
+		Saisie
+			Variable=D16v_Montant_Autres
+			Rectangle=61 80476 2040 80566
+		Fin
+		Saisie
+			Variable=D16w_distributeur
+			Rectangle=61 80563 2040 80690
+		Fin
+		Saisie
+			Variable=D16w_Montant_Distributeur
+			Rectangle=61 80687 2040 80777
+		Fin
+		Saisie
+			Variable=D16w_Fabricants
+			Rectangle=61 80775 2040 80865
+		Fin
+		Saisie
+			Variable=D16w_Montant_Fabricant
+			Rectangle=61 80862 2040 80952
+		Fin
+		Saisie
+			Variable=D16w_Distr_Locaux
+			Rectangle=61 80949 2040 81039
+		Fin
+		Saisie
+			Variable=D16w_Montant_Distr_locaux
+			Rectangle=61 81037 2040 81127
+		Fin
+		Saisie
+			Variable=D16w_fabricants1
+			Rectangle=61 81124 2040 81177
+		Fin
+		Saisie
+			Variable=D16w_Montant
+			Rectangle=61 81174 2040 81227
+		Fin
+		Saisie
+			Variable=D16w_Autres
+			Rectangle=61 81224 2040 81336
+		Fin
+		Saisie
+			Variable=D16w_Montant_Autres
+			Rectangle=61 81333 2040 81423
+		Fin
+		Titre
+			Variable=D17a_Prix_Achat
+			Rectangle=61 81420 2040 81553
+		Fin
+		Saisie
+			Variable=D17a_Prix_Achat
+			Rectangle=61 81550 2040 81640
+		Fin
+		Saisie
+			Variable=D17a_Commentaires
+			Rectangle=61 81637 2040 81748
+		Fin
+		Saisie
+			Variable=D17b_Prix_Achat
+			Rectangle=61 81746 2040 81836
+		Fin
+		Saisie
+			Variable=D17b_Commentaires
+			Rectangle=61 81833 2040 81944
+		Fin
+		Saisie
+			Variable=D17c_Prix_Achat
+			Rectangle=61 81941 2040 82031
+		Fin
+		Saisie
+			Variable=D17c_Commentaires
+			Rectangle=61 82029 2040 82140
+		Fin
+		Titre
+			Variable=E
+			Rectangle=61 82209 2040 82283
+		Fin
+		Titre
+			Variable=E
+			Indice=1
+			Rectangle=61 82137 2040 82211
+		Fin
+		Saisie
+			Variable=E
+			Rectangle=61 82280 2040 82370
+		Fin
+		Saisie
+			Variable=E1a_Responsable
+			Rectangle=61 82367 2040 82479
+		Fin
+		Saisie
+			Variable=E1a_Qualification
+			Rectangle=61 82476 2040 82587
+		Fin
+		Saisie
+			Variable=E1a_commentaire
+			Rectangle=61 82584 2040 82696
+		Fin
+		Saisie
+			Variable=E1b_Responsable
+			Rectangle=61 82693 2040 82804
+		Fin
+		Saisie
+			Variable=E1b_Qualification
+			Rectangle=61 82801 2040 82912
+		Fin
+		Saisie
+			Variable=E1b_commentaire
+			Rectangle=61 82910 2040 83021
+		Fin
+		Saisie
+			Variable=E1c_Responsable
+			Rectangle=61 83018 2040 83129
+		Fin
+		Saisie
+			Variable=E1c_Qualification
+			Rectangle=61 83338 2040 83450
+		Fin
+		Saisie
+			Variable=E1c_commentaire
+			Rectangle=61 83447 2040 83558
+		Fin
+		Saisie
+			Variable=E1d_Responsable
+			Rectangle=61 83555 2040 83667
+		Fin
+		Saisie
+			Variable=E1d_Qualification
+			Rectangle=61 83664 2040 83775
+		Fin
+		Saisie
+			Variable=E1d_commentaire
+			Rectangle=61 83772 2040 83884
+		Fin
+		Saisie
+			Variable=E1e_Responsable
+			Rectangle=61 83881 2040 83992
+		Fin
+		Saisie
+			Variable=E1e_Qualification
+			Rectangle=61 83989 2040 84100
+		Fin
+		Saisie
+			Variable=E1e_commentaire
+			Rectangle=61 84098 2040 84209
+		Fin
+		Saisie
+			Variable=E1f_Responsable
+			Rectangle=61 84206 2040 84317
+		Fin
+		Saisie
+			Variable=E1f_Qualification
+			Rectangle=61 84315 2040 84426
+		Fin
+		Saisie
+			Variable=E1f_commentaire
+			Rectangle=61 84423 2040 84534
+		Fin
+		Saisie
+			Variable=E1g_Responsable
+			Rectangle=61 84532 2040 84643
+		Fin
+		Saisie
+			Variable=E1g_Qualification
+			Rectangle=61 84640 2040 84751
+		Fin
+		Saisie
+			Variable=E1g_commentaire
+			Rectangle=61 84749 2040 84860
+		Fin
+		Saisie
+			Variable=E1h_Responsable
+			Rectangle=61 84857 2040 84968
+		Fin
+		Saisie
+			Variable=E1h_Qualification
+			Rectangle=61 84966 2040 85077
+		Fin
+		Saisie
+			Variable=E1h_commentaire
+			Rectangle=61 85074 2040 85185
+		Fin
+		Saisie
+			Variable=E1i_Responsable
+			Rectangle=61 85183 2040 85294
+		Fin
+		Saisie
+			Variable=E1i_Qualification
+			Rectangle=61 85291 2040 85402
+		Fin
+		Saisie
+			Variable=E1i_commentaire
+			Rectangle=61 85400 2040 85511
+		Fin
+		Saisie
+			Variable=E1j_Responsable
+			Rectangle=61 85508 2040 85619
+		Fin
+		Saisie
+			Variable=E1j_Qualification
+			Rectangle=61 85617 2040 85728
+		Fin
+		Saisie
+			Variable=E1j_commentaire
+			Rectangle=61 85725 2040 85836
+		Fin
+		Saisie
+			Variable=E1k_Responsable
+			Rectangle=61 85833 2040 85945
+		Fin
+		Saisie
+			Variable=E1k_Qualification
+			Rectangle=61 85942 2040 86053
+		Fin
+		Saisie
+			Variable=E1k_commentaire
+			Rectangle=61 86310 2040 86421
+		Fin
+		Saisie
+			Variable=E1l_Responsable
+			Rectangle=61 86418 2040 86529
+		Fin
+		Saisie
+			Variable=E1l_Qualification
+			Rectangle=61 86527 2040 86638
+		Fin
+		Saisie
+			Variable=E1l_commentaire
+			Rectangle=61 86635 2040 86746
+		Fin
+		Saisie
+			Variable=E1m_Responsable
+			Rectangle=61 86744 2040 86855
+		Fin
+		Saisie
+			Variable=E1m_Qualification
+			Rectangle=61 86852 2040 86963
+		Fin
+		Saisie
+			Variable=E1m_commentaire
+			Rectangle=61 86961 2040 87072
+		Fin
+		Saisie
+			Variable=E1n_Responsable
+			Rectangle=61 87069 2040 87180
+		Fin
+		Saisie
+			Variable=E1n_Qualification
+			Rectangle=61 87178 2040 87289
+		Fin
+		Saisie
+			Variable=E1n_commentaire
+			Rectangle=61 87286 2040 87397
+		Fin
+		Saisie
+			Variable=E1o_Responsable
+			Rectangle=61 87395 2040 87506
+		Fin
+		Saisie
+			Variable=E1o_Qualification
+			Rectangle=61 87503 2040 87614
+		Fin
+		Saisie
+			Variable=E1o_commentaire
+			Rectangle=61 87611 2040 87723
+		Fin
+		Saisie
+			Variable=E1p_Responsable
+			Rectangle=61 87720 2040 87831
+		Fin
+		Saisie
+			Variable=E1p_Qualification
+			Rectangle=61 87828 2040 87940
+		Fin
+		Saisie
+			Variable=E1p_commentaire
+			Rectangle=61 87937 2040 88048
+		Fin
+		Saisie
+			Variable=E1q_Responsable
+			Rectangle=61 88045 2040 88157
+		Fin
+		Saisie
+			Variable=E1q_Qualification
+			Rectangle=61 88154 2040 88265
+		Fin
+		Saisie
+			Variable=E1q_commentaire
+			Rectangle=61 88262 2040 88373
+		Fin
+		Saisie
+			Variable=E1r_Responsable
+			Rectangle=61 88371 2040 88482
+		Fin
+		Saisie
+			Variable=E1r_Qualification
+			Rectangle=61 88479 2040 88590
+		Fin
+		Saisie
+			Variable=E1r_commentaire
+			Rectangle=61 88588 2040 88699
+		Fin
+		Saisie
+			Variable=E1s_Responsable
+			Rectangle=61 88696 2040 88807
+		Fin
+		Saisie
+			Variable=E1s_Qualification
+			Rectangle=61 88805 2040 88916
+		Fin
+		Saisie
+			Variable=E1s_commentaire
+			Rectangle=61 88913 2040 89024
+		Fin
+		Saisie
+			Variable=E1t_Responsable
+			Rectangle=61 89281 2040 89392
+		Fin
+		Saisie
+			Variable=E1t_Qualification
+			Rectangle=61 89389 2040 89501
+		Fin
+		Saisie
+			Variable=E1t_commentaire
+			Rectangle=61 89498 2040 89609
+		Fin
+		Saisie
+			Variable=E1v_Responsable
+			Rectangle=61 89606 2040 89718
+		Fin
+		Saisie
+			Variable=E1v_Qualification
+			Rectangle=61 89715 2040 89826
+		Fin
+		Saisie
+			Variable=E1v_commentaire
+			Rectangle=61 89823 2040 89935
+		Fin
+		Saisie
+			Variable=E1w_Responsable
+			Rectangle=61 89932 2040 90043
+		Fin
+		Saisie
+			Variable=E1w_Qualification
+			Rectangle=61 90040 2040 90151
+		Fin
+		Saisie
+			Variable=E1w_commentaire
+			Rectangle=61 90149 2040 90260
+		Fin
+		Titre
+			Variable=E2a_Categorie
+			Rectangle=61 90257 2040 90331
+		Fin
+		Saisie
+			Variable=E2a_Categorie
+			Rectangle=61 90329 2040 90382
+		Fin
+		Saisie
+			Variable=E2a_Commentaires
+			Rectangle=61 90379 2040 90490
+		Fin
+		Saisie
+			Variable=E2b
+			Rectangle=61 90488 2040 90599
+		Fin
+		Saisie
+			Variable=E2b_Categorie
+			Rectangle=61 90596 2040 90649
+		Fin
+		Saisie
+			Variable=E2b_Commentaires
+			Rectangle=61 90646 2040 90757
+		Fin
+		Saisie
+			Variable=E2c
+			Rectangle=61 90755 2040 90866
+		Fin
+		Saisie
+			Variable=E2c_Categorie
+			Rectangle=61 90863 2040 90916
+		Fin
+		Saisie
+			Variable=E2c_Commentaires
+			Rectangle=61 90913 2040 91025
+		Fin
+		Saisie
+			Variable=E2d
+			Rectangle=61 91022 2040 91133
+		Fin
+		Saisie
+			Variable=E2d_Categorie
+			Rectangle=61 91130 2040 91183
+		Fin
+		Saisie
+			Variable=E2d_Commentaires
+			Rectangle=61 91181 2040 91292
+		Fin
+		Saisie
+			Variable=E2e
+			Rectangle=61 91289 2040 91400
+		Fin
+		Saisie
+			Variable=E2e_Categorie
+			Rectangle=61 91398 2040 91509
+		Fin
+		Saisie
+			Variable=E2e_Commentaires
+			Rectangle=61 91506 2040 91617
+		Fin
+		Saisie
+			Variable=E2e_Categorie1
+			Rectangle=61 91615 2040 91726
+		Fin
+		Titre
+			Variable=E3a
+			Rectangle=61 91723 2040 91797
+		Fin
+		Saisie
+			Variable=E3a
+			Rectangle=61 91795 2040 91869
+		Fin
+		Saisie
+			Variable=E3b
+			Rectangle=61 91866 2040 91940
+		Fin
+		Saisie
+			Variable=E3c
+			Rectangle=61 91937 2040 92012
+		Fin
+		Titre
+			Variable=E4a1
+			Rectangle=61 92252 2040 92326
+		Fin
+		Saisie
+			Variable=E4a1
+			Rectangle=61 92324 2040 92398
+		Fin
+		Saisie
+			Variable=E4b
+			Rectangle=61 92395 2040 92469
+		Fin
+		Saisie
+			Variable=E4c
+			Rectangle=61 92467 2040 92541
+		Fin
+		Titre
+			Variable=E5a
+			Rectangle=61 92538 2040 92612
+		Fin
+		Saisie
+			Variable=E5a
+			Rectangle=61 92609 2040 92684
+		Fin
+		Saisie
+			Variable=E5b
+			Rectangle=61 92681 2040 92755
+		Fin
+		Saisie
+			Variable=E5c
+			Rectangle=61 92752 2040 92826
+		Fin
+		Titre
+			Variable=E6a
+			Rectangle=61 92824 2040 92956
+		Fin
+		Saisie
+			Variable=E6a
+			Rectangle=61 92953 2040 93065
+		Fin
+		Saisie
+			Variable=E6b
+			Rectangle=61 93062 2040 93173
+		Fin
+		Saisie
+			Variable=E6b1
+			Rectangle=61 93170 2040 93282
+		Fin
+		Titre
+			Variable=E7a
+			Rectangle=61 93279 2040 93411
+		Fin
+		Saisie
+			Variable=E7a
+			Rectangle=61 93409 2040 93483
+		Fin
+		Saisie
+			Variable=E7b
+			Rectangle=61 93480 2040 93554
+		Fin
+		Saisie
+			Variable=E7c
+			Rectangle=61 93551 2040 93625
+		Fin
+		Titre
+			Variable=E8
+			Rectangle=61 93623 2040 93697
+		Fin
+		Saisie
+			Variable=E8
+			Rectangle=61 93694 2040 93747
+		Fin
+		Saisie
+			Variable=E8_commentaires
+			Rectangle=61 93745 2040 93856
+		Fin
+		Titre
+			Variable=E9a
+			Rectangle=61 93853 2040 93927
+		Fin
+		Saisie
+			Variable=E9a
+			Rectangle=61 93924 2040 94014
+		Fin
+		Saisie
+			Variable=E9a_Commentaire
+			Rectangle=61 94012 2040 94123
+		Fin
+		Saisie
+			Variable=E9b
+			Rectangle=61 94120 2040 94173
+		Fin
+		Saisie
+			Variable=E9b_Commentaire
+			Rectangle=61 94171 2040 94282
+		Fin
+		Saisie
+			Variable=E9c
+			Rectangle=61 94279 2040 94332
+		Fin
+		Saisie
+			Variable=E9c_Commentaire
+			Rectangle=61 94329 2040 94440
+		Fin
+		Saisie
+			Variable=E9d
+			Rectangle=61 94438 2040 94491
+		Fin
+		Saisie
+			Variable=E9d_Commentaire
+			Rectangle=61 94488 2040 94599
+		Fin
+		Saisie
+			Variable=E9e
+			Rectangle=61 94596 2040 94649
+		Fin
+		Saisie
+			Variable=E9e_Commentaire
+			Rectangle=61 94647 2040 94758
+		Fin
+		Titre
+			Variable=E10_40_Container
+			Rectangle=61 94885 2040 94959
+		Fin
+		Titre
+			Variable=E10_40_Container
+			Indice=1
+			Rectangle=61 94755 2040 94888
+		Fin
+		Saisie
+			Variable=E10_40_Container
+			Rectangle=61 95224 2040 95298
+		Fin
+		Saisie
+			Variable=E10_20_Container
+			Rectangle=61 95295 2040 95369
+		Fin
+		Saisie
+			Variable=E10_terrestre
+			Rectangle=61 95366 2040 95441
+		Fin
+		Saisie
+			Variable=E10_aerienne
+			Rectangle=61 95438 2040 95512
+		Fin
+		Saisie
+			Variable=E10_autres
+			Rectangle=61 95509 2040 95620
+		Fin
+		Titre
+			Variable=F
+			Rectangle=61 95618 2040 95692
+		Fin
+		Saisie
+			Variable=F
+			Rectangle=61 95689 2040 95742
+		Fin
+		Saisie
+			Variable=F1
+			Rectangle=61 95739 2040 95829
+		Fin
+		Saisie
+			Variable=F2
+			Rectangle=61 95827 2040 95917
+		Fin
+		Saisie
+			Variable=F2_Commentaires
+			Rectangle=61 95914 2040 96025
+		Fin
+		Titre
+			Variable=F3a
+			Rectangle=61 96023 2040 96097
+		Fin
+		Saisie
+			Variable=F3a
+			Rectangle=61 96094 2040 96147
+		Fin
+		Saisie
+			Variable=F3a_Commentaire
+			Rectangle=61 96144 2040 96255
+		Fin
+		Saisie
+			Variable=F3b
+			Rectangle=61 96253 2040 96306
+		Fin
+		Saisie
+			Variable=F3b_Commentaire
+			Rectangle=61 96303 2040 96414
+		Fin
+		Saisie
+			Variable=F3c
+			Rectangle=61 96412 2040 96464
+		Fin
+		Saisie
+			Variable=F3c_Commentaire
+			Rectangle=61 96462 2040 96573
+		Fin
+		Saisie
+			Variable=F3d
+			Rectangle=61 96570 2040 96623
+		Fin
+		Saisie
+			Variable=F3d_Commentaire
+			Rectangle=61 96621 2040 96732
+		Fin
+		Saisie
+			Variable=F3e
+			Rectangle=61 96729 2040 96782
+		Fin
+		Saisie
+			Variable=F3e_Commentaire
+			Rectangle=61 96779 2040 96890
+		Fin
+		Saisie
+			Variable=F3f
+			Rectangle=61 96888 2040 96941
+		Fin
+		Saisie
+			Variable=F3f_Commentaire
+			Rectangle=61 96938 2040 97049
+		Fin
+		Saisie
+			Variable=F3g
+			Rectangle=61 97047 2040 97099
+		Fin
+		Saisie
+			Variable=F3g_Commentaire
+			Rectangle=61 97097 2040 97208
+		Fin
+		Saisie
+			Variable=F3h
+			Rectangle=61 97205 2040 97258
+		Fin
+		Saisie
+			Variable=F3h_Commentaire
+			Rectangle=61 97256 2040 97367
+		Fin
+		Saisie
+			Variable=F3i
+			Rectangle=61 97364 2040 97417
+		Fin
+		Saisie
+			Variable=F3i_Commentaire
+			Rectangle=61 97414 2040 97525
+		Fin
+		Saisie
+			Variable=F3j
+			Rectangle=61 97523 2040 97576
+		Fin
+		Saisie
+			Variable=F3j_Commentaire
+			Rectangle=61 97573 2040 97684
+		Fin
+		Titre
+			Variable=F4a
+			Rectangle=61 97682 2040 97814
+		Fin
+		Saisie
+			Variable=F4a
+			Rectangle=61 97811 2040 97864
+		Fin
+		Saisie
+			Variable=F4a_Commentaires
+			Rectangle=61 97861 2040 97973
+		Fin
+		Saisie
+			Variable=F4b
+			Rectangle=61 98195 2040 98285
+		Fin
+		Saisie
+			Variable=F4b_Commentaires
+			Rectangle=61 98282 2040 98393
+		Fin
+		Saisie
+			Variable=F4c
+			Rectangle=61 98391 2040 98444
+		Fin
+		Saisie
+			Variable=F4c_Commentaires
+			Rectangle=61 98441 2040 98552
+		Fin
+		Saisie
+			Variable=F4d
+			Rectangle=61 98549 2040 98602
+		Fin
+		Saisie
+			Variable=F4d_Commentaires
+			Rectangle=61 98600 2040 98711
+		Fin
+		Saisie
+			Variable=F4e
+			Rectangle=61 98708 2040 98761
+		Fin
+		Saisie
+			Variable=F4e_Commentaires
+			Rectangle=61 98758 2040 98870
+		Fin
+		Saisie
+			Variable=F4f
+			Rectangle=61 98867 2040 98920
+		Fin
+		Saisie
+			Variable=F4f_Commentaires
+			Rectangle=61 98917 2040 99028
+		Fin
+		Saisie
+			Variable=F4g
+			Rectangle=61 99026 2040 99079
+		Fin
+		Saisie
+			Variable=F4g_Commentaires
+			Rectangle=61 99076 2040 99187
+		Fin
+		Saisie
+			Variable=F4k
+			Rectangle=61 99184 2040 99274
+		Fin
+		Saisie
+			Variable=F4k_Commentaires
+			Rectangle=61 99272 2040 99383
+		Fin
+		Saisie
+			Variable=F4i
+			Rectangle=61 99380 2040 99470
+		Fin
+		Saisie
+			Variable=F4i_Commentaires
+			Rectangle=61 99467 2040 99579
+		Fin
+		Saisie
+			Variable=F4j
+			Rectangle=61 99576 2040 99629
+		Fin
+		Saisie
+			Variable=F4j_Commentaires
+			Rectangle=61 99626 2040 99737
+		Fin
+		Saisie
+			Variable=F4h
+			Rectangle=61 99735 2040 99825
+		Fin
+		Saisie
+			Variable=F4h_Commentaires
+			Rectangle=61 99822 2040 99933
+		Fin
+		Saisie
+			Variable=F4l
+			Rectangle=61 99930 2040 100020
+		Fin
+		Saisie
+			Variable=F4l_Commentaires
+			Rectangle=61 100018 2040 100129
+		Fin
+		Titre
+			Variable=F5a
+			Rectangle=61 100126 2040 100200
+		Fin
+		Saisie
+			Variable=F5a
+			Rectangle=61 100198 2040 100251
+		Fin
+		Saisie
+			Variable=F5a_categorie
+			Rectangle=61 100248 2040 100359
+		Fin
+		Saisie
+			Variable=F5a_Commentaires
+			Rectangle=61 100356 2040 100468
+		Fin
+		Saisie
+			Variable=F5b
+			Rectangle=61 100465 2040 100592
+		Fin
+		Saisie
+			Variable=F5b_categorie
+			Rectangle=61 100589 2040 100700
+		Fin
+		Saisie
+			Variable=F5b_Commentaires
+			Rectangle=61 100698 2040 100809
+		Fin
+		Saisie
+			Variable=F5c
+			Rectangle=61 100806 2040 100896
+		Fin
+		Saisie
+			Variable=F5c_categorie
+			Rectangle=61 101166 2040 101277
+		Fin
+		Saisie
+			Variable=F5c_Commentaires
+			Rectangle=61 101275 2040 101386
+		Fin
+		Saisie
+			Variable=F5d
+			Rectangle=61 101383 2040 101436
+		Fin
+		Saisie
+			Variable=F5d_categorie
+			Rectangle=61 101433 2040 101544
+		Fin
+		Saisie
+			Variable=F5d_Commentaires
+			Rectangle=61 101542 2040 101653
+		Fin
+		Saisie
+			Variable=F5f
+			Rectangle=61 101650 2040 101740
+		Fin
+		Saisie
+			Variable=F5f_categorie
+			Rectangle=61 101738 2040 101849
+		Fin
+		Saisie
+			Variable=F5f_Commentaires
+			Rectangle=61 101846 2040 101957
+		Fin
+		Saisie
+			Variable=F5g
+			Rectangle=61 101955 2040 102045
+		Fin
+		Saisie
+			Variable=F5g_categorie
+			Rectangle=61 102042 2040 102153
+		Fin
+		Saisie
+			Variable=F5g_Commentaires
+			Rectangle=61 102150 2040 102261
+		Fin
+		Saisie
+			Variable=F5h
+			Rectangle=61 102259 2040 102349
+		Fin
+		Saisie
+			Variable=F5h_categorie
+			Rectangle=61 102346 2040 102457
+		Fin
+		Saisie
+			Variable=F5h_Commentaires
+			Rectangle=61 102455 2040 102566
+		Fin
+		Saisie
+			Variable=F5i
+			Rectangle=61 102563 2040 102616
+		Fin
+		Saisie
+			Variable=F5i_categorie
+			Rectangle=61 102613 2040 102724
+		Fin
+		Saisie
+			Variable=F5i_Commentaires
+			Rectangle=61 102722 2040 102833
+		Fin
+		Saisie
+			Variable=F5j
+			Rectangle=61 102830 2040 102941
+		Fin
+		Saisie
+			Variable=F5j_categorie
+			Rectangle=61 102939 2040 103050
+		Fin
+		Saisie
+			Variable=F5j_Commentaires
+			Rectangle=61 103047 2040 103158
+		Fin
+		Titre
+			Variable=F7
+			Rectangle=61 103156 2040 103230
+		Fin
+		Saisie
+			Variable=F7
+			Rectangle=61 103227 2040 103338
+		Fin
+		Saisie
+			Variable=F6a
+			Rectangle=61 103336 2040 103389
+		Fin
+		Saisie
+			Variable=F6a_Categorie
+			Rectangle=61 103386 2040 103497
+		Fin
+		Saisie
+			Variable=F6a_Commentaires
+			Rectangle=61 103494 2040 103606
+		Fin
+		Saisie
+			Variable=F6b
+			Rectangle=61 103603 2040 103656
+		Fin
+		Saisie
+			Variable=F6b_Categorie
+			Rectangle=61 103653 2040 103764
+		Fin
+		Saisie
+			Variable=F6b_Commentaires
+			Rectangle=61 103762 2040 103873
+		Fin
+		Saisie
+			Variable=F6c
+			Rectangle=61 103870 2040 103923
+		Fin
+		Saisie
+			Variable=F6c_Categorie
+			Rectangle=61 104137 2040 104248
+		Fin
+		Saisie
+			Variable=F6c_Commentaires
+			Rectangle=61 104246 2040 104357
+		Fin
+		Saisie
+			Variable=F6d
+			Rectangle=61 104354 2040 104465
+		Fin
+		Saisie
+			Variable=F6d_Categorie
+			Rectangle=61 104463 2040 104574
+		Fin
+		Saisie
+			Variable=F6d_Commentaires
+			Rectangle=61 104571 2040 104682
+		Fin
+		Titre
+			Variable=F7a1
+			Rectangle=61 104680 2040 104812
+		Fin
+		Saisie
+			Variable=F7a1
+			Rectangle=61 104809 2040 104921
+		Fin
+		Saisie
+			Variable=F7a
+			Rectangle=61 104918 2040 104992
+		Fin
+		Saisie
+			Variable=F7a_Nombre
+			Rectangle=61 104989 2040 105063
+		Fin
+		Saisie
+			Variable=F7a_Commentaire
+			Rectangle=61 105061 2040 105172
+		Fin
+		Titre
+			Variable=F8a
+			Rectangle=61 105169 2040 105302
+		Fin
+		Saisie
+			Variable=F8a
+			Rectangle=61 105299 2040 105352
+		Fin
+		Saisie
+			Variable=F8a_Ordre
+			Rectangle=61 105349 2040 105439
+		Fin
+		Saisie
+			Variable=F8a_commentaires
+			Rectangle=61 105436 2040 105548
+		Fin
+		Saisie
+			Variable=F8b
+			Rectangle=61 105545 2040 105635
+		Fin
+		Saisie
+			Variable=F8b_Ordre
+			Rectangle=61 105632 2040 105722
+		Fin
+		Saisie
+			Variable=F8b_commentaires
+			Rectangle=61 105720 2040 105831
+		Fin
+		Saisie
+			Variable=F8c
+			Rectangle=61 105828 2040 105881
+		Fin
+		Saisie
+			Variable=F8c_Ordre
+			Rectangle=61 105878 2040 105968
+		Fin
+		Saisie
+			Variable=F8c_commentaires
+			Rectangle=61 105966 2040 106077
+		Fin
+		Saisie
+			Variable=F8d
+			Rectangle=61 106074 2040 106127
+		Fin
+		Saisie
+			Variable=F8d_Ordre
+			Rectangle=61 106124 2040 106214
+		Fin
+		Saisie
+			Variable=F8d_commentaires
+			Rectangle=61 106212 2040 106323
+		Fin
+		Saisie
+			Variable=F8e
+			Rectangle=61 106320 2040 106373
+		Fin
+		Saisie
+			Variable=F8e_Ordre
+			Rectangle=61 106370 2040 106460
+		Fin
+		Saisie
+			Variable=F8e_commentaires
+			Rectangle=61 106458 2040 106569
+		Fin
+		Saisie
+			Variable=F8f
+			Rectangle=61 106566 2040 106656
+		Fin
+		Saisie
+			Variable=F8f_Ordre
+			Rectangle=61 106654 2040 106744
+		Fin
+		Saisie
+			Variable=F8f_commentaires
+			Rectangle=61 106741 2040 106852
+		Fin
+		Saisie
+			Variable=F8g
+			Rectangle=61 106849 2040 106902
+		Fin
+		Saisie
+			Variable=F8g_Ordre
+			Rectangle=61 107109 2040 107199
+		Fin
+		Saisie
+			Variable=F8g_commentaires
+			Rectangle=61 107196 2040 107307
+		Fin
+		Saisie
+			Variable=F8h
+			Rectangle=61 107304 2040 107357
+		Fin
+		Saisie
+			Variable=F8h_Ordre
+			Rectangle=61 107355 2040 107445
+		Fin
+		Saisie
+			Variable=F8h_commentaires
+			Rectangle=61 107442 2040 107553
+		Fin
+		Saisie
+			Variable=F8i
+			Rectangle=61 107550 2040 107603
+		Fin
+		Saisie
+			Variable=F8i_Ordre
+			Rectangle=61 107601 2040 107691
+		Fin
+		Saisie
+			Variable=F8i_commentaires
+			Rectangle=61 107688 2040 107799
+		Fin
+		Saisie
+			Variable=F8j
+			Rectangle=61 107797 2040 107849
+		Fin
+		Saisie
+			Variable=F8j_Ordre
+			Rectangle=61 107847 2040 107937
+		Fin
+		Saisie
+			Variable=F8j_commentaires
+			Rectangle=61 107934 2040 108045
+		Fin
+		Saisie
+			Variable=F8k
+			Rectangle=61 108043 2040 108096
+		Fin
+		Saisie
+			Variable=F8k_Ordre
+			Rectangle=61 108093 2040 108183
+		Fin
+		Saisie
+			Variable=F8k_commentaires
+			Rectangle=61 108180 2040 108291
+		Fin
+		Saisie
+			Variable=F-9
+			Rectangle=61 108289 2040 108363
+		Fin
+		Titre
+			Variable=F10a
+			Rectangle=61 108360 2040 108492
+		Fin
+		Saisie
+			Variable=F10a
+			Rectangle=61 108490 2040 108543
+		Fin
+		Saisie
+			Variable=F10a_Ordre
+			Rectangle=61 108540 2040 108630
+		Fin
+		Saisie
+			Variable=F10a_commentaires
+			Rectangle=61 108627 2040 108738
+		Fin
+		Saisie
+			Variable=F10b
+			Rectangle=61 108736 2040 108789
+		Fin
+		Saisie
+			Variable=F10b_Ordre
+			Rectangle=61 108786 2040 108876
+		Fin
+		Saisie
+			Variable=F10b_commentaires
+			Rectangle=61 108873 2040 108985
+		Fin
+		Saisie
+			Variable=F10c
+			Rectangle=61 108982 2040 109035
+		Fin
+		Saisie
+			Variable=F10c_Ordre
+			Rectangle=61 109032 2040 109122
+		Fin
+		Saisie
+			Variable=F10_commentaires
+			Rectangle=61 109119 2040 109231
+		Fin
+		Saisie
+			Variable=F10d
+			Rectangle=61 109228 2040 109281
+		Fin
+		Saisie
+			Variable=F10d_Ordre
+			Rectangle=61 109278 2040 109368
+		Fin
+		Saisie
+			Variable=F10d_commentaires
+			Rectangle=61 109366 2040 109477
+		Fin
+		Saisie
+			Variable=F10e
+			Rectangle=61 109474 2040 109527
+		Fin
+		Saisie
+			Variable=F10e_Ordre
+			Rectangle=61 109524 2040 109614
+		Fin
+		Saisie
+			Variable=F10e_commentaires
+			Rectangle=61 109612 2040 109723
+		Fin
+		Saisie
+			Variable=F10f
+			Rectangle=61 109720 2040 109773
+		Fin
+		Saisie
+			Variable=F10f_Ordre
+			Rectangle=61 109770 2040 109860
+		Fin
+		Saisie
+			Variable=F10f_commentaires
+			Rectangle=61 110080 2040 110191
+		Fin
+		Saisie
+			Variable=F10g
+			Rectangle=61 110188 2040 110241
+		Fin
+		Saisie
+			Variable=F10g_Ordre
+			Rectangle=61 110239 2040 110329
+		Fin
+		Saisie
+			Variable=F10g_commentaires
+			Rectangle=61 110326 2040 110437
+		Fin
+		Saisie
+			Variable=F10h
+			Rectangle=61 110434 2040 110487
+		Fin
+		Saisie
+			Variable=F10h_Ordre
+			Rectangle=61 110485 2040 110575
+		Fin
+		Saisie
+			Variable=F10h_commentaires
+			Rectangle=61 110572 2040 110683
+		Fin
+		Titre
+			Variable=F11-a
+			Rectangle=61 110681 2040 110755
+		Fin
+		Saisie
+			Variable=F11-a
+			Rectangle=61 110752 2040 110863
+		Fin
+		Saisie
+			Variable=F11a_dons
+			Rectangle=61 110860 2040 110913
+		Fin
+		Saisie
+			Variable=F11a_Commentaire
+			Rectangle=61 110911 2040 111022
+		Fin
+		Saisie
+			Variable=F11b
+			Rectangle=61 111019 2040 111130
+		Fin
+		Saisie
+			Variable=F11b_dons
+			Rectangle=61 111128 2040 111181
+		Fin
+		Saisie
+			Variable=F11b_Commentaire
+			Rectangle=61 111178 2040 111289
+		Fin
+		Saisie
+			Variable=F11c
+			Rectangle=61 111286 2040 111398
+		Fin
+		Saisie
+			Variable=F11c_dons
+			Rectangle=61 111395 2040 111448
+		Fin
+		Saisie
+			Variable=F11c_Commentaire
+			Rectangle=61 111445 2040 111556
+		Fin
+		Titre
+			Variable=G1a
+			Rectangle=61 111625 2040 111757
+		Fin
+		Titre
+			Variable=G1a
+			Indice=1
+			Rectangle=61 111554 2040 111628
+		Fin
+		Saisie
+			Variable=G1a
+			Rectangle=61 111755 2040 111808
+		Fin
+		Saisie
+			Variable=G1a_Nombre
+			Rectangle=61 111805 2040 111879
+		Fin
+		Saisie
+			Variable=G1a_Commentaires
+			Rectangle=61 111876 2040 111988
+		Fin
+		Saisie
+			Variable=G1b
+			Rectangle=61 111985 2040 112038
+		Fin
+		Saisie
+			Variable=G1b_Nombre
+			Rectangle=61 112035 2040 112109
+		Fin
+		Saisie
+			Variable=G1b_Commentaires
+			Rectangle=61 112107 2040 112218
+		Fin
+		Saisie
+			Variable=G1c
+			Rectangle=61 112215 2040 112305
+		Fin
+		Saisie
+			Variable=G1c_Nombre
+			Rectangle=61 112302 2040 112376
+		Fin
+		Saisie
+			Variable=G1c_Commentaires
+			Rectangle=61 112374 2040 112485
+		Fin
+		Saisie
+			Variable=G1d
+			Rectangle=61 112482 2040 112535
+		Fin
+		Saisie
+			Variable=G1d_Nombre
+			Rectangle=61 112533 2040 112607
+		Fin
+		Saisie
+			Variable=G1d_Commentaires
+			Rectangle=61 112604 2040 112715
+		Fin
+		Saisie
+			Variable=G1e
+			Rectangle=61 112713 2040 112802
+		Fin
+		Saisie
+			Variable=G1e_Nombre
+			Rectangle=61 113051 2040 113125
+		Fin
+		Saisie
+			Variable=G1e_Commentaires
+			Rectangle=61 113123 2040 113234
+		Fin
+		Saisie
+			Variable=G1f
+			Rectangle=61 113231 2040 113284
+		Fin
+		Saisie
+			Variable=G1f_Nombre
+			Rectangle=61 113281 2040 113355
+		Fin
+		Saisie
+			Variable=G1f_Commentaires
+			Rectangle=61 113353 2040 113464
+		Fin
+		Saisie
+			Variable=G1g
+			Rectangle=61 113461 2040 113551
+		Fin
+		Saisie
+			Variable=G1g_Nombre
+			Rectangle=61 113549 2040 113623
+		Fin
+		Saisie
+			Variable=G1g_Commentaires
+			Rectangle=61 113620 2040 113731
+		Fin
+		Saisie
+			Variable=G1h
+			Rectangle=61 113729 2040 113818
+		Fin
+		Saisie
+			Variable=G1h_Nombre
+			Rectangle=61 113816 2040 113890
+		Fin
+		Saisie
+			Variable=G1h_Commentaires
+			Rectangle=61 113887 2040 113998
+		Fin
+		Saisie
+			Variable=G1i
+			Rectangle=61 113996 2040 114049
+		Fin
+		Saisie
+			Variable=G1i_Nombre
+			Rectangle=61 114046 2040 114120
+		Fin
+		Saisie
+			Variable=G1i_Commentaires
+			Rectangle=61 114117 2040 114229
+		Fin
+		Saisie
+			Variable=G1j
+			Rectangle=61 114226 2040 114279
+		Fin
+		Saisie
+			Variable=G1j_Nombre
+			Rectangle=61 114276 2040 114350
+		Fin
+		Saisie
+			Variable=G1j_Commentaires
+			Rectangle=61 114348 2040 114459
+		Fin
+		Saisie
+			Variable=G1k
+			Rectangle=61 114456 2040 114509
+		Fin
+		Saisie
+			Variable=G1k_Nombre
+			Rectangle=61 114506 2040 114580
+		Fin
+		Saisie
+			Variable=G1k_Commentaires
+			Rectangle=61 114578 2040 114689
+		Fin
+		Saisie
+			Variable=G1l
+			Rectangle=61 114686 2040 114739
+		Fin
+		Saisie
+			Variable=G1l_Nombre
+			Rectangle=61 114737 2040 114811
+		Fin
+		Saisie
+			Variable=G1l_Commentaires
+			Rectangle=61 114808 2040 114919
+		Fin
+		Saisie
+			Variable=G1m
+			Rectangle=61 114916 2040 115028
+		Fin
+		Saisie
+			Variable=G1m_Nombre
+			Rectangle=61 115025 2040 115099
+		Fin
+		Saisie
+			Variable=G1m_Commentaires
+			Rectangle=61 115096 2040 115208
+		Fin
+		Saisie
+			Variable=G
+			Rectangle=61 115205 2040 115295
+		Fin
+		Titre
+			Variable=G-2a
+			Rectangle=61 115292 2040 115424
+		Fin
+		Saisie
+			Variable=G-2a
+			Rectangle=61 115422 2040 115475
+		Fin
+		Saisie
+			Variable=G2a
+			Rectangle=61 115472 2040 115583
+		Fin
+		Saisie
+			Variable=G2a_Commentaires
+			Rectangle=61 115581 2040 115692
+		Fin
+		Saisie
+			Variable=G-2b
+			Rectangle=61 115689 2040 115742
+		Fin
+		Saisie
+			Variable=G2b
+			Rectangle=61 116022 2040 116134
+		Fin
+		Saisie
+			Variable=G2b_Commentaires
+			Rectangle=61 116131 2040 116242
+		Fin
+		Saisie
+			Variable=G2c
+			Rectangle=61 116239 2040 116292
+		Fin
+		Saisie
+			Variable=G2c_categorie
+			Rectangle=61 116290 2040 116401
+		Fin
+		Saisie
+			Variable=G2c_Commentaires
+			Rectangle=61 116398 2040 116509
+		Fin
+		Saisie
+			Variable=G2d
+			Rectangle=61 116507 2040 116597
+		Fin
+		Saisie
+			Variable=G2d_Categorie
+			Rectangle=61 116594 2040 116705
+		Fin
+		Saisie
+			Variable=G2d_Commentaires1
+			Rectangle=61 116702 2040 116814
+		Fin
+		Saisie
+			Variable=G2e
+			Rectangle=61 116811 2040 116922
+		Fin
+		Saisie
+			Variable=G2e_Categorie
+			Rectangle=61 116919 2040 117031
+		Fin
+		Saisie
+			Variable=G2d_Commentaires
+			Rectangle=61 117028 2040 117139
+		Fin
+		Titre
+			Variable=G3a
+			Rectangle=61 117136 2040 117210
+		Fin
+		Saisie
+			Variable=G3a
+			Rectangle=61 117208 2040 117261
+		Fin
+		Saisie
+			Variable=G3a_Type
+			Rectangle=61 117258 2040 117369
+		Fin
+		Saisie
+			Variable=G3a_Categorie
+			Rectangle=61 117367 2040 117478
+		Fin
+		Saisie
+			Variable=G3a_Commentaires
+			Rectangle=61 117475 2040 117586
+		Fin
+		Saisie
+			Variable=G3b
+			Rectangle=61 117583 2040 117636
+		Fin
+		Saisie
+			Variable=G3b_Type
+			Rectangle=61 117634 2040 117745
+		Fin
+		Saisie
+			Variable=G3b_Categorie
+			Rectangle=61 117742 2040 117853
+		Fin
+		Saisie
+			Variable=G3b_Commentaires
+			Rectangle=61 117851 2040 117962
+		Fin
+		Saisie
+			Variable=G3c
+			Rectangle=61 117959 2040 118012
+		Fin
+		Saisie
+			Variable=G3c_Type
+			Rectangle=61 118009 2040 118121
+		Fin
+		Saisie
+			Variable=G3c_Categorie
+			Rectangle=61 118118 2040 118229
+		Fin
+		Saisie
+			Variable=G3c_Commentaires
+			Rectangle=61 118226 2040 118338
+		Fin
+		Saisie
+			Variable=G3d
+			Rectangle=61 118335 2040 118388
+		Fin
+		Saisie
+			Variable=G3d_Type
+			Rectangle=61 118385 2040 118496
+		Fin
+		Saisie
+			Variable=G3d_Categorie
+			Rectangle=61 118494 2040 118605
+		Fin
+		Saisie
+			Variable=G3d_Commentaires
+			Rectangle=61 118602 2040 118713
+		Fin
+		Saisie
+			Variable=G3e
+			Rectangle=61 118711 2040 118764
+		Fin
+		Saisie
+			Variable=G3e_Type
+			Rectangle=61 118994 2040 119105
+		Fin
+		Saisie
+			Variable=G3e_Categorie
+			Rectangle=61 119102 2040 119213
+		Fin
+		Saisie
+			Variable=G3e_Commentaires
+			Rectangle=61 119211 2040 119322
+		Fin
+		Saisie
+			Variable=G3f
+			Rectangle=61 119319 2040 119430
+		Fin
+		Saisie
+			Variable=G3f_Type
+			Rectangle=61 119428 2040 119539
+		Fin
+		Saisie
+			Variable=G3f_Categorie
+			Rectangle=61 119536 2040 119647
+		Fin
+		Saisie
+			Variable=G3f_Commentaires
+			Rectangle=61 119645 2040 119756
+		Fin
+		Saisie
+			Variable=G4
+			Rectangle=61 119753 2040 119843
+		Fin
+		Saisie
+			Variable=G4_Commentaires
+			Rectangle=61 119840 2040 119952
+		Fin
+		Saisie
+			Variable=G4_Degre
+			Rectangle=61 119949 2040 120060
+		Fin
+		Titre
+			Variable=G5a_vehicule
+			Rectangle=61 120057 2040 120190
+		Fin
+		Saisie
+			Variable=G5a_vehicule
+			Rectangle=61 120187 2040 120261
+		Fin
+		Saisie
+			Variable=G5a_Type
+			Rectangle=61 120258 2040 120370
+		Fin
+		Saisie
+			Variable=G5a_Capacité
+			Rectangle=61 120367 2040 120478
+		Fin
+		Saisie
+			Variable=G5b_vehicule
+			Rectangle=61 120475 2040 120549
+		Fin
+		Saisie
+			Variable=G5b_Type
+			Rectangle=61 120547 2040 120658
+		Fin
+		Saisie
+			Variable=G5b_Capacité
+			Rectangle=61 120655 2040 120766
+		Fin
+		Saisie
+			Variable=G5c_vehicule
+			Rectangle=61 120764 2040 120838
+		Fin
+		Saisie
+			Variable=G5c_Type
+			Rectangle=61 120835 2040 120946
+		Fin
+		Saisie
+			Variable=G5c_Capacité
+			Rectangle=61 120944 2040 121055
+		Fin
+		Saisie
+			Variable=G5d_vehicule
+			Rectangle=61 121052 2040 121126
+		Fin
+		Saisie
+			Variable=G5d_Type
+			Rectangle=61 121124 2040 121235
+		Fin
+		Saisie
+			Variable=G5d_Capacité
+			Rectangle=61 121232 2040 121343
+		Fin
+		Saisie
+			Variable=G6
+			Rectangle=61 121341 2040 121468
+		Fin
+		Saisie
+			Variable=G6_Commentaires
+			Rectangle=61 121465 2040 121576
+		Fin
+		Saisie
+			Variable=G7
+			Rectangle=61 121573 2040 121663
+		Fin
+		Saisie
+			Variable=G-7_Commentaires
+			Rectangle=61 121965 2040 122076
+		Fin
+		Titre
+			Variable=G8a
+			Rectangle=61 122073 2040 122206
+		Fin
+		Saisie
+			Variable=G8a
+			Rectangle=61 122203 2040 122256
+		Fin
+		Saisie
+			Variable=G8a_ordre
+			Rectangle=61 122253 2040 122343
+		Fin
+		Saisie
+			Variable=G8_Commentaires
+			Rectangle=61 122341 2040 122452
+		Fin
+		Saisie
+			Variable=G8b
+			Rectangle=61 122449 2040 122502
+		Fin
+		Saisie
+			Variable=G8b_ordre
+			Rectangle=61 122499 2040 122589
+		Fin
+		Saisie
+			Variable=G8b_Commentaires
+			Rectangle=61 122587 2040 122698
+		Fin
+		Saisie
+			Variable=G8c
+			Rectangle=61 122695 2040 122748
+		Fin
+		Saisie
+			Variable=G8c_ordre
+			Rectangle=61 122746 2040 122835
+		Fin
+		Saisie
+			Variable=G8c_Commentaires
+			Rectangle=61 122833 2040 122944
+		Fin
+		Saisie
+			Variable=G8d
+			Rectangle=61 122941 2040 122994
+		Fin
+		Saisie
+			Variable=G8d_ordre
+			Rectangle=61 122992 2040 123082
+		Fin
+		Saisie
+			Variable=G8d_Commentaires
+			Rectangle=61 123079 2040 123190
+		Fin
+		Saisie
+			Variable=G8f
+			Rectangle=61 123187 2040 123240
+		Fin
+		Saisie
+			Variable=G8f_ordre
+			Rectangle=61 123238 2040 123328
+		Fin
+		Saisie
+			Variable=G8f_Commentaires
+			Rectangle=61 123325 2040 123436
+		Fin
+		Saisie
+			Variable=G8f1
+			Rectangle=61 123433 2040 123486
+		Fin
+		Saisie
+			Variable=G8f_ordre1
+			Rectangle=61 123484 2040 123574
+		Fin
+		Saisie
+			Variable=G8f_Commentaires1
+			Rectangle=61 123571 2040 123682
+		Fin
+		Saisie
+			Variable=G8g
+			Rectangle=61 123679 2040 123732
+		Fin
+		Saisie
+			Variable=G8g_ordre
+			Rectangle=61 123730 2040 123820
+		Fin
+		Saisie
+			Variable=G8g_Commentaires
+			Rectangle=61 123817 2040 123928
+		Fin
+		Saisie
+			Variable=G8h
+			Rectangle=61 123926 2040 123978
+		Fin
+		Saisie
+			Variable=G8h_ordre
+			Rectangle=61 123976 2040 124066
+		Fin
+		Saisie
+			Variable=G8h_Commentaires
+			Rectangle=61 124063 2040 124174
+		Fin
+		Saisie
+			Variable=G8h1
+			Rectangle=61 124172 2040 124283
+		Fin
+		Saisie
+			Variable=G8h_ordre1
+			Rectangle=61 124280 2040 124370
+		Fin
+		Saisie
+			Variable=G8h_Commentaires1
+			Rectangle=61 124367 2040 124441
+		Fin
+		Saisie
+			Variable=G9
+			Rectangle=61 124439 2040 124529
+		Fin
+		Saisie
+			Variable=G9_Commentaire
+			Rectangle=61 124526 2040 124637
+		Fin
+		Titre
+			Variable=G10a
+			Rectangle=61 124936 2040 125069
+		Fin
+		Saisie
+			Variable=G10a
+			Rectangle=61 125066 2040 125119
+		Fin
+		Saisie
+			Variable=G10a_Commentaire
+			Rectangle=61 125116 2040 125227
+		Fin
+		Saisie
+			Variable=G10b
+			Rectangle=61 125225 2040 125278
+		Fin
+		Saisie
+			Variable=G10b_Commentaire
+			Rectangle=61 125275 2040 125386
+		Fin
+		Saisie
+			Variable=G10c
+			Rectangle=61 125383 2040 125436
+		Fin
+		Saisie
+			Variable=G10c_Commentaire
+			Rectangle=61 125434 2040 125545
+		Fin
+		Saisie
+			Variable=G10d_Commentaire
+			Rectangle=61 125542 2040 125595
+		Fin
+		Saisie
+			Variable=G10_qualification
+			Rectangle=61 125592 2040 125704
+		Fin
+		Saisie
+			Variable=G10e
+			Rectangle=61 125701 2040 125754
+		Fin
+		Saisie
+			Variable=G10e_Commentaire
+			Rectangle=61 125751 2040 125862
+		Fin
+		Saisie
+			Variable=G10f
+			Rectangle=61 125860 2040 125950
+		Fin
+		Saisie
+			Variable=G10f_Commentaire
+			Rectangle=61 125947 2040 126058
+		Fin
+		Saisie
+			Variable=G10g
+			Rectangle=61 126055 2040 126108
+		Fin
+		Saisie
+			Variable=G10g_Commentaire
+			Rectangle=61 126106 2040 126217
+		Fin
+		Saisie
+			Variable=G1Oh
+			Rectangle=61 126214 2040 126267
+		Fin
+		Saisie
+			Variable=G10h_Commentaire
+			Rectangle=61 126264 2040 126376
+		Fin
+		Saisie
+			Variable=G10i
+			Rectangle=61 126373 2040 126426
+		Fin
+		Saisie
+			Variable=G10i_Commentaire
+			Rectangle=61 126423 2040 126534
+		Fin
+		Saisie
+			Variable=G10j
+			Rectangle=61 126532 2040 126585
+		Fin
+		Saisie
+			Variable=G10j_Commentaire
+			Rectangle=61 126582 2040 126693
+		Fin
+		Saisie
+			Variable=G10k
+			Rectangle=61 126690 2040 126780
+		Fin
+		Saisie
+			Variable=G10k_Commentaire
+			Rectangle=61 126778 2040 126889
+		Fin
+		Saisie
+			Variable=C1l1
+			Rectangle=61 126886 2040 126939
+		Fin
+		Saisie
+			Variable=G10l_Commentaire
+			Rectangle=61 126937 2040 127048
+		Fin
+		Saisie
+			Variable=G10m
+			Rectangle=61 127045 2040 127098
+		Fin
+		Saisie
+			Variable=G10m_Commentaire
+			Rectangle=61 127095 2040 127206
+		Fin
+		Saisie
+			Variable=C1n1
+			Rectangle=61 127204 2040 127257
+		Fin
+		Saisie
+			Variable=G10n_Commentaire
+			Rectangle=61 127254 2040 127365
+		Fin
+		Saisie
+			Variable=G10o
+			Rectangle=61 127362 2040 127415
+		Fin
+		Saisie
+			Variable=G10o_Commentaire
+			Rectangle=61 127413 2040 127524
+		Fin
+		Saisie
+			Variable=G10p
+			Rectangle=61 127521 2040 127574
+		Fin
+		Saisie
+			Variable=G10p_Commentaire
+			Rectangle=61 127572 2040 127683
+		Fin
+		Saisie
+			Variable=G10q
+			Rectangle=61 127908 2040 127960
+		Fin
+		Saisie
+			Variable=G10q_Commentaire
+			Rectangle=61 127958 2040 128069
+		Fin
+		Saisie
+			Variable=G10r
+			Rectangle=61 128066 2040 128156
+		Fin
+		Saisie
+			Variable=C1r_Commentaire1
+			Rectangle=61 128154 2040 128265
+		Fin
+		Saisie
+			Variable=G10s
+			Rectangle=61 128262 2040 128315
+		Fin
+		Saisie
+			Variable=G10s_Commentaire
+			Rectangle=61 128312 2040 128423
+		Fin
+		Saisie
+			Variable=G10t
+			Rectangle=61 128421 2040 128474
+		Fin
+		Saisie
+			Variable=G10t_Commentaire
+			Rectangle=61 128471 2040 128582
+		Fin
+		Saisie
+			Variable=G10v
+			Rectangle=61 128580 2040 128632
+		Fin
+		Saisie
+			Variable=G10v_Qualifications
+			Rectangle=61 128630 2040 128741
+		Fin
+		Saisie
+			Variable=G10w
+			Rectangle=61 128738 2040 128791
+		Fin
+		Saisie
+			Variable=G10w_Qualifications
+			Rectangle=61 128789 2040 128900
+		Fin
+		Titre
+			Variable=H
+			Rectangle=61 128897 2040 128971
+		Fin
+		Saisie
+			Variable=H
+			Rectangle=61 128969 2040 129021
+		Fin
+		Titre
+			Variable=H1a
+			Rectangle=61 129019 2040 129151
+		Fin
+		Saisie
+			Variable=H1a
+			Rectangle=61 129148 2040 129201
+		Fin
+		Saisie
+			Variable=H1a1
+			Rectangle=61 129199 2040 129310
+		Fin
+		Saisie
+			Variable=H1b
+			Rectangle=61 129307 2040 129397
+		Fin
+		Saisie
+			Variable=H1b1
+			Rectangle=61 129394 2040 129506
+		Fin
+		Saisie
+			Variable=H1c
+			Rectangle=61 129503 2040 129556
+		Fin
+		Saisie
+			Variable=H1c1
+			Rectangle=61 129553 2040 129664
+		Fin
+		Saisie
+			Variable=H1d
+			Rectangle=61 129662 2040 129752
+		Fin
+		Saisie
+			Variable=H1d1
+			Rectangle=61 129749 2040 129860
+		Fin
+		Saisie
+			Variable=H1e
+			Rectangle=61 129858 2040 129910
+		Fin
+		Saisie
+			Variable=H1e1
+			Rectangle=61 129908 2040 130019
+		Fin
+		Titre
+			Variable=H2a
+			Rectangle=61 130016 2040 130149
+		Fin
+		Saisie
+			Variable=H2a
+			Rectangle=61 130146 2040 130257
+		Fin
+		Saisie
+			Variable=H2a1
+			Rectangle=61 130254 2040 130366
+		Fin
+		Saisie
+			Variable=H2a2
+			Rectangle=61 130363 2040 130474
+		Fin
+		Saisie
+			Variable=H3
+			Rectangle=61 130471 2040 130598
+		Fin
+		Saisie
+			Variable=H4
+			Rectangle=61 130879 2040 130969
+		Fin
+		Saisie
+			Variable=H5
+			Rectangle=61 130966 2040 131077
+		Fin
+		Titre
+			Variable=H6a
+			Rectangle=61 131075 2040 131207
+		Fin
+		Saisie
+			Variable=H6a
+			Rectangle=61 131204 2040 131294
+		Fin
+		Saisie
+			Variable=H6a1
+			Rectangle=61 131292 2040 131403
+		Fin
+		Saisie
+			Variable=H6b
+			Rectangle=61 131400 2040 131453
+		Fin
+		Saisie
+			Variable=H6b1
+			Rectangle=61 131450 2040 131561
+		Fin
+		Saisie
+			Variable=H6c
+			Rectangle=61 131559 2040 131612
+		Fin
+		Saisie
+			Variable=H6c1
+			Rectangle=61 131609 2040 131720
+		Fin
+		Saisie
+			Variable=H6a6
+			Rectangle=61 131718 2040 131770
+		Fin
+		Saisie
+			Variable=H6a7
+			Rectangle=61 131768 2040 131879
+		Fin
+		Titre
+			Variable=H7a1
+			Rectangle=61 131876 2040 131950
+		Fin
+		Saisie
+			Variable=H7a1
+			Rectangle=61 131948 2040 132001
+		Fin
+		Saisie
+			Variable=H7a
+			Rectangle=61 131998 2040 132109
+		Fin
+		Saisie
+			Variable=H7b
+			Rectangle=61 132106 2040 132159
+		Fin
+		Saisie
+			Variable=H7b1
+			Rectangle=61 132157 2040 132268
+		Fin
+		Saisie
+			Variable=H7c
+			Rectangle=61 132265 2040 132318
+		Fin
+		Saisie
+			Variable=H7c1
+			Rectangle=61 132315 2040 132427
+		Fin
+		Saisie
+			Variable=H8
+			Rectangle=61 132424 2040 132514
+		Fin
+		Saisie
+			Variable=H8_commentaire
+			Rectangle=61 132511 2040 132622
+		Fin
+		Saisie
+			Variable=H8_precier
+			Rectangle=61 132620 2040 132731
+		Fin
+		Titre
+			Variable=H9a
+			Rectangle=61 132728 2040 132861
+		Fin
+		Saisie
+			Variable=H9a
+			Rectangle=61 132858 2040 132911
+		Fin
+		Saisie
+			Variable=H9a1
+			Rectangle=61 132908 2040 133019
+		Fin
+		Saisie
+			Variable=H1b2
+			Rectangle=61 133017 2040 133070
+		Fin
+		Saisie
+			Variable=H9b
+			Rectangle=61 133067 2040 133178
+		Fin
+		Saisie
+			Variable=H9c
+			Rectangle=61 133175 2040 133228
+		Fin
+		Saisie
+			Variable=H9c1
+			Rectangle=61 133226 2040 133337
+		Fin
+		Saisie
+			Variable=H9d
+			Rectangle=61 133334 2040 133387
+		Fin
+		Saisie
+			Variable=H9d1
+			Rectangle=61 133384 2040 133496
+		Fin
+		Saisie
+			Variable=H9e
+			Rectangle=61 133493 2040 133546
+		Fin
+		Saisie
+			Variable=H9e1
+			Rectangle=61 133850 2040 133961
+		Fin
+		Saisie
+			Variable=H9f
+			Rectangle=61 133959 2040 134011
+		Fin
+		Saisie
+			Variable=H9f1
+			Rectangle=61 134009 2040 134120
+		Fin
+		Saisie
+			Variable=H9g
+			Rectangle=61 134117 2040 134170
+		Fin
+		Saisie
+			Variable=H9g1
+			Rectangle=61 134168 2040 134279
+		Fin
+		Saisie
+			Variable=H9h
+			Rectangle=61 134276 2040 134329
+		Fin
+		Saisie
+			Variable=H9h1
+			Rectangle=61 134326 2040 134437
+		Fin
+		Saisie
+			Variable=H9i
+			Rectangle=61 134435 2040 134488
+		Fin
+		Saisie
+			Variable=H9i1
+			Rectangle=61 134485 2040 134596
+		Fin
+		Saisie
+			Variable=H9j
+			Rectangle=61 134594 2040 134646
+		Fin
+		Saisie
+			Variable=H9j1
+			Rectangle=61 134644 2040 134755
+		Fin
+		Saisie
+			Variable=H9k
+			Rectangle=61 134752 2040 134805
+		Fin
+		Saisie
+			Variable=H9k1
+			Rectangle=61 134803 2040 134914
+		Fin
+		Saisie
+			Variable=H9l
+			Rectangle=61 134911 2040 134964
+		Fin
+		Saisie
+			Variable=H9l1
+			Rectangle=61 134961 2040 135072
+		Fin
+		Saisie
+			Variable=H9m
+			Rectangle=61 135070 2040 135123
+		Fin
+		Saisie
+			Variable=H9m1
+			Rectangle=61 135120 2040 135231
+		Fin
+		Saisie
+			Variable=H9n
+			Rectangle=61 135229 2040 135281
+		Fin
+		Saisie
+			Variable=H9n1
+			Rectangle=61 135279 2040 135390
+		Fin
+		Saisie
+			Variable=H9o
+			Rectangle=61 135387 2040 135440
+		Fin
+		Saisie
+			Variable=H9o1
+			Rectangle=61 135438 2040 135549
+		Fin
+		Saisie
+			Variable=H9p
+			Rectangle=61 135546 2040 135599
+		Fin
+		Saisie
+			Variable=H9p1
+			Rectangle=61 135596 2040 135707
+		Fin
+		Saisie
+			Variable=H9q
+			Rectangle=61 135705 2040 135758
+		Fin
+		Saisie
+			Variable=H9q1
+			Rectangle=61 135755 2040 135866
+		Fin
+		Saisie
+			Variable=H9r
+			Rectangle=61 135864 2040 135916
+		Fin
+		Saisie
+			Variable=H9r1
+			Rectangle=61 135914 2040 136025
+		Fin
+		Saisie
+			Variable=H9s
+			Rectangle=61 136022 2040 136133
+		Fin
+		Saisie
+			Variable=H9s1
+			Rectangle=61 136131 2040 136242
+		Fin
+		Titre
+			Variable=I1a
+			Rectangle=61 136311 2040 136443
+		Fin
+		Titre
+			Variable=I1a
+			Indice=1
+			Rectangle=61 136239 2040 136313
+		Fin
+		Saisie
+			Variable=I1a
+			Rectangle=61 136440 2040 136493
+		Fin
+		Saisie
+			Variable=I1a_Commentaire
+			Rectangle=61 136491 2040 136602
+		Fin
+		Saisie
+			Variable=I1b
+			Rectangle=61 136821 2040 136874
+		Fin
+		Saisie
+			Variable=I1b_Commentaire
+			Rectangle=61 136872 2040 136983
+		Fin
+		Saisie
+			Variable=I1c
+			Rectangle=61 136980 2040 137033
+		Fin
+		Saisie
+			Variable=I1c_Commentaire
+			Rectangle=61 137030 2040 137141
+		Fin
+		Saisie
+			Variable=I1d
+			Rectangle=61 137139 2040 137192
+		Fin
+		Saisie
+			Variable=I1d_Commentaire
+			Rectangle=61 137189 2040 137300
+		Fin
+		Saisie
+			Variable=I1e
+			Rectangle=61 137298 2040 137351
+		Fin
+		Saisie
+			Variable=I1e_Commentaire
+			Rectangle=61 137348 2040 137459
+		Fin
+		Saisie
+			Variable=I1f
+			Rectangle=61 137456 2040 137509
+		Fin
+		Saisie
+			Variable=I1f_Commentaire
+			Rectangle=61 137507 2040 137618
+		Fin
+		Saisie
+			Variable=I1g
+			Rectangle=61 137615 2040 137668
+		Fin
+		Saisie
+			Variable=I1g_Commentaire
+			Rectangle=61 137665 2040 137776
+		Fin
+		Saisie
+			Variable=I1h
+			Rectangle=61 137774 2040 137885
+		Fin
+		Saisie
+			Variable=I1h_Commentaire
+			Rectangle=61 137882 2040 137993
+		Fin
+		Titre
+			Variable=j11a
+			Rectangle=61 138062 2040 138253
+		Fin
+		Titre
+			Variable=j11a
+			Indice=1
+			Rectangle=61 137991 2040 138065
+		Fin
+		Saisie
+			Variable=j11a
+			Rectangle=61 138250 2040 138361
+		Fin
+		Saisie
+			Variable=J11b
+			Rectangle=61 138359 2040 138433
+		Fin
+		Saisie
+			Variable=J11c
+			Rectangle=61 138430 2040 138504
+		Fin
+		Saisie
+			Variable=J11d
+			Rectangle=61 138501 2040 138576
+		Fin
+		Saisie
+			Variable=j11e
+			Rectangle=61 138573 2040 138684
+		Fin
+		Saisie
+			Variable=j12a
+			Rectangle=61 138681 2040 138792
+		Fin
+		Saisie
+			Variable=J12b
+			Rectangle=61 138790 2040 138864
+		Fin
+		Saisie
+			Variable=J12c
+			Rectangle=61 138861 2040 138935
+		Fin
+		Saisie
+			Variable=J12d
+			Rectangle=61 138933 2040 139007
+		Fin
+		Saisie
+			Variable=j12e
+			Rectangle=61 139004 2040 139115
+		Fin
+		Saisie
+			Variable=j13a
+			Rectangle=61 139113 2040 139224
+		Fin
+		Saisie
+			Variable=J13b
+			Rectangle=61 139221 2040 139295
+		Fin
+		Saisie
+			Variable=J13c
+			Rectangle=61 139293 2040 139367
+		Fin
+		Saisie
+			Variable=J13d
+			Rectangle=61 139364 2040 139438
+		Fin
+		Saisie
+			Variable=j13e
+			Rectangle=61 139435 2040 139547
+		Fin
+		Saisie
+			Variable=j14a
+			Rectangle=61 139793 2040 139904
+		Fin
+		Saisie
+			Variable=J14b
+			Rectangle=61 139901 2040 139991
+		Fin
+		Saisie
+			Variable=J14c
+			Rectangle=61 139988 2040 140078
+		Fin
+		Saisie
+			Variable=J14d
+			Rectangle=61 140076 2040 140166
+		Fin
+		Saisie
+			Variable=j14e
+			Rectangle=61 140163 2040 140290
+		Fin
+		Saisie
+			Variable=j15a
+			Rectangle=61 140287 2040 140399
+		Fin
+		Saisie
+			Variable=J15b
+			Rectangle=61 140396 2040 140470
+		Fin
+		Saisie
+			Variable=J15c
+			Rectangle=61 140467 2040 140541
+		Fin
+		Saisie
+			Variable=J15d
+			Rectangle=61 140539 2040 140613
+		Fin
+		Saisie
+			Variable=j15e
+			Rectangle=61 140610 2040 140721
+		Fin
+		Saisie
+			Variable=j16a
+			Rectangle=61 140719 2040 140830
+		Fin
+		Saisie
+			Variable=J16b
+			Rectangle=61 140827 2040 140901
+		Fin
+		Saisie
+			Variable=J16c
+			Rectangle=61 140899 2040 140973
+		Fin
+		Saisie
+			Variable=J16d
+			Rectangle=61 140970 2040 141044
+		Fin
+		Saisie
+			Variable=j16e1
+			Rectangle=61 141041 2040 141153
+		Fin
+		Saisie
+			Variable=j17a
+			Rectangle=61 141150 2040 141261
+		Fin
+		Saisie
+			Variable=J17b
+			Rectangle=61 141258 2040 141332
+		Fin
+		Saisie
+			Variable=J17c
+			Rectangle=61 141330 2040 141404
+		Fin
+		Saisie
+			Variable=J17d
+			Rectangle=61 141401 2040 141475
+		Fin
+		Saisie
+			Variable=j17e
+			Rectangle=61 141473 2040 141584
+		Fin
+		Saisie
+			Variable=j18a
+			Rectangle=61 141581 2040 141692
+		Fin
+		Saisie
+			Variable=J18b
+			Rectangle=61 141690 2040 141764
+		Fin
+		Saisie
+			Variable=J18c
+			Rectangle=61 141761 2040 141835
+		Fin
+		Saisie
+			Variable=J18d
+			Rectangle=61 141833 2040 141907
+		Fin
+		Saisie
+			Variable=j18e
+			Rectangle=61 141904 2040 142015
+		Fin
+		Saisie
+			Variable=j19a
+			Rectangle=61 142012 2040 142124
+		Fin
+		Saisie
+			Variable=J19b
+			Rectangle=61 142121 2040 142195
+		Fin
+		Saisie
+			Variable=J19c
+			Rectangle=61 142192 2040 142266
+		Fin
+		Saisie
+			Variable=J19d
+			Rectangle=61 142264 2040 142338
+		Fin
+		Saisie
+			Variable=j19e
+			Rectangle=61 142335 2040 142446
+		Fin
+		Saisie
+			Variable=j110a
+			Rectangle=61 142444 2040 142555
+		Fin
+		Saisie
+			Variable=J110b
+			Rectangle=61 142764 2040 142838
+		Fin
+		Saisie
+			Variable=J110c
+			Rectangle=61 142835 2040 142909
+		Fin
+		Saisie
+			Variable=J110d
+			Rectangle=61 142907 2040 142981
+		Fin
+		Saisie
+			Variable=j110e
+			Rectangle=61 142978 2040 143089
+		Fin
+		Saisie
+			Variable=j111a
+			Rectangle=61 143087 2040 143198
+		Fin
+		Saisie
+			Variable=J111b
+			Rectangle=61 143195 2040 143269
+		Fin
+		Saisie
+			Variable=J111c
+			Rectangle=61 143267 2040 143341
+		Fin
+		Saisie
+			Variable=J111d
+			Rectangle=61 143338 2040 143412
+		Fin
+		Saisie
+			Variable=j111e
+			Rectangle=61 143409 2040 143521
+		Fin
+		Saisie
+			Variable=j112a
+			Rectangle=61 143518 2040 143629
+		Fin
+		Saisie
+			Variable=J112b
+			Rectangle=61 143626 2040 143701
+		Fin
+		Saisie
+			Variable=J112c
+			Rectangle=61 143698 2040 143772
+		Fin
+		Saisie
+			Variable=J112d
+			Rectangle=61 143769 2040 143843
+		Fin
+		Saisie
+			Variable=j112e
+			Rectangle=61 143841 2040 143952
+		Fin
+		Saisie
+			Variable=j113a
+			Rectangle=61 143949 2040 144060
+		Fin
+		Saisie
+			Variable=J113b
+			Rectangle=61 144058 2040 144132
+		Fin
+		Saisie
+			Variable=J113c
+			Rectangle=61 144129 2040 144203
+		Fin
+		Saisie
+			Variable=J113d
+			Rectangle=61 144201 2040 144275
+		Fin
+		Saisie
+			Variable=j113e
+			Rectangle=61 144272 2040 144383
+		Fin
+		Saisie
+			Variable=j114a
+			Rectangle=61 144380 2040 144492
+		Fin
+		Saisie
+			Variable=J114b
+			Rectangle=61 144489 2040 144563
+		Fin
+		Saisie
+			Variable=J114c
+			Rectangle=61 144560 2040 144634
+		Fin
+		Saisie
+			Variable=J114d
+			Rectangle=61 144632 2040 144706
+		Fin
+		Saisie
+			Variable=j114e
+			Rectangle=61 144703 2040 144814
+		Fin
+		Saisie
+			Variable=j115a
+			Rectangle=61 144812 2040 144923
+		Fin
+		Saisie
+			Variable=J115b
+			Rectangle=61 144920 2040 145010
+		Fin
+		Saisie
+			Variable=J115c
+			Rectangle=61 145008 2040 145098
+		Fin
+		Saisie
+			Variable=J115d
+			Rectangle=61 145095 2040 145185
+		Fin
+		Saisie
+			Variable=j115e
+			Rectangle=61 145182 2040 145293
+		Fin
+		Saisie
+			Variable=j116a
+			Rectangle=61 145291 2040 145402
+		Fin
+		Saisie
+			Variable=J116b
+			Rectangle=61 145399 2040 145489
+		Fin
+		Saisie
+			Variable=J116c
+			Rectangle=61 145735 2040 145825
+		Fin
+		Saisie
+			Variable=J116d
+			Rectangle=61 145822 2040 145912
+		Fin
+		Saisie
+			Variable=j116e
+			Rectangle=61 145910 2040 146037
+		Fin
+		Saisie
+			Variable=j117a
+			Rectangle=61 146034 2040 146145
+		Fin
+		Saisie
+			Variable=J117b
+			Rectangle=61 146143 2040 146217
+		Fin
+		Saisie
+			Variable=J117c
+			Rectangle=61 146214 2040 146288
+		Fin
+		Saisie
+			Variable=J117d
+			Rectangle=61 146285 2040 146360
+		Fin
+		Saisie
+			Variable=j117e
+			Rectangle=61 146357 2040 146468
+		Fin
+		Saisie
+			Variable=j118a
+			Rectangle=61 146465 2040 146577
+		Fin
+		Saisie
+			Variable=J118b
+			Rectangle=61 146574 2040 146664
+		Fin
+		Saisie
+			Variable=J118c
+			Rectangle=61 146661 2040 146751
+		Fin
+		Saisie
+			Variable=J118d
+			Rectangle=61 146749 2040 146838
+		Fin
+		Saisie
+			Variable=j118e
+			Rectangle=61 146836 2040 146963
+		Fin
+		Saisie
+			Variable=j119a
+			Rectangle=61 146960 2040 147071
+		Fin
+		Saisie
+			Variable=J119b
+			Rectangle=61 147069 2040 147143
+		Fin
+		Saisie
+			Variable=J119c
+			Rectangle=61 147140 2040 147214
+		Fin
+		Saisie
+			Variable=J119d
+			Rectangle=61 147212 2040 147286
+		Fin
+		Saisie
+			Variable=j119e
+			Rectangle=61 147283 2040 147394
+		Fin
+		Saisie
+			Variable=j120a
+			Rectangle=61 147391 2040 147503
+		Fin
+		Saisie
+			Variable=J120b
+			Rectangle=61 147500 2040 147590
+		Fin
+		Saisie
+			Variable=J120c
+			Rectangle=61 147587 2040 147677
+		Fin
+		Saisie
+			Variable=J120d
+			Rectangle=61 147675 2040 147765
+		Fin
+		Saisie
+			Variable=j120e
+			Rectangle=61 147762 2040 147873
+		Fin
+		Saisie
+			Variable=j121a
+			Rectangle=61 147870 2040 147981
+		Fin
+		Saisie
+			Variable=J121b
+			Rectangle=61 147979 2040 148053
+		Fin
+		Saisie
+			Variable=J121c
+			Rectangle=61 148050 2040 148124
+		Fin
+		Saisie
+			Variable=J121d
+			Rectangle=61 148122 2040 148196
+		Fin
+		Saisie
+			Variable=j121e
+			Rectangle=61 148193 2040 148304
+		Fin
+		Saisie
+			Variable=j122a
+			Rectangle=61 148302 2040 148413
+		Fin
+		Saisie
+			Variable=J122b
+			Rectangle=61 148410 2040 148484
+		Fin
+		Saisie
+			Variable=J122c
+			Rectangle=61 148706 2040 148781
+		Fin
+		Saisie
+			Variable=J122d
+			Rectangle=61 148778 2040 148852
+		Fin
+		Saisie
+			Variable=j122e
+			Rectangle=61 148849 2040 148960
+		Fin
+		Saisie
+			Variable=j123a
+			Rectangle=61 148958 2040 149069
+		Fin
+		Saisie
+			Variable=J123b
+			Rectangle=61 149066 2040 149140
+		Fin
+		Saisie
+			Variable=J123c
+			Rectangle=61 149138 2040 149212
+		Fin
+		Saisie
+			Variable=J123d
+			Rectangle=61 149209 2040 149283
+		Fin
+		Saisie
+			Variable=j123e
+			Rectangle=61 149281 2040 149392
+		Fin
+		Titre
+			Variable=j2a
+			Rectangle=61 149389 2040 149521
+		Fin
+		Saisie
+			Variable=j2a
+			Rectangle=61 149519 2040 149572
+		Fin
+		Saisie
+			Variable=J2a_raison
+			Rectangle=61 149569 2040 149659
+		Fin
+		Saisie
+			Variable=j2b
+			Rectangle=61 149656 2040 149709
+		Fin
+		Saisie
+			Variable=J2b_raison
+			Rectangle=61 149707 2040 149797
+		Fin
+		Saisie
+			Variable=j2c
+			Rectangle=61 149794 2040 149847
+		Fin
+		Saisie
+			Variable=j2c_raison
+			Rectangle=61 149844 2040 149934
+		Fin
+		Saisie
+			Variable=j2d
+			Rectangle=61 149931 2040 150021
+		Fin
+		Saisie
+			Variable=j2d_raison1
+			Rectangle=61 150019 2040 150109
+		Fin
+		Saisie
+			Variable=j2e
+			Rectangle=61 150106 2040 150159
+		Fin
+		Saisie
+			Variable=j2e_raison
+			Rectangle=61 150156 2040 150246
+		Fin
+		Saisie
+			Variable=j2f
+			Rectangle=61 150244 2040 150334
+		Fin
+		Saisie
+			Variable=j2f_raison
+			Rectangle=61 150331 2040 150421
+		Fin
+		Saisie
+			Variable=j2g
+			Rectangle=61 150418 2040 150471
+		Fin
+		Saisie
+			Variable=j2g_raison
+			Rectangle=61 150469 2040 150559
+		Fin
+		Saisie
+			Variable=j2h
+			Rectangle=61 150556 2040 150609
+		Fin
+		Saisie
+			Variable=j2h_raison
+			Rectangle=61 150606 2040 150696
+		Fin
+		Saisie
+			Variable=j2i
+			Rectangle=61 150693 2040 150746
+		Fin
+		Saisie
+			Variable=j2i_raison
+			Rectangle=61 150744 2040 150834
+		Fin
+		Saisie
+			Variable=j2j
+			Rectangle=61 150831 2040 150884
+		Fin
+		Saisie
+			Variable=j2j_raison
+			Rectangle=61 150881 2040 150971
+		Fin
+		Saisie
+			Variable=j2k
+			Rectangle=61 150969 2040 151022
+		Fin
+		Saisie
+			Variable=j2k_raison
+			Rectangle=61 151019 2040 151109
+		Fin
+		Saisie
+			Variable=j2l
+			Rectangle=61 151106 2040 151159
+		Fin
+		Saisie
+			Variable=j2l_raison
+			Rectangle=61 151156 2040 151246
+		Fin
+		Saisie
+			Variable=j2n
+			Rectangle=61 151244 2040 151297
+		Fin
+		Saisie
+			Variable=j2n_raison
+			Rectangle=61 151294 2040 151384
+		Fin
+		Saisie
+			Variable=j2n1
+			Rectangle=61 151381 2040 151434
+		Fin
+		Saisie
+			Variable=J2n_raison1
+			Rectangle=61 151678 2040 151768
+		Fin
+		Saisie
+			Variable=j2o
+			Rectangle=61 151765 2040 151855
+		Fin
+		Saisie
+			Variable=j2o_raison
+			Rectangle=61 151852 2040 151942
+		Fin
+		Saisie
+			Variable=j2p
+			Rectangle=61 151940 2040 152030
+		Fin
+		Saisie
+			Variable=j2p_raison
+			Rectangle=61 152027 2040 152117
+		Fin
+		Saisie
+			Variable=j2q
+			Rectangle=61 152114 2040 152167
+		Fin
+		Saisie
+			Variable=j2q_raison
+			Rectangle=61 152165 2040 152254
+		Fin
+		Saisie
+			Variable=j2r
+			Rectangle=61 152252 2040 152342
+		Fin
+		Saisie
+			Variable=j2r_raison
+			Rectangle=61 152339 2040 152429
+		Fin
+		Saisie
+			Variable=j2s
+			Rectangle=61 152426 2040 152479
+		Fin
+		Saisie
+			Variable=j2s_raison
+			Rectangle=61 152477 2040 152567
+		Fin
+		Saisie
+			Variable=j2v
+			Rectangle=61 152564 2040 152654
+		Fin
+		Saisie
+			Variable=j2v_raison
+			Rectangle=61 152651 2040 152741
+		Fin
+		Saisie
+			Variable=j2w
+			Rectangle=61 152739 2040 152792
+		Fin
+		Saisie
+			Variable=j2w_raison
+			Rectangle=61 152789 2040 152879
+		Fin
+		Saisie
+			Variable=J3
+			Rectangle=61 152876 2040 153077
+		Fin
+		Saisie
+			Variable=j3_comment
+			Rectangle=61 153075 2040 153186
+		Fin
+		Saisie
+			Variable=J3_pourcentage
+			Rectangle=61 153183 2040 153257
+		Fin
+		Titre
+			Variable=Nom du partenaire 1
+			Rectangle=61 153255 2040 153445
+		Fin
+		Saisie
+			Variable=Nom du partenaire 1
+			Rectangle=61 153442 2040 153554
+		Fin
+		Saisie
+			Variable=J4_financement
+			Rectangle=61 153551 2040 153604
+		Fin
+		Saisie
+			Variable=J4a_montant
+			Rectangle=61 153601 2040 153675
+		Fin
+		Saisie
+			Variable=j4a1
+			Rectangle=61 153673 2040 153726
+		Fin
+		Saisie
+			Variable=J4_financement1
+			Rectangle=61 153723 2040 153797
+		Fin
+		Saisie
+			Variable=Salaire du personnel,
+			Rectangle=61 153794 2040 153847
+		Fin
+		Saisie
+			Variable=j4a3
+			Rectangle=61 153845 2040 153919
+		Fin
+		Saisie
+			Variable=J4_financement3
+			Rectangle=61 153916 2040 153969
+		Fin
+		Saisie
+			Variable=J4a_Nom4
+			Rectangle=61 153966 2040 154040
+		Fin
+		Saisie
+			Variable=j4a4
+			Rectangle=61 154038 2040 154091
+		Fin
+		Saisie
+			Variable=J4_financement4
+			Rectangle=61 154088 2040 154162
+		Fin
+		Saisie
+			Variable=J4a_Nom5
+			Rectangle=61 154159 2040 154212
+		Fin
+		Saisie
+			Variable=j4b1
+			Rectangle=61 154210 2040 154284
+		Fin
+		Saisie
+			Variable=J4b_financement
+			Rectangle=61 154281 2040 154392
+		Fin
+		Saisie
+			Variable=J4b1_Nom1
+			Rectangle=61 154649 2040 154723
+		Fin
+		Saisie
+			Variable=j4b2
+			Rectangle=61 154720 2040 154832
+		Fin
+		Saisie
+			Variable=J4b2_financement
+			Rectangle=61 154829 2040 154882
+		Fin
+		Saisie
+			Variable=J4b2_Nom2
+			Rectangle=61 154879 2040 154953
+		Fin
+		Saisie
+			Variable=j4b7
+			Rectangle=61 154951 2040 155004
+		Fin
+		Saisie
+			Variable=J4b_financement7
+			Rectangle=61 155001 2040 155075
+		Fin
+		Saisie
+			Variable=J4b_Nom8
+			Rectangle=61 155072 2040 155125
+		Fin
+		Saisie
+			Variable=j4b8
+			Rectangle=61 155123 2040 155197
+		Fin
+		Saisie
+			Variable=J4b_financement8
+			Rectangle=61 155194 2040 155247
+		Fin
+		Saisie
+			Variable=J4b_Nom9
+			Rectangle=61 155244 2040 155318
+		Fin
+		Saisie
+			Variable=j4c
+			Rectangle=61 155316 2040 155369
+		Fin
+		Saisie
+			Variable=J4c_financement
+			Rectangle=61 155366 2040 155440
+		Fin
+		Saisie
+			Variable=J4c1_Nom1
+			Rectangle=61 155437 2040 155490
+		Fin
+		Saisie
+			Variable=j4c2
+			Rectangle=61 155488 2040 155562
+		Fin
+		Saisie
+			Variable=J4c2_financement
+			Rectangle=61 155559 2040 155670
+		Fin
+		Saisie
+			Variable=J4c2_Nom2
+			Rectangle=61 155668 2040 155742
+		Fin
+		Saisie
+			Variable=j4c9
+			Rectangle=61 155739 2040 155850
+		Fin
+		Saisie
+			Variable=J4c_financement1
+			Rectangle=61 155848 2040 155900
+		Fin
+		Saisie
+			Variable=J4b_Nom3
+			Rectangle=61 155898 2040 155972
+		Fin
+		Saisie
+			Variable=j4c10
+			Rectangle=61 155969 2040 156022
+		Fin
+		Saisie
+			Variable=J4c_financement2
+			Rectangle=61 156020 2040 156094
+		Fin
+		Saisie
+			Variable=J4c_Nom4
+			Rectangle=61 156091 2040 156144
+		Fin
+		Saisie
+			Variable=j4d
+			Rectangle=61 156141 2040 156215
+		Fin
+		Saisie
+			Variable=J4d_financement
+			Rectangle=61 156213 2040 156266
+		Fin
+		Saisie
+			Variable=J4d1_Nom1
+			Rectangle=61 156263 2040 156337
+		Fin
+		Saisie
+			Variable=Formation du personnel?
+			Rectangle=61 156334 2040 156387
+		Fin
+		Saisie
+			Variable=J4d2_financement1
+			Rectangle=61 156385 2040 156459
+		Fin
+		Saisie
+			Variable=J4d2_Nom2
+			Rectangle=61 156456 2040 156509
+		Fin
+		Saisie
+			Variable=j4d11
+			Rectangle=61 156506 2040 156580
+		Fin
+		Saisie
+			Variable=J4d_financement1
+			Rectangle=61 156578 2040 156689
+		Fin
+		Saisie
+			Variable=J4d_Nom3
+			Rectangle=61 156686 2040 156797
+		Fin
+		Saisie
+			Variable=j4d12
+			Rectangle=61 156795 2040 156848
+		Fin
+		Saisie
+			Variable=J4d_financement2
+			Rectangle=61 156845 2040 156919
+		Fin
+		Saisie
+			Variable=J4d_Nom4
+			Rectangle=61 156916 2040 156969
+		Fin
+		Saisie
+			Variable=j4e
+			Rectangle=61 156967 2040 157041
+		Fin
+		Saisie
+			Variable=J4e_financement
+			Rectangle=61 157038 2040 157091
+		Fin
+		Saisie
+			Variable=J4e_Nom1
+			Rectangle=61 157088 2040 157163
+		Fin
+		Saisie
+			Variable=j4e1
+			Rectangle=61 157160 2040 157213
+		Fin
+		Saisie
+			Variable=J4e_financement1
+			Rectangle=61 157210 2040 157284
+		Fin
+		Saisie
+			Variable=J4e_Nom2
+			Rectangle=61 157282 2040 157334
+		Fin
+		Saisie
+			Variable=j4e13
+			Rectangle=61 157332 2040 157406
+		Fin
+		Saisie
+			Variable=J4e_financement2
+			Rectangle=61 157620 2040 157673
+		Fin
+		Saisie
+			Variable=J4e_Nom
+			Rectangle=61 157671 2040 157745
+		Fin
+		Saisie
+			Variable=J4e_financement3
+			Rectangle=61 157742 2040 157853
+		Fin
+		Saisie
+			Variable=J4e_Nom3
+			Rectangle=61 157850 2040 157925
+		Fin
+		Titre
+			Variable=J5
+			Rectangle=61 157922 2040 157996
+		Fin
+		Saisie
+			Variable=J5
+			Rectangle=61 157993 2040 158046
+		Fin
+		Saisie
+			Variable=j5a
+			Rectangle=61 158044 2040 158134
+		Fin
+		Saisie
+			Variable=J5_Commentaires
+			Rectangle=61 158131 2040 158242
+		Fin
+		Saisie
+			Variable=j5b
+			Rectangle=61 158239 2040 158313
+		Fin
+		Saisie
+			Variable=J5b_Commentaires
+			Rectangle=61 158311 2040 158422
+		Fin
+		Saisie
+			Variable=j5c
+			Rectangle=61 158419 2040 158493
+		Fin
+		Saisie
+			Variable=J5c_Commentaires
+			Rectangle=61 158491 2040 158602
+		Fin
+		Saisie
+			Variable=j5d
+			Rectangle=61 158599 2040 158689
+		Fin
+		Saisie
+			Variable=J5d_Commentaires
+			Rectangle=61 158687 2040 158761
+		Fin
+		Saisie
+			Variable=j5f
+			Rectangle=61 158758 2040 158832
+		Fin
+		Saisie
+			Variable=J5f_Commentaires
+			Rectangle=61 158829 2040 158941
+		Fin
+		Saisie
+			Variable=j5f1
+			Rectangle=61 158938 2040 159012
+		Fin
+		Saisie
+			Variable=J5f_Commentaires1
+			Rectangle=61 159009 2040 159120
+		Fin
+		Saisie
+			Variable=j5g
+			Rectangle=61 159118 2040 159192
+		Fin
+		Saisie
+			Variable=J5g_Commentaires
+			Rectangle=61 159189 2040 159300
+		Fin
+		Saisie
+			Variable=j5h
+			Rectangle=61 159298 2040 159372
+		Fin
+		Saisie
+			Variable=j5h_Commentaires
+			Rectangle=61 159369 2040 159480
+		Fin
+		Saisie
+			Variable=j5i
+			Rectangle=61 159478 2040 159552
+		Fin
+		Saisie
+			Variable=j5i_Commentaires
+			Rectangle=61 159549 2040 159660
+		Fin
+		Saisie
+			Variable=j5j
+			Rectangle=61 159658 2040 159732
+		Fin
+		Saisie
+			Variable=j5j_Commentaires
+			Rectangle=61 159729 2040 159840
+		Fin
+		Saisie
+			Variable=j5k
+			Rectangle=61 159837 2040 159912
+		Fin
+		Saisie
+			Variable=J5k_Commentaires
+			Rectangle=61 159909 2040 160020
+		Fin
+		Saisie
+			Variable=j5l
+			Rectangle=61 160017 2040 160091
+		Fin
+		Saisie
+			Variable=j5l_Commentaires
+			Rectangle=61 160089 2040 160200
+		Fin
+		Saisie
+			Variable=j5m
+			Rectangle=61 160197 2040 160271
+		Fin
+		Saisie
+			Variable=j5m_Commentaires
+			Rectangle=61 160269 2040 160380
+		Fin
+		Saisie
+			Variable=j5n
+			Rectangle=61 160592 2040 160666
+		Fin
+		Saisie
+			Variable=j5n_Commentaires
+			Rectangle=61 160663 2040 160774
+		Fin
+		Saisie
+			Variable=j5o
+			Rectangle=61 160771 2040 160861
+		Fin
+		Saisie
+			Variable=j5o_Commentaires
+			Rectangle=61 160859 2040 160970
+		Fin
+		Saisie
+			Variable=j5p
+			Rectangle=61 160967 2040 161057
+		Fin
+		Saisie
+			Variable=j5p_Commentaires
+			Rectangle=61 161055 2040 161166
+		Fin
+		Saisie
+			Variable=j5q
+			Rectangle=61 161163 2040 161237
+		Fin
+		Saisie
+			Variable=j5q_Commentaires
+			Rectangle=61 161234 2040 161346
+		Fin
+		Saisie
+			Variable=j5r
+			Rectangle=61 161343 2040 161433
+		Fin
+		Saisie
+			Variable=j5r_Commentaires
+			Rectangle=61 161430 2040 161541
+		Fin
+		Saisie
+			Variable=j5s
+			Rectangle=61 161539 2040 161613
+		Fin
+		Saisie
+			Variable=j5s_Commentaires
+			Rectangle=61 161610 2040 161721
+		Fin
+		Saisie
+			Variable=j5t
+			Rectangle=61 161719 2040 161809
+		Fin
+		Saisie
+			Variable=j5t_Commentaires
+			Rectangle=61 161806 2040 161917
+		Fin
+		Saisie
+			Variable=j5v
+			Rectangle=61 161914 2040 161989
+		Fin
+		Saisie
+			Variable=j5v_Commentaires
+			Rectangle=61 161986 2040 162097
+		Fin
+		Saisie
+			Variable=j5w
+			Rectangle=61 162094 2040 162168
+		Fin
+		Saisie
+			Variable=j5w_Commentaires
+			Rectangle=61 162166 2040 162277
+		Fin
+		Titre
+			Variable=J6a
+			Rectangle=61 162274 2040 162348
+		Fin
+		Saisie
+			Variable=J6a
+			Rectangle=61 162346 2040 162399
+		Fin
+		Saisie
+			Variable=J6a_Commentaires
+			Rectangle=61 162396 2040 162507
+		Fin
+		Saisie
+			Variable=J6b
+			Rectangle=61 162504 2040 162557
+		Fin
+		Saisie
+			Variable=J6b_Commentaires
+			Rectangle=61 162555 2040 162666
+		Fin
+		Saisie
+			Variable=J6c
+			Rectangle=61 162663 2040 162716
+		Fin
+		Saisie
+			Variable=J6c_Commentaires
+			Rectangle=61 162713 2040 162825
+		Fin
+		Saisie
+			Variable=J6d
+			Rectangle=61 162822 2040 162875
+		Fin
+		Saisie
+			Variable=J5d_Commentaires1
+			Rectangle=61 162872 2040 162983
+		Fin
+		Saisie
+			Variable=J6e
+			Rectangle=61 162981 2040 163034
+		Fin
+		Saisie
+			Variable=J6e_Commentaires
+			Rectangle=61 163031 2040 163142
+		Fin
+		Titre
+			Variable=J7a
+			Rectangle=61 163139 2040 163214
+		Fin
+		Saisie
+			Variable=J7a
+			Rectangle=61 163211 2040 163264
+		Fin
+		Saisie
+			Variable=J7a_Commentaires
+			Rectangle=61 163563 2040 163674
+		Fin
+		Saisie
+			Variable=J7b
+			Rectangle=61 163671 2040 163724
+		Fin
+		Saisie
+			Variable=J7b_Commentaires
+			Rectangle=61 163722 2040 163833
+		Fin
+		Saisie
+			Variable=J7c
+			Rectangle=61 163830 2040 163941
+		Fin
+		Saisie
+			Variable=J7c_Commentaires
+			Rectangle=61 163938 2040 164050
+		Fin
+		Titre
+			Variable=J8a
+			Rectangle=61 164047 2040 164179
+		Fin
+		Saisie
+			Variable=J8a
+			Rectangle=61 164177 2040 164230
+		Fin
+		Saisie
+			Variable=J8a_recette
+			Rectangle=61 164227 2040 164301
+		Fin
+		Saisie
+			Variable=J8a_Commentaire
+			Rectangle=61 164298 2040 164409
+		Fin
+		Saisie
+			Variable=J8b
+			Rectangle=61 164407 2040 164460
+		Fin
+		Saisie
+			Variable=J8b_recette
+			Rectangle=61 164457 2040 164531
+		Fin
+		Saisie
+			Variable=J8b_Commentaire
+			Rectangle=61 164529 2040 164640
+		Fin
+		Saisie
+			Variable=J8c
+			Rectangle=61 164637 2040 164690
+		Fin
+		Saisie
+			Variable=J8c_recette
+			Rectangle=61 164687 2040 164761
+		Fin
+		Saisie
+			Variable=J8c_Commentaire
+			Rectangle=61 164759 2040 164870
+		Fin
+		Saisie
+			Variable=J8d
+			Rectangle=61 164867 2040 164978
+		Fin
+		Saisie
+			Variable=J8d_recette
+			Rectangle=61 164976 2040 165050
+		Fin
+		Saisie
+			Variable=J8d_Commentaire
+			Rectangle=61 165047 2040 165158
+		Fin
+		Saisie
+			Variable=J9
+			Rectangle=61 165156 2040 165246
+		Fin
+		Saisie
+			Variable=Pour quelles raisons?
+			Rectangle=61 165243 2040 165354
+		Fin
+		Titre
+			Variable=K1
+			Rectangle=61 165351 2040 165425
+		Fin
+		Saisie
+			Variable=K1
+			Rectangle=61 165423 2040 165587
+		Fin
+		Saisie
+			Variable=K1_Commentaires
+			Rectangle=61 165584 2040 165695
+		Fin
+		Saisie
+			Variable=K2
+			Rectangle=61 165693 2040 165804
+		Fin
+		Titre
+			Variable=K3a
+			Rectangle=61 165801 2040 165933
+		Fin
+		Saisie
+			Variable=K3a
+			Rectangle=61 165931 2040 165984
+		Fin
+		Saisie
+			Variable=k3_Commentaires
+			Rectangle=61 165981 2040 166092
+		Fin
+		Saisie
+			Variable=K3b
+			Rectangle=61 166090 2040 166142
+		Fin
+		Saisie
+			Variable=k3b_Commentaires
+			Rectangle=61 166140 2040 166251
+		Fin
+		Saisie
+			Variable=K3c
+			Rectangle=61 166248 2040 166301
+		Fin
+		Saisie
+			Variable=k3c_Commentaires
+			Rectangle=61 166534 2040 166645
+		Fin
+		Saisie
+			Variable=K3d
+			Rectangle=61 166643 2040 166695
+		Fin
+		Saisie
+			Variable=k3c_Commentaires1
+			Rectangle=61 166693 2040 166804
+		Fin
+		Saisie
+			Variable=K3e
+			Rectangle=61 166801 2040 166854
+		Fin
+		Saisie
+			Variable=k3e_Commentaires
+			Rectangle=61 166852 2040 166963
+		Fin
+		Saisie
+			Variable=K3f
+			Rectangle=61 166960 2040 167071
+		Fin
+		Saisie
+			Variable=k3f_Commentaires
+			Rectangle=61 167069 2040 167180
+		Fin
+		Saisie
+			Variable=K4
+			Rectangle=61 167177 2040 167230
+		Fin
+		Saisie
+			Variable=K4_Commantaire
+			Rectangle=61 167227 2040 167338
+		Fin
+		Saisie
+			Variable=K5
+			Rectangle=61 167336 2040 167447
+		Fin
+		Saisie
+			Variable=K6
+			Rectangle=61 167444 2040 167497
+		Fin
+		Saisie
+			Variable=K6_Commentaires
+			Rectangle=61 167494 2040 167606
+		Fin
+		Titre
+			Variable=K7a
+			Rectangle=61 167603 2040 167677
+		Fin
+		Saisie
+			Variable=K7a
+			Rectangle=61 167674 2040 167727
+		Fin
+		Saisie
+			Variable=K7_Commentaire
+			Rectangle=61 167725 2040 167836
+		Fin
+		Saisie
+			Variable=K7b
+			Rectangle=61 167833 2040 167886
+		Fin
+		Saisie
+			Variable=K7b_Commentaire
+			Rectangle=61 167883 2040 167995
+		Fin
+		Saisie
+			Variable=K7c
+			Rectangle=61 167992 2040 168045
+		Fin
+		Saisie
+			Variable=K7c_Commentaire
+			Rectangle=61 168042 2040 168153
+		Fin
+		Saisie
+			Variable=K7d
+			Rectangle=61 168151 2040 168204
+		Fin
+		Saisie
+			Variable=K7d_Commentaire
+			Rectangle=61 168201 2040 168312
+		Fin
+		Saisie
+			Variable=K7e
+			Rectangle=61 168309 2040 168362
+		Fin
+		Saisie
+			Variable=K7e_Commentaire
+			Rectangle=61 168360 2040 168471
+		Fin
+		Saisie
+			Variable=K7f
+			Rectangle=61 168468 2040 168521
+		Fin
+		Saisie
+			Variable=K7f_Commentaire
+			Rectangle=61 168518 2040 168630
+		Fin
+		Saisie
+			Variable=K7g
+			Rectangle=61 168627 2040 168738
+		Fin
+		Saisie
+			Variable=K7g_Commentaire
+			Rectangle=61 168735 2040 168847
+		Fin
+		Saisie
+			Variable=k8
+			Rectangle=61 168844 2040 168971
+		Fin
+		Saisie
+			Variable=K8_outils
+			Rectangle=61 168968 2040 169079
+		Fin
+		Titre
+			Variable=L1
+			Rectangle=61 169077 2040 169151
+		Fin
+		Saisie
+			Variable=L1
+			Rectangle=61 169148 2040 169238
+		Fin
+		Saisie
+			Variable=L1_Commentaires
+			Rectangle=61 169505 2040 169616
+		Fin
+		Saisie
+			Variable=Si oui, à quelle fréquence?
+			Rectangle=61 169614 2040 169725
+		Fin
+		Titre
+			Variable=L3a
+			Rectangle=61 169722 2040 169796
+		Fin
+		Saisie
+			Variable=L3a
+			Rectangle=61 169794 2040 169847
+		Fin
+		Saisie
+			Variable=L3_Commentaires
+			Rectangle=61 169844 2040 169955
+		Fin
+		Saisie
+			Variable=L3b
+			Rectangle=61 169952 2040 170005
+		Fin
+		Saisie
+			Variable=L3b_Commentaires
+			Rectangle=61 170003 2040 170114
+		Fin
+		Saisie
+			Variable=L3c
+			Rectangle=61 170111 2040 170164
+		Fin
+		Saisie
+			Variable=L3c_Commentaires
+			Rectangle=61 170161 2040 170273
+		Fin
+		Saisie
+			Variable=L3d
+			Rectangle=61 170270 2040 170323
+		Fin
+		Saisie
+			Variable=L3d_Commentaires
+			Rectangle=61 170320 2040 170431
+		Fin
+		Saisie
+			Variable=L3e
+			Rectangle=61 170429 2040 170482
+		Fin
+		Saisie
+			Variable=L3e_Commentaires
+			Rectangle=61 170479 2040 170590
+		Fin
+		Saisie
+			Variable=L3f
+			Rectangle=61 170587 2040 170640
+		Fin
+		Saisie
+			Variable=L3f_Commentaires
+			Rectangle=61 170638 2040 170749
+		Fin
+		Saisie
+			Variable=L3g
+			Rectangle=61 170746 2040 170836
+		Fin
+		Saisie
+			Variable=L3g_Commentaires
+			Rectangle=61 170834 2040 170945
+		Fin
+		Saisie
+			Variable=L3h
+			Rectangle=61 170942 2040 170995
+		Fin
+		Saisie
+			Variable=L3h_Commentaires
+			Rectangle=61 170992 2040 171103
+		Fin
+		Saisie
+			Variable=L3i
+			Rectangle=61 171101 2040 171154
+		Fin
+		Saisie
+			Variable=L3i_Commentaires
+			Rectangle=61 171151 2040 171262
+		Fin
+		Saisie
+			Variable=L4
+			Rectangle=61 171260 2040 171312
+		Fin
+		Saisie
+			Variable=L4_sinon
+			Rectangle=61 171310 2040 171421
+		Fin
+		Saisie
+			Variable=L5
+			Rectangle=61 171418 2040 171508
+		Fin
+		Saisie
+			Variable=L5_description
+			Rectangle=61 171506 2040 171617
+		Fin
+		Saisie
+			Variable=L6
+			Rectangle=61 171614 2040 171725
+		Fin
+		Saisie
+			Variable=L6a
+			Rectangle=61 171723 2040 171775
+		Fin
+		Saisie
+			Variable=L6a_commentaire
+			Rectangle=61 171773 2040 171884
+		Fin
+		Saisie
+			Variable=L6b
+			Rectangle=61 171881 2040 171934
+		Fin
+		Saisie
+			Variable=L6b_commentaire
+			Rectangle=61 171932 2040 172043
+		Fin
+		Saisie
+			Variable=L6c
+			Rectangle=61 172040 2040 172093
+		Fin
+		Saisie
+			Variable=L6c_commentaire
+			Rectangle=61 172090 2040 172201
+		Fin
+		Saisie
+			Variable=L6d
+			Rectangle=61 172199 2040 172252
+		Fin
+		Saisie
+			Variable=L6d_commentaire
+			Rectangle=61 172477 2040 172588
+		Fin
+		Saisie
+			Variable=L6e
+			Rectangle=61 172585 2040 172638
+		Fin
+		Saisie
+			Variable=L6e_commentaire
+			Rectangle=61 172635 2040 172746
+		Fin
+		Saisie
+			Variable=L6f
+			Rectangle=61 172744 2040 172855
+		Fin
+		Saisie
+			Variable=L6f_commentaire
+			Rectangle=61 172852 2040 172963
+		Fin
+		Saisie
+			Variable=L7
+			Rectangle=61 172961 2040 173088
+		Fin
+		Saisie
+			Variable=L7_Commentaires
+			Rectangle=61 173085 2040 173196
+		Fin
+		Légende
+			Masque=1
+			TexteFR=[Titre de l'étude]
+			TexteEN=[Titre de l'étude]
+			Rectangle=61 61 2037 140
+			Bord=0 1 0
+			Police=Arial 16 0 1 0 16777215
+		Fin
+	Fin
+Fin

@@ -1,0 +1,738 @@
+Version=5.0.0.82
+Données=C:\Users\BIGMARKET 2\Desktop\Source questionnaire\Questionnaire n°10\Questionnaire n°10.que
+Paramètres=
+Enquête=
+ID=
+Décimales=2 1
+Statistiques
+	SeuilsFF=5 1 5 15
+	SeuilsFN=5 1 5 15
+	SeuilsNN=0.6 0.8 0.6 0.4
+	CalculsStricts=0 30 20
+	PrincipauxElements=0 10 0 3
+	CasesSignificatives=60 95
+Fin
+Publication
+	Etude=
+	Accès=-1
+	Lien
+		Type=confirm
+	Fin
+Fin
+Vues
+	Actif=-1 0
+	FormulairePapier
+		Nom=Formulaire papier n°1
+		Taille=9 2100 2970 1 82 0 0
+		Marges=26 26 26 26
+		Zoom=-2 50
+		Fond=0 16777215
+		Barre=0
+		Progresion=1
+		Placement=2 1 0 0 1 1 0
+		Organisation=0 3 50 50 0
+		FormatAuto=0 0 0 0 0 256 33554433
+		Options=2 2 0 0 0 0 1 0 0 0 1 0
+		Rectangle=0 0 0 0
+		Style=Style vis à vis
+		StyleFormes
+			Bord=0 1 0
+			Fond=12632256
+		Fin
+		StyleLégendes
+			Bord=1 1 0
+			Police=Arial 16 0 1 0 16751052
+			StyleLien=0
+		Fin
+		StyleTitres
+			Bord=0 0 12632256
+			Police1=Arial 14 1 0 0 -1
+			Police2=Arial 10 2 0 0 -1
+			Affichage=1 0
+		Fin
+		StyleVariables
+			Bord=4 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 12632256
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 0 0 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=10 1 1 0 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleNoeuds
+			Variable=0 
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65280
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=0 0 0 0 0 1 0 0
+			Alignement=1
+			Règles
+				Options=1 0 1 0
+				ON=0 0 6 3 100 4
+				OT=0 0 0
+				OC=0 0 0
+				OD=1 2
+				Simplifier=3 0 0 50
+			Fin
+			Valeurs=0 1 0 0 1 1 0 0 0 0 0 25 75 1 1 0 0 0
+			Item=0 
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0 0 0
+				Affichage=1 1 0 0 1 0
+				Risque=85
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				Nominale=1 0 1 1 0
+				Numérique=4 1 1 0 1
+			Fin
+		Fin
+		StyleGroupes
+			Bord=3 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 1 0 0 0 0 0
+			Alignement=1
+			Valeurs=0 0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0
+				FF=1 0 0 0 1
+				FN=1 1 1 1 1 1 0 0 0 0 0
+				NN=1 1 1 1 1 0 0 0 0
+			Fin
+			Graphique
+				Type=3
+				Options=1 0 0 0 1
+				Taille=0 300 0 0 0 0 0
+				Couleurs=0 0
+				FF=1 0 0 1 1 0
+				FN=1 1 1 1
+				NN=1 0 1 0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleTableauCaractéristiques
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 16776960
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 1 0 1 0 0 0 1 0
+			Alignement=1
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=5
+				Options=0 5 5 1
+				Cellules=1 0 0
+			Fin
+			Graphique
+				Type=1
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 20 0 0
+					Variables=1 10 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleComposés
+			Bord=1 1 0
+			Police1=Arial 8 0 0 0 16777215
+			Police2=Arial 8 1 1 0 65535
+			Police3=Arial 8 0 0 0 16777215
+			Police4=Arial 8 0 0 0 16777215
+			Police5=Arial 8 0 0 16777215
+			Affichage=1 0 0 0 0
+			Alignement=1
+			Valeurs=0
+			Formats
+			Fin
+			Tableau
+				LargeurColonnes=
+				Tronquer=0
+				Options=0 0
+			Fin
+			Graphique
+				Options=1 0 0 0 1
+				Taille=0 300 0 300 0 0 0
+				Couleurs=0 0
+				Affichage=3 1 0 1 1
+				Carte
+					Options=0 1 1 1 1 0 0 1 1 0
+					Axe=0 1 0
+					Modalités=3 50 0 1 0 1 0 0 1
+					Observations=2 10 0 0
+					Variables=1 20 0 0 0
+				Fin
+			Fin
+		Fin
+		StyleRelations
+			Ligne=0 0 0
+			Bord=4 0 0
+			Police=Arial 8 0 1 0 16777215
+			Valeurs=0 0 0 3 0
+		Fin
+		StyleSaisies
+			Bord=1 0 12632256
+			Police1=Arial 8 2 0 0 16777215
+			Police2=Arial 8 1 0 0 15466495
+			Police3=Arial 8 0 0 0 16577773 16577773
+			Police4=Arial 8 0 0 16711680
+			Affichage=1 1 0 1 1 0 0
+			Alignement=0
+			Taille=1 900 0 500
+			Pictogrammes=
+			Nominale=0 0 0 0 2 2 12 0 16777215
+			Ouverte=2 0 1
+			Options=0 0 0
+		Fin
+		StyleMultimédias
+			Bord=1 1 0
+		Fin
+		StyleExternes
+			Bord=1 1 0
+			Police=Arial 8 0 0 0 -1
+			Affichage=0
+		Fin
+		StyleOLEs
+			Bord=1 1 0
+		Fin
+		Légende
+			Masque=1
+			TexteFR=[Titre de l'étude]
+			TexteEN=[Titre de l'étude]
+			Rectangle=61 61 2037 140
+			Bord=0 1 0
+			Police=Arial 16 0 1 0 16777215
+		Fin
+		Saisie
+			Variable=pays
+			Rectangle=61 143 2040 254
+		Fin
+		Saisie
+			Variable=Adresse
+			Rectangle=61 251 2040 362
+		Fin
+		Saisie
+			Variable=Tél
+			Rectangle=61 360 2040 471
+		Fin
+		Saisie
+			Variable=Directeur
+			Rectangle=61 468 2040 579
+		Fin
+		Titre
+			Variable=Nom1
+			Rectangle=61 577 2040 651
+		Fin
+		Saisie
+			Variable=Nom1
+			Rectangle=61 648 2040 759
+		Fin
+		Saisie
+			Variable=qualification 1
+			Rectangle=61 757 2040 868
+		Fin
+		Saisie
+			Variable=Tél1
+			Rectangle=61 865 2040 976
+		Fin
+		Saisie
+			Variable=Nom2
+			Rectangle=61 974 2040 1085
+		Fin
+		Saisie
+			Variable=qualification 2
+			Rectangle=61 1082 2040 1193
+		Fin
+		Saisie
+			Variable=Tél2
+			Rectangle=61 1191 2040 1302
+		Fin
+		Titre
+			Variable=Date_1
+			Rectangle=61 1299 2040 1373
+		Fin
+		Saisie
+			Variable=Date_1
+			Rectangle=61 1371 2040 1482
+		Fin
+		Saisie
+			Variable=Nom3
+			Rectangle=61 1479 2040 1590
+		Fin
+		Saisie
+			Variable=qualification1
+			Rectangle=61 1588 2040 1699
+		Fin
+		Saisie
+			Variable=Tél3
+			Rectangle=61 1696 2040 1807
+		Fin
+		Saisie
+			Variable=Date_2
+			Rectangle=61 1804 2040 1916
+		Fin
+		Saisie
+			Variable=Nom4
+			Rectangle=61 1913 2040 2024
+		Fin
+		Saisie
+			Variable=qualification2
+			Rectangle=61 2021 2040 2133
+		Fin
+		Saisie
+			Variable=Tél4
+			Rectangle=61 2130 2040 2241
+		Fin
+		Saisie
+			Variable=Date_3
+			Rectangle=61 2238 2040 2350
+		Fin
+		Saisie
+			Variable=Nom5
+			Rectangle=61 2347 2040 2458
+		Fin
+		Saisie
+			Variable=qualification3
+			Rectangle=61 2455 2040 2566
+		Fin
+		Saisie
+			Variable=Tél5
+			Rectangle=61 2564 2040 2675
+		Fin
+		Titre
+			Variable=Montant 2011
+			Rectangle=61 2744 2040 2818
+		Fin
+		Titre
+			Variable=Montant 2011
+			Indice=1
+			Rectangle=61 2672 2040 2746
+		Fin
+		Saisie
+			Variable=Montant 2011
+			Rectangle=61 2815 2040 2889
+		Fin
+		Saisie
+			Variable=Montant 2012
+			Rectangle=61 3114 2040 3188
+		Fin
+		Saisie
+			Variable=Montant 2013
+			Rectangle=61 3186 2040 3260
+		Fin
+		Saisie
+			Variable=Montant 2014
+			Rectangle=61 3257 2040 3331
+		Fin
+		Saisie
+			Variable=Montant 2015
+			Rectangle=61 3328 2040 3403
+		Fin
+		Titre
+			Variable=2011Montant_50
+			Rectangle=61 3543 2040 3617
+		Fin
+		Titre
+			Variable=2011Montant_50
+			Indice=1
+			Rectangle=61 3471 2040 3545
+		Fin
+		Titre
+			Variable=2011Montant_50
+			Indice=2
+			Rectangle=61 3400 2040 3474
+		Fin
+		Saisie
+			Variable=2011Montant_50
+			Rectangle=61 3614 2040 3688
+		Fin
+		Saisie
+			Variable=2011Exportation_61
+			Rectangle=61 3686 2040 3760
+		Fin
+		Titre
+			Variable=2011Montant_61
+			Rectangle=61 3757 2040 3831
+		Fin
+		Saisie
+			Variable=2011Montant_61
+			Rectangle=61 3829 2040 3903
+		Fin
+		Saisie
+			Variable=2011Exportation_62
+			Rectangle=61 3900 2040 3974
+		Fin
+		Titre
+			Variable=2011Montant_71
+			Rectangle=61 3971 2040 4045
+		Fin
+		Saisie
+			Variable=2011Montant_71
+			Rectangle=61 4043 2040 4117
+		Fin
+		Saisie
+			Variable=Exportation_71
+			Rectangle=61 4114 2040 4188
+		Fin
+		Titre
+			Variable=2011Montant_81
+			Rectangle=61 4186 2040 4260
+		Fin
+		Saisie
+			Variable=2011Montant_81
+			Rectangle=61 4257 2040 4331
+		Fin
+		Saisie
+			Variable=2011Exportation_81
+			Rectangle=61 4329 2040 4403
+		Fin
+		Titre
+			Variable=2011Montant_90
+			Rectangle=61 4400 2040 4474
+		Fin
+		Saisie
+			Variable=2011Montant_90
+			Rectangle=61 4471 2040 4546
+		Fin
+		Saisie
+			Variable=2011Exportation_90
+			Rectangle=61 4543 2040 4617
+		Fin
+		Titre
+			Variable=2012Montant_50
+			Rectangle=61 4686 2040 4760
+		Fin
+		Titre
+			Variable=2012Montant_50
+			Indice=1
+			Rectangle=61 4614 2040 4688
+		Fin
+		Saisie
+			Variable=2012Montant_50
+			Rectangle=61 4757 2040 4831
+		Fin
+		Saisie
+			Variable=2012Exportation_50
+			Rectangle=61 4829 2040 4903
+		Fin
+		Titre
+			Variable=2012Montant_61
+			Rectangle=61 4900 2040 4974
+		Fin
+		Saisie
+			Variable=2012Montant_61
+			Rectangle=61 4972 2040 5046
+		Fin
+		Saisie
+			Variable=2012Exportation_61
+			Rectangle=61 5043 2040 5117
+		Fin
+		Titre
+			Variable=2012Montant_71
+			Rectangle=61 5114 2040 5188
+		Fin
+		Saisie
+			Variable=2012Montant_71
+			Rectangle=61 5186 2040 5260
+		Fin
+		Saisie
+			Variable=2012Exportation_71
+			Rectangle=61 5257 2040 5331
+		Fin
+		Titre
+			Variable=2012Montant_81
+			Rectangle=61 5329 2040 5403
+		Fin
+		Saisie
+			Variable=2012Montant_81
+			Rectangle=61 5400 2040 5474
+		Fin
+		Saisie
+			Variable=2012Exportation_81
+			Rectangle=61 5472 2040 5546
+		Fin
+		Titre
+			Variable=2012Montant_90
+			Rectangle=61 5543 2040 5617
+		Fin
+		Saisie
+			Variable=2012Montant_90
+			Rectangle=61 5614 2040 5689
+		Fin
+		Saisie
+			Variable=2012Exportation_90
+			Rectangle=61 5686 2040 5760
+		Fin
+		Titre
+			Variable=2013Montant_50
+			Rectangle=61 6085 2040 6160
+		Fin
+		Titre
+			Variable=2013Montant_50
+			Indice=1
+			Rectangle=61 5757 2040 5831
+		Fin
+		Saisie
+			Variable=2013Montant_50
+			Rectangle=61 6157 2040 6231
+		Fin
+		Saisie
+			Variable=2013Exportation_60
+			Rectangle=61 6228 2040 6302
+		Fin
+		Titre
+			Variable=2013Montant_61
+			Rectangle=61 6300 2040 6374
+		Fin
+		Saisie
+			Variable=2013Montant_61
+			Rectangle=61 6371 2040 6445
+		Fin
+		Saisie
+			Variable=2013Exportation_61
+			Rectangle=61 6443 2040 6517
+		Fin
+		Titre
+			Variable=2013Montant_71
+			Rectangle=61 6514 2040 6588
+		Fin
+		Saisie
+			Variable=2013Montant_71
+			Rectangle=61 6585 2040 6660
+		Fin
+		Saisie
+			Variable=2013Exportation_71
+			Rectangle=61 6657 2040 6731
+		Fin
+		Titre
+			Variable=2013Montant_81
+			Rectangle=61 6728 2040 6802
+		Fin
+		Saisie
+			Variable=2013Montant_81
+			Rectangle=61 6800 2040 6874
+		Fin
+		Saisie
+			Variable=2013Exportation_81
+			Rectangle=61 6871 2040 6945
+		Fin
+		Titre
+			Variable=2013Montant_90
+			Rectangle=61 6943 2040 7017
+		Fin
+		Saisie
+			Variable=2013Montant_90
+			Rectangle=61 7014 2040 7088
+		Fin
+		Saisie
+			Variable=2013Exportation_90
+			Rectangle=61 7086 2040 7160
+		Fin
+		Titre
+			Variable=2014Montant_50
+			Rectangle=61 7228 2040 7303
+		Fin
+		Titre
+			Variable=2014Montant_50
+			Indice=1
+			Rectangle=61 7157 2040 7231
+		Fin
+		Saisie
+			Variable=2014Montant_50
+			Rectangle=61 7300 2040 7374
+		Fin
+		Saisie
+			Variable=2014Exportation_50
+			Rectangle=61 7371 2040 7445
+		Fin
+		Titre
+			Variable=2014Montant_60
+			Rectangle=61 7443 2040 7517
+		Fin
+		Saisie
+			Variable=2014Montant_60
+			Rectangle=61 7514 2040 7588
+		Fin
+		Saisie
+			Variable=2014Exportation_61
+			Rectangle=61 7586 2040 7660
+		Fin
+		Titre
+			Variable=2014Montant_71
+			Rectangle=61 7657 2040 7731
+		Fin
+		Saisie
+			Variable=2014Montant_71
+			Rectangle=61 7728 2040 7803
+		Fin
+		Saisie
+			Variable=2014Exportation_71
+			Rectangle=61 7800 2040 7874
+		Fin
+		Titre
+			Variable=2014Montant_81
+			Rectangle=61 7871 2040 7945
+		Fin
+		Saisie
+			Variable=2014Montant_81
+			Rectangle=61 7943 2040 8017
+		Fin
+		Saisie
+			Variable=2014Exportation_81
+			Rectangle=61 8014 2040 8088
+		Fin
+		Titre
+			Variable=2014Montant_90
+			Rectangle=61 8086 2040 8160
+		Fin
+		Saisie
+			Variable=2014Montant_90
+			Rectangle=61 8157 2040 8231
+		Fin
+		Saisie
+			Variable=2014Exportation_90
+			Rectangle=61 8229 2040 8303
+		Fin
+		Titre
+			Variable=2015Montant_50
+			Rectangle=61 8371 2040 8446
+		Fin
+		Titre
+			Variable=2015Montant_50
+			Indice=1
+			Rectangle=61 8300 2040 8374
+		Fin
+		Saisie
+			Variable=2015Montant_50
+			Rectangle=61 8443 2040 8517
+		Fin
+		Saisie
+			Variable=2015Exportation_50
+			Rectangle=61 8514 2040 8588
+		Fin
+		Titre
+			Variable=2015Montant_61
+			Rectangle=61 8586 2040 8660
+		Fin
+		Saisie
+			Variable=2015Montant_61
+			Rectangle=61 8657 2040 8731
+		Fin
+		Saisie
+			Variable=2015Exportation_61
+			Rectangle=61 8729 2040 8803
+		Fin
+		Titre
+			Variable=2015Montant_71
+			Rectangle=61 9057 2040 9131
+		Fin
+		Saisie
+			Variable=2015Montant_71
+			Rectangle=61 9128 2040 9202
+		Fin
+		Saisie
+			Variable=2015Exportation_71
+			Rectangle=61 9200 2040 9274
+		Fin
+		Titre
+			Variable=2015Montant_81
+			Rectangle=61 9271 2040 9345
+		Fin
+		Saisie
+			Variable=2015Montant_81
+			Rectangle=61 9342 2040 9417
+		Fin
+		Saisie
+			Variable=2015Exportation_81
+			Rectangle=61 9414 2040 9488
+		Fin
+		Titre
+			Variable=2015Montant_90
+			Rectangle=61 9485 2040 9559
+		Fin
+		Saisie
+			Variable=2015Montant_90
+			Rectangle=61 9557 2040 9631
+		Fin
+		Saisie
+			Variable=2015Exportation_90
+			Rectangle=61 9628 2040 9702
+		Fin
+		Titre
+			Variable=B1
+			Rectangle=61 9700 2040 9832
+		Fin
+		Saisie
+			Variable=B1
+			Rectangle=61 9829 2040 9940
+		Fin
+		Saisie
+			Variable=B2
+			Rectangle=61 9938 2040 10049
+		Fin
+	Fin
+Fin
