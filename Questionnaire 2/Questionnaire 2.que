@@ -1,0 +1,3853 @@
+Version=5008
+Entête
+	Historique=5.0.0.82(IUT TC - AIX EN;
+	Langue=FR
+	Titre=Questionnairen°2: MINISTERE DE LA SANTE ( DPML et PNDAP )
+	Commentaire=Questionnarire d'évaluation approfondie des systèmes d'approvisionnement et de distribution des médicaments essentiels et des flux financiers dans le secteur public
+	Organisme=OMS
+	StadePanneau=10
+Fin
+Questions
+	Question
+		Libellé=Pays
+		Variable=pays
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Adresse
+		Variable=adresse
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Fax/email
+		Variable=Tel_MS
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom du Ministre de la santé
+		Variable=Nom du ministre de la santé
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom du directeur
+		Variable=nom_dir_santé
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom du responsable de la division de l'approvisionnement  et du suivi des importation
+		Variable=nom_resp_div_appro_suivi_importation
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prénom
+		Variable=nom_pre_evaluateur
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure/Fonction
+		Variable=structure_fonction_eva
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/email
+		Variable=Tél_evaluateur
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prénom
+		Variable=nom_pre_evaluateur1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure/Fonction
+		Variable=structure_fonction_eva1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/email
+		Variable=Tél_evaluateur1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prénom
+		Variable=nom_pre_evaluateur2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure/Fonction
+		Variable=structure_fonction_eva2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/email
+		Variable=Tél_evaluateur2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prénom
+		Variable=nom_pre_evaluateur3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure/Fonction
+		Variable=structure_fonction_eva3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/email
+		Variable=Tél_evaluateur3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom/Prénom
+		Variable=nom_pre_evaluateur4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure/Fonction
+		Variable=structure_fonction_eva4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/email
+		Variable=Tél_evaluateur4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=date_interview_person1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom,prénom de la personne interviewée
+		Variable=nom_person1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction
+		Variable=fonction _prerson1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel_person1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=date_interview_person2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom,prénom de la personne interviewée
+		Variable=nom_person2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction
+		Variable=fonction _prerson2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel_person2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=date_interview_person3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom,prénom de la personne interviewée
+		Variable=nom_person3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction
+		Variable=fonction _prerson3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel_person3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Date de l'interview
+		Variable=date_interview_person4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Nom,prénom de la personne interviewée
+		Variable=nom_person4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Fonction
+		Variable=fonction _prerson4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Tél/Email
+		Variable=tel_person4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=A.1.	Recevez-vous des fonds de vos partenaires pour financer l'achat des catégories de produits ci-dessous?
+		Variable=A-1-recevoir_fond_parte_pour_rev
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=A.2.	Avez-vous des fonds pour financer l'achat des catégories de produits ci-dessous?
+		Variable=A-2-fond-financier
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=a.Antirétroviraux (ARVs) pédiatrique
+		Variable=finance_ARVsP
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financementARVsP
+		Type=4
+		NbDécimales=2
+		TypeNombre=3
+		Format=jj/mm/aaaa hh:nn:ss
+		Consigne=La question n'est pertinente que si finance_ARVsP = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=39
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_ARVsP
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_ARVsP = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=39
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier_ARVsP
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_ARVsP = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=39
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=b.Antirétoviraux (ARVs) adultes
+		Variable=finance_ARVsA
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financementARVsA
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_ARVsA = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=43
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_ARVsA
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_ARVsA = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=43
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier ARVsA
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_ARVsA = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=43
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=c.Antirétoviraux (ARVs) PTME
+		Variable=finance_ARVsPTME
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financementARVsPTME
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_ARVsPTME = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=47
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_ARVsPTME
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_ARVsPTME = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=47
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier ARVs PTME
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_ARVsPTME = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=47
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=d.Médicaments contre les infections opportunistes (IO)
+		Variable=finance_IO
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_IO
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_IO = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=51
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_IO
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_IO = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=51
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier IO
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_IO = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=51
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=e.Combinaisons à base d'artémisine (ACT)
+		Variable=finance_ACT
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_ACT
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_ACT = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=55
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_ACT
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_ACT = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=55
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier ACT
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_ACT = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=55
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=f.KIT PALUDISME GRAVE ( protocole en virgeur en Côte d'Ivoire )
+		Variable=finance_KIT PALUDISME GRAVE
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_KIT PALUDISME GR
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_KIT PALUDISME GRAVE = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=59
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_KIT PALUDISME GRAVE
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_KIT PALUDISME GRAVE = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=59
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier KIT PALUDIS
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_KIT PALUDISME GRAVE = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=59
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=g.Sulfadoxine Pyriméthamine (SP)
+		Variable=finance_SP
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_SP
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_SP = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=63
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_SP
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_SP = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=63
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier_SP
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_SP = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=63
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=h.Antituberculeux (TB)
+		Variable=finance_TB
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_TB = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_TB
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_TB = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=67
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_TB
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_TB = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=67
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier_TB
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_TB = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=67
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=i.Produits SR  ( Contraceptifs )
+		Variable=finance_SR
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_SR
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_SR = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=71
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_SR
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_SR = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=71
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier_SR
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_SR = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=71
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=j.Vaccins du PEV
+		Variable=finance_PEV
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_PEV = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_PEV
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_PEV = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=75
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_PEV
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_PEV = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=75
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier_PEV
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_PEV = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=75
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=13 médicaments prioritaires pour la mère et l'enfant (UNLSCo)
+		Variable=finance_UNLSCo
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_UNLSCo
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_UNLSCo = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=79
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_UNLSCo
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_UNLSCo = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=79
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier_UNLSCo
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_UNLSCo = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=79
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicament MNT (maladie mentale, cancer, diabète, HTA, goutte...)
+		Variable=finance_MNT
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_MNT
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_MNT = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=83
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_MNT
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_MNT = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=83
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier_MNT
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_MNT = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=83
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicament des MTN  (Onchocercose,Schistosomiase,Géohelmintiases,Ulcère de Burili)
+		Variable=finance_des_MTN
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_des_MTN
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_des_MTN = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=87
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_des_MTN
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_des_MTN = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=87
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier_des_MTN
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_des_MTN = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=87
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Kit SONU (Kit d'accouchement, kit césarienne,... )
+		Variable=finance_kit SONU
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_Kit SONU
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_kit SONU = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=91
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_Kit SONU
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_kit SONU = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=91
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier Kit SONU
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_kit SONU = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=91
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Moustiquaires imprégnées (MILDA)
+		Variable=finance_MILDA
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_MILDA
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_MILDA = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=95
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_MILDA
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_MILDA = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=95
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature de l'appui financier MILDA
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_MILDA = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=95
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicaments essentiels recouvrables
+		Variable=finance_MeRCOUVRABLE
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_MeRECOUVRABLE
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_MeRCOUVRABLE = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=99
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_MeRECOUVRABLE
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_MeRCOUVRABLE = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=99
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature delappui financier MeRECOUVRABLE
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_MeRCOUVRABLE = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=99
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicaments essentiels de la gratuité ciblée
+		Variable=finance_MeGRATCIB
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_MeGRATCIB
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_MeGRATCIB = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=103
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_MeGRATCIB
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_MeGRATCIB = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=103
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature delappui financier MeGRATCIB
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_MeGRATCIB = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=103
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Dispositifs Médicaux (DM)
+		Variable=finance_DM
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_DM
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_DM = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=107
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_DM
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_DM = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=107
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature delappui financier DM
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_DM = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=107
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Réactifs (Test de diagnostic HIV/SIDA, Tests diagnostic palu, etc )
+		Variable=finance_Réactifs
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_Réactifs
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_Réactifs = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=111
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_Réactifs
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_Réactifs = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=111
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature delappui financier Réactifs
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_Réactifs = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=111
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Réactifs pour la sécurité du sang (CNTS)
+		Variable=finance_CNTS
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_CNTS
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Consigne=La question n'est pertinente que si finance_CNTS = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_CNTS
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_CNTS = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature delappui financier CNTS
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_CNTS = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=financement_ARVsP = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=115
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Médicaments contre l'hépatite B /hépatite C
+		Variable=finance_hépatiteB/C
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_hépatiteC/B
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_hépatiteB/C = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=119
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_hépatiteB/C
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_hépatiteB/C = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=119
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature delappui financier hépatiteB/C
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_hépatiteB/C = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_hépatiteB/C = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=119
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Stupéfiants
+		Variable=finance_Stupéfiants
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_Stupéfiants
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_Stupéfiants = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=123
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_Stupéfiants
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_Stupéfiants = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=123
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature delappui financier Stupéfiants
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_Stupéfiants = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_Stupéfiants  = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=123
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Produits de nutrition
+		Variable=finance_ProNutri
+		Type=1
+		NbModalités=2
+		Modalités=oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD  pour 2015
+		Variable=budget2015_financement_ProNutri
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_ProNutri = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=ARVsp = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=127
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=fin_appui_ProNutri
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_ProNutri = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_MNT = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=127
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=Nature delappui financier ProNutri
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; prêt ; autre ;
+		Pondérations= 0 0 1 2
+		Consigne=La question n'est pertinente que si finance_ProNutri = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_ProNutri = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=127
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Autres , à précisez
+		Variable=autre_categorie medicament
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si A-2-fond-financier = "oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=A-1-organisation-apport-financier = "oui"
+			Filtre
+				Opérateur=-1
+				Variable=38
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget 2015
+		Variable=autre_categorie medicament Budget 2015
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si autre_categorie medicament = <Réponse effective>
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=Autres , à précisez <> ' '
+			Filtre
+				Opérateur=-1
+				Variable=131
+				Compris=2
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Date de fin de l'appui
+		Variable=autre_categorie_médicament_fin_appui
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si autre_categorie medicament = <Réponse effective>
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=autre_categorie medicament <> ' '
+			Filtre
+				Opérateur=-1
+				Variable=131
+				Compris=2
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Nature de l'appui financier ( 1 = Dons ; 2 = prêt ; 3= autre )
+		Variable=autre_categorie_medicament_Nature_appui
+		Type=1
+		NbModalités=3
+		Modalités=Dons ; Prêt ; Autres ;
+		Pondérations= 0
+		Consigne=La question n'est pertinente que si autre_categorie medicament = <Réponse effective>
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=autre_categorie medicament <> ' '
+			Filtre
+				Opérateur=-1
+				Variable=131
+				Compris=2
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=ESt-ce que votre organisation apporte un appui financier pour l'approvisionnement , la gestion et la distribution/dispensation des produits qu'elle finance ?
+		Variable=finance_appro
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Honoraires pour l'agence d'approvisionnement
+		Variable=finance_Honoraie_agence_dapro
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si finance_appro = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_appro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=135
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=finance_budget2015_Horaire_agence_dapro
+		Type=4
+		NbDécimales=2
+		TypeNombre=3
+		Format=jj/mm/aaaa hh:nn:ss
+		Consigne=La question n'est pertinente que si finance_Honoraie_agence_dapro = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_Honoraie_agence_dapro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=136
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Frais de gestion pour les structures chargées de la gestion, distribution,dispensation des produits
+		Variable=finance_frais_de_ges_struc_ges
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si finance_appro = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_appro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=135
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=finance_budget2015_frais_ges_struc_ges
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_frais_de_ges_struc_ges = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=Honoraie_agence_dapro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=138
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Amélioration des magasins de stockage( rénovation , achat d'équipements de stockage , de frigos , installation de climatisation etc... )
+		Variable=finance_Ameliration_des_mag_stockage
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si finance_appro = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_appro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=135
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=finance_budget2015_Ameliration_mag_stok
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_Ameliration_des_mag_stockage = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=Honoraie_agence_dapro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=140
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Achat de véhicules pour la distribution
+		Variable=finance_achat_véhicule_dist
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si finance_appro = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_appro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=135
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=finance_budget2015_achat_véhicule_dist
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_achat_véhicule_dist = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=Honoraie_agence_dapro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=142
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Rémunération du personnel
+		Variable=finance_Rémunération_du_personnel
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si finance_appro = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_appro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=135
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=finance_budget2015_remuneration_du_pers
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_Rémunération_du_personnel = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=Honoraie_agence_dapro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=144
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Formation du personnel à la gestion
+		Variable=finance_Formation_personnel
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si finance_appro = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_appro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=135
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=finance_budget2015_formation_personnel
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_Formation_personnel = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=Honoraie_agence_dapro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=146
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Achat de logiciels pour la quantification et/ou la gestion des stocks et/ou la dispensation etc...
+		Variable=finance_achat_logiciel
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si finance_appro = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_appro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=135
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=finance_budget2015_achat_logiciel
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si finance_achat_logiciel = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=Honoraie_agence_dapro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=148
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Autres, à préciser
+		Variable=Autres_préciser_activité
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si finance_appro = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=finance_appro = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=135
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Budget en USD pour 2015
+		Variable=budget_finance_autre
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si Autres_préciser_activité = <Réponse effective>
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=Autres, à préciser <> ' '
+			Filtre
+				Opérateur=-1
+				Variable=150
+				Compris=2
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Mon organisation
+		Variable=Selection_Produit_FC
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Un service technique du Ministère de la Santé ?
+		Variable=Selection_Produit_Un_servicetchMinister
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=34
+	Fin
+	Question
+		Libellé=Si 'Oui', lequel ?
+		Variable=Selection_Produit_Un_servicetchMinister_
+		Type=6
+		NbLignes=0
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Le programme de santé national bénéficiant de l'appui ?
+		Variable=Selection_Produit_PSN_bénéf_appui
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=La centrale d'achat nationale
+		Variable=Selection_Produit_Cental_dachat_nationa
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Le FC  avec un service technique du Ministère de la santé ?
+		Variable=Selection_Produit_FC_et_MS
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Le FC  avec le Programme de santé national ?
+		Variable=Selection_Produit_FC_et_PSN
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Le Fc avec la centrale d'achat  ?
+		Variable=Selection_Produit_C_et_CentAcha
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Autres , à préciser
+		Variable=Selection_Produit_Autre
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=B.2. La sélection des produits est-elle limitée aux produits de la Liste Nationale des Médicaments Essentiels(LNME) et ou Directive de traitement standard du pays ?
+		Variable=selection_prod_organism_LNME
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si Selection_Produit_FC = "Non"
+		Plan=1
+		Attributs=98
+		Restriction
+			Nom=Selection_Produit_Mon_Organisation  = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=152
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Si 'Non', pourquoi :
+		Variable=selection_prod_organism_LNME_AUTRE
+		Type=6
+		NbLignes=0
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Mon organisation
+		Variable=respon_quanti_plani_Monorganims
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Un service technique du Ministère de la santé ?
+		Variable=respon_quanti_plani_STMS
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=34
+	Fin
+	Question
+		Libellé=Si 'Oui', lequel?
+		Variable=respon_quanti_plani_STMS_Precis
+		Type=6
+		NbLignes=0
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Programme national bénéficiant de l'appui ?
+		Variable=respon_quantiplani_PN_bénéficiantdappui
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=La centrale d'achat nationale
+		Variable=respon_quanti_plani_CAN
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=FC avec le Ministère de la Santé
+		Variable=respon_quanti_plani_FC_Ms
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=FC avec le Progamme de  santé national
+		Variable=respon_quanti_plani_FC_PSN
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=FC avec la centrale d'achat
+		Variable=respon_quanti_plani_FC_CAN
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Autres , à préciser
+		Variable=Autres , à préciser
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=C.2.Existe-il une structure/mécanisme pour la coordination avec les partenaires qui ne sont pas dans le panier commun pour la quantification/planification des besoins des produits?
+		Variable=existance_d_structur_pour_quanti_plani
+		Type=1
+		NbModalités=2
+		Modalités=Non ; Oui ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=34
+	Fin
+	Question
+		Libellé=C.3.	 Si oui, décrivez brièvement le fonctionnement de la structure/mécanisme de coordination (statut, type de fonctionnement, fréquence des rencontres, liste des partenaires, forces et faiblesses…..)
+		Variable=existance_d_structur_pour_quanti_plani_A
+		Type=6
+		NbLignes=10
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Un service technique du Ministère de la santé ?
+		Variable=agence_aprovisionnement_STMS
+		Type=1
+		NbModalités=2
+		Modalités=NON ; OUI ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=34
+	Fin
+	Question
+		Libellé=Si 'OUI', préciser quelle direction /département :
+		Variable=agence_aprovisionnement_STMS_precis
+		Type=6
+		NbLignes=0
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Un programme de santé national
+		Variable=agence_aprovisionnement_PSN
+		Type=1
+		NbModalités=2
+		Modalités=NON ; OUI ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=34
+	Fin
+	Question
+		Libellé=Si 'OUI', précisez le nom du programe de santé  :
+		Variable=agence_aprovisionnement_PSN_precis
+		Type=6
+		NbLignes=0
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=La centrale d'achat nationale
+		Variable=agence_aprovisionnement_CAN
+		Type=1
+		NbModalités=2
+		Modalités=NON ; OUI ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Une agence d'approvisionnement externe (UNICEF , IAPSO....)
+		Variable=agence_aprovisionnement_externe
+		Type=1
+		NbModalités=2
+		Modalités=NON ; OUI ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=34
+	Fin
+	Question
+		Libellé=Si 'OUI', préciser le nom de l'agence d'approvisionnement utilisée :
+		Variable=agence_aprovisionnement_externe_precis
+		Type=6
+		NbLignes=0
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Vous meme
+		Variable=agence_aprovisionnement_vous_meme
+		Type=1
+		NbModalités=2
+		Modalités=NON ; OUI ;
+		Pondérations= 0 0 1
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Autre , à préciser :
+		Variable=agence_aprovisionnement_Autre
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Restirction imposée par les procédures financières  de mon organisme
+		Variable=no_use_lacentrale_dachatcaus_RIPFMO
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si agence_aprovisionnement_CAN = "NON"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=agence_aprovisionnement_CAN = "NON"
+			Filtre
+				Opérateur=-1
+				Variable=178
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Restriction imposée par les procédures d'achat de mon organisation
+		Variable=no_use_CA_caus_PADMO
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si agence_aprovisionnement_CAN = "NON"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=agence_aprovisionnement_CAN = "NON"
+			Filtre
+				Opérateur=-1
+				Variable=178
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Les bailleurs pensent que la  centrale d'achat n'a pas les capacités techniques
+		Variable=no_use_CA_cause_pas_capacité_technique
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si agence_aprovisionnement_CAN = "NON"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=agence_aprovisionnement_CAN = "NON"
+			Filtre
+				Opérateur=-1
+				Variable=178
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Le délai d'approvisionnement de la centrale sont trop élevés
+		Variable=no_use_CA_cause_delai_long
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si agence_aprovisionnement_CAN = "NON"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=agence_aprovisionnement_CAN = "NON"
+			Filtre
+				Opérateur=-1
+				Variable=178
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Le prix des médicaments de la centrale sont trop élevés
+		Variable=no_use_CA_cause_prix_élevé
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Consigne=La question n'est pertinente que si agence_aprovisionnement_CAN = "NON"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=agence_aprovisionnement_CAN = "NON"
+			Filtre
+				Opérateur=-1
+				Variable=178
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Si 'Autre', précisez :
+		Variable=explication_du_non_choix_de_CAN_AUTRE
+		Type=6
+		NbLignes=0
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si agence_aprovisionnement_CAN = "NON"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=agence_aprovisionnement_CAN = "NON"
+			Filtre
+				Opérateur=-1
+				Variable=178
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=D.3.L'agence d'approvisionnement utilisée pour vos achats dispose-t-elle d'une politique/directive pour l'achat des produits pharmaceutiques?
+		Variable=D-3
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Les produits doivent être pré-qualifiés par l'OMS (si applicable: produits SIDA/PALU/TB )
+		Variable=qualité_medicam_pré_qualifié_OMS
+		Type=1
+		NbModalités=3
+		Modalités=Oui ; NON ; NSP ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si D-3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=polotique_dirictive_achat_des_produits = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=189
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Les produits doivent être enregistrés dans un pays dont l'autorité de règlementation est rigoureux (ICH/ICP)
+		Variable=qualité_medicam_autorité_pays_rigoureux
+		Type=1
+		NbModalités=3
+		Modalités=Oui ; NON ; NSP ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si D-3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=polotique_dirictive_achat_des_produits = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=189
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Les produits doivent être enregistrés dans le pays bénéficiaire
+		Variable=qualité_medicam_enregistré_paysbenefi
+		Type=1
+		NbModalités=3
+		Modalités=Oui ; NON ; NSP ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si D-3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=polotique_dirictive_achat_des_produits = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=189
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Si non , quelle démarche effectuez vous pour importer les produits dans le pays?
+		Variable=qualité_médicament_autre
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si qualité_medicam_enregistré_paysbenefi = "NON"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=qualité_medicam_enregistré_paysbenefi = "NON"
+			Filtre
+				Opérateur=-1
+				Variable=192
+				Compris=1
+				Modalités= 0 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Autres , à préciser
+		Variable=autre_critere_qualité
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si D-3 = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=polotique_dirictive_achat_des_produits = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=189
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Un côntrole de qualité est-il effectué sur un échantillon des produits achetés?
+		Variable=controle_qualité_medicament_acheté
+		Type=1
+		NbModalités=2
+		Modalités=Oui ; Non ;
+		Pondérations= 0 1 0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Laboratoire National de Contrôle de qualité
+		Variable=lab_controle_qualité_LNCQ
+		Type=1
+		NbModalités=3
+		Modalités=Oui ; Non ; NSP ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si controle_qualité_medicament_acheté = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=controle_qualité_medicament_acheté = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=195
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Un laboratoire pré-qualifié par l'OMS
+		Variable=lab_controle_qualité_LabOMS
+		Type=1
+		NbModalités=3
+		Modalités=Oui ; Non ; NSP ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si controle_qualité_medicament_acheté = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=controle_qualité_medicament_acheté = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=195
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Un laboratoire ISO17025
+		Variable=lab_controle_qualité_LabISO
+		Type=1
+		NbModalités=3
+		Modalités=Oui ; Non ; NSP ;
+		Pondérations= 0 1 0 -1
+		Consigne=La question n'est pertinente que si controle_qualité_medicament_acheté = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=controle_qualité_medicament_acheté = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=195
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Autre, à préciser
+		Variable=lab_controle_qualité_LabAutre
+		Type=6
+		NbLignes=1
+		NbCarLigne=0
+		Consigne=La question n'est pertinente que si controle_qualité_medicament_acheté = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=controle_qualité_medicament_acheté = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=195
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=D.7. Nombre de produits testés l'année précédente ?
+		Variable=côntrole_qualité_quantité_testé
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si controle_qualité_medicament_acheté = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=controle_qualité_medicament_acheté = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=195
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=D.8. Nombre de produits non conforme ?
+		Variable=côntrole_qualité_quantité_non_conforme
+		Type=4
+		NbDécimales=5
+		TypeNombre=4
+		Format=#################################################
+		Consigne=La question n'est pertinente que si controle_qualité_medicament_acheté = "Oui"
+		Plan=1
+		Attributs=96
+		Restriction
+			Nom=controle_qualité_medicament_acheté = "Oui"
+			Filtre
+				Opérateur=-1
+				Variable=195
+				Compris=1
+				Modalités= 0 1
+				Numérique=0
+			Fin
+		Fin
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=F-1-a-1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Agence d'approvisionnement
+		Variable=F-1-a-2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=1er Point de livraison
+		Variable=F-1-a-3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2ème point de livraison
+		Variable=F-1-a-4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=3ème point de livraison
+		Variable=F-1-a-5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure dispensatrice
+		Variable=F-1-a-6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Dispensation Communautaire
+		Variable=F-1-a-7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=F-1-b-1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Agence d'Approvisionnement
+		Variable=F-1-b-2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=1ere point de livraison
+		Variable=F-1-b-3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2ème point de livraison
+		Variable=F-1-b-4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=3ème point de livraison
+		Variable=F-1-b-5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure dispensatrice
+		Variable=F-1-b-6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Dispensation communautaire
+		Variable=F-1-b-7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=F-1-c-1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Agence d'approvisionnement
+		Variable=F-1-c-2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=1er point de livraison
+		Variable=F-1-c-3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2ème point de livraison
+		Variable=F-1-c-4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=3ème point de livraison
+		Variable=F-1-c-5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure dispensatrice
+		Variable=F-1-c-6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Dispensation
+		Variable=F-1-c-7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=F-1-d-1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Agence d'approvisionnement
+		Variable=F-1-d-2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=1er point de livraison
+		Variable=F-1-d-3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2ème point de livraison
+		Variable=F-1-d-4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=3ème point de livraison
+		Variable=F-1-d-5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure dispensatrice
+		Variable=F-1-d-6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Dispensation Communautaire
+		Variable=F-1-d-7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=F-1-f-1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Agence d'approvisionnement
+		Variable=F-1-f-2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=1er  point de livraison
+		Variable=F-1-f-3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2ème  point de livraison
+		Variable=F-1-f-4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=3ème  point de livraison
+		Variable=F-1-f-5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure dispensatrice
+		Variable=F-1-f-6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Dispensation communautaire
+		Variable=F-1-f-7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Catégorie de produit
+		Variable=F-1-g-1
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Agence d'approvisionnement
+		Variable=F-1-g-2
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=1er  point de livraison
+		Variable=F-1-g-3
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=2ème  point de livraison
+		Variable=F-1-g-4
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=3ème  point de livraison
+		Variable=F-1-g-5
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Structure dispensatrice
+		Variable=F-1-g-6
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=Dispensation communautaire
+		Variable=F-1-g-7
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+	Question
+		Libellé=COMMENTAIRE : Notez dans l'espace ci-dessus toutes les informations que vous jugez utiles d'inclure dans cette étude
+		Variable=commenataire_jugez_utile
+		Type=6
+		NbLignes=2
+		NbCarLigne=0
+		Plan=1
+		Attributs=32
+	Fin
+Fin
+Titres
+	Titre
+		Type=0
+		Libellé=Liste des évaluateur
+		Première=6
+	Fin
+	Titre
+		Type=0
+		Libellé=Liste des personnes interviewées
+		Première=21
+	Fin
+	Titre
+		Type=0
+		Libellé=A. FINANCEMENT
+		Première=37
+	Fin
+	Titre
+		Type=0
+		Libellé=A.3
+		Première=135
+	Fin
+	Titre
+		Type=0
+		Libellé=B. selection des produits
+		Première=152
+	Fin
+	Titre
+		Type=0
+		Libellé=B.2
+		Première=161
+	Fin
+	Titre
+		Type=0
+		Libellé=C.QUANTIFICATION/PLANIFICATION DES BESOINS
+		Première=163
+	Fin
+	Titre
+		Type=0
+		Libellé=C.2
+		Première=172
+	Fin
+	Titre
+		Type=0
+		Libellé=D.ACQUISITION
+		Première=174
+	Fin
+	Titre
+		Type=0
+		Libellé=D.1
+		Première=174
+	Fin
+	Titre
+		Type=0
+		Libellé=D.2
+		Première=183
+	Fin
+	Titre
+		Type=0
+		Libellé=D.3
+		Première=189
+	Fin
+	Titre
+		Type=0
+		Libellé=D.4
+		Première=190
+	Fin
+	Titre
+		Type=0
+		Libellé=D.5
+		Première=195
+	Fin
+	Titre
+		Type=0
+		Libellé=D.6
+		Première=196
+	Fin
+	Titre
+		Type=0
+		Libellé=E. circuit
+		Première=202
+	Fin
+Fin
+Options
+	GroupesActifs=1
+	RenvoisActifs=1
+	ControlesActifs=1
+Fin
